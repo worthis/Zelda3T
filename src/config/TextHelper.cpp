@@ -497,77 +497,77 @@ string TextHelper::getCommonValue(string tag)
 {
     if (tag == "EPEE")
     {
-        Text *tmp = KeyBinder::getInstance()->getTextForType(BT_EPEE);
+        Text *tmp = JoystickBinder::getInstance()->getTextForType(BT_EPEE);
         string result = tmp->getText();
         delete tmp;
         return result;
     }
     if (tag == "CARTE")
     {
-        Text *tmp = KeyBinder::getInstance()->getTextForType(BT_CARTE);
+        Text *tmp = JoystickBinder::getInstance()->getTextForType(BT_CARTE);
         string result = tmp->getText();
         delete tmp;
         return result;
     }
     if (tag == "ACTION")
     {
-        Text *tmp = KeyBinder::getInstance()->getTextForType(BT_ACTION);
+        Text *tmp = JoystickBinder::getInstance()->getTextForType(BT_ACTION);
         string result = tmp->getText();
         delete tmp;
         return result;
     }
     if (tag == "MONSTERS")
     {
-        Text *tmp = KeyBinder::getInstance()->getTextForType(BT_MONSTERS);
+        Text *tmp = JoystickBinder::getInstance()->getTextForType(BT_MONSTERS);
         string result = tmp->getText();
         delete tmp;
         return result;
     }
     if (tag == "TROC")
     {
-        Text *tmp = KeyBinder::getInstance()->getTextForType(BT_TROC);
+        Text *tmp = JoystickBinder::getInstance()->getTextForType(BT_TROC);
         string result = tmp->getText();
         delete tmp;
         return result;
     }
     if (tag == "POISSONS")
     {
-        Text *tmp = KeyBinder::getInstance()->getTextForType(BT_POISSONS);
+        Text *tmp = JoystickBinder::getInstance()->getTextForType(BT_POISSONS);
         string result = tmp->getText();
         delete tmp;
         return result;
     }
     if (tag == "COURSE")
     {
-        Text *tmp = KeyBinder::getInstance()->getTextForType(BT_COURSE);
+        Text *tmp = JoystickBinder::getInstance()->getTextForType(BT_COURSE);
         string result = tmp->getText();
         delete tmp;
         return result;
     }
     if (tag == "INVENTAIRE")
     {
-        Text *tmp = KeyBinder::getInstance()->getTextForType(BT_INVENTAIRE);
+        Text *tmp = JoystickBinder::getInstance()->getTextForType(BT_INVENTAIRE);
         string result = tmp->getText();
         delete tmp;
         return result;
     }
     if (tag == "OBJECT")
     {
-        Text *tmp = KeyBinder::getInstance()->getTextForType(BT_OBJET);
+        Text *tmp = JoystickBinder::getInstance()->getTextForType(BT_OBJET);
         string result = tmp->getText();
         delete tmp;
         return result;
     }
     if (tag == "ONILINK")
     {
-        Text *tmp = KeyBinder::getInstance()->getTextForType(BT_ONILINK);
+        Text *tmp = JoystickBinder::getInstance()->getTextForType(BT_ONILINK);
         string result = tmp->getText();
         delete tmp;
         return result;
     }
     if (tag == "TELEPORT")
     {
-        Text *tmp = KeyBinder::getInstance()->getTextForType(BT_TELEPORT);
+        Text *tmp = JoystickBinder::getInstance()->getTextForType(BT_TELEPORT);
         string result = tmp->getText();
         delete tmp;
         return result;

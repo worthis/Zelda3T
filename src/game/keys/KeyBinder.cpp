@@ -68,7 +68,7 @@ Keys KeyBinder::getDefaultKey(BindableType type)
     case BT_TELEPORT:
         return kT;
     default:
-        return kUp;
+        return NB_KEYS;
     }
 }
 

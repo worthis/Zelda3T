@@ -17,6 +17,10 @@ WindowManager::WindowManager() : fullScreen(FULLSCREEN), event(0), joystick(0), 
 	buttonRB = false;
 	buttonLS = false;
 	buttonRS = false;
+	buttonUp = false;
+	buttonDown = false;
+	buttonLeft = false;
+	buttonRight = false;
 }
 
 WindowManager::~WindowManager()
@@ -168,18 +172,26 @@ Event *WindowManager::getEvent()
 				buttonX = true;
 			else if (sdlEvent.jbutton.button == 3)
 				buttonY = true;
-			else if (sdlEvent.jbutton.button == 4)
-				buttonLB = true;
-			else if (sdlEvent.jbutton.button == 5)
-				buttonRB = true;
 			else if (sdlEvent.jbutton.button == 6)
-				buttonSelect = true;
+				buttonLB = true;
 			else if (sdlEvent.jbutton.button == 7)
+				buttonRB = true;
+			else if (sdlEvent.jbutton.button == 11)
+				buttonSelect = true;
+			else if (sdlEvent.jbutton.button == 10)
 				buttonStart = true;
-			else if (sdlEvent.jbutton.button == 8)
+			else if (sdlEvent.jbutton.button == 4)
 				buttonLS = true;
-			else if (sdlEvent.jbutton.button == 9)
+			else if (sdlEvent.jbutton.button == 5)
 				buttonRS = true;
+			else if (sdlEvent.jbutton.button == 13)
+				buttonUp = true;
+			else if (sdlEvent.jbutton.button == 15)
+				buttonDown = true;
+			else if (sdlEvent.jbutton.button == 12)
+				buttonLeft = true;
+			else if (sdlEvent.jbutton.button == 14)
+				buttonRight = true;
 			break;
 		case SDL_JOYBUTTONUP:
 			if (sdlEvent.jbutton.button == 0)
@@ -190,18 +202,26 @@ Event *WindowManager::getEvent()
 				buttonX = false;
 			else if (sdlEvent.jbutton.button == 3)
 				buttonY = false;
-			else if (sdlEvent.jbutton.button == 4)
-				buttonLB = false;
-			else if (sdlEvent.jbutton.button == 5)
-				buttonRB = false;
 			else if (sdlEvent.jbutton.button == 6)
-				buttonSelect = false;
+				buttonLB = false;
 			else if (sdlEvent.jbutton.button == 7)
+				buttonRB = false;
+			else if (sdlEvent.jbutton.button == 11)
+				buttonSelect = false;
+			else if (sdlEvent.jbutton.button == 10)
 				buttonStart = false;
-			else if (sdlEvent.jbutton.button == 8)
+			else if (sdlEvent.jbutton.button == 4)
 				buttonLS = false;
-			else if (sdlEvent.jbutton.button == 9)
+			else if (sdlEvent.jbutton.button == 5)
 				buttonRS = false;
+			else if (sdlEvent.jbutton.button == 13)
+				buttonUp = false;
+			else if (sdlEvent.jbutton.button == 15)
+				buttonDown = false;
+			else if (sdlEvent.jbutton.button == 12)
+				buttonLeft = false;
+			else if (sdlEvent.jbutton.button == 14)
+				buttonRight = false;
 			break;
 		}
 	}
@@ -228,6 +248,14 @@ Event *WindowManager::getEvent()
 			event->setEvent(jLS, true);
 		if (buttonRS)
 			event->setEvent(jRS, true);
+		if (buttonUp)
+			event->setEvent(jUp, true);
+		if (buttonDown)
+			event->setEvent(jDown, true);
+		if (buttonLeft)
+			event->setEvent(jLeft, true);
+		if (buttonRight)
+			event->setEvent(jRight, true);
 
 		// hats
 		Uint8 hats = SDL_JoystickGetHat(joystick, 0);
