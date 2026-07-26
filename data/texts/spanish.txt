@@ -1,0 +1,1728 @@
+PRESIONA ENTER
+PANTALLA DE SELECCION
+OPCIONES
+RECORDS
+CARGAR
+BORRAR
+ANULAR
+¿BORRAR?
+SI
+NO
+JUEGO
+CONTROLES
+AUDIO
+ATRAS
+VISUALIZACION:
+PANTALLA COMPLETA
+VENTANA
+IDIOMA:                           ESPANOL
+LINK:
+ORIGINAL
+RUBIO
+MUSICA:
+SONIDO:
+TECLADO
+MANDO
+NO SE HA DETECTADO NINGUN MANDO
+PAGINA 1/2
+PAGINA 2/2
+ARRIBA:
+ABAJO:
+IZQUIERDA:
+DERECHA:
+CORRER:
+ESPADA:
+OBJETO:
+ACCION:
+MENU:
+SALIR:
+MAPA:
+BESTIARIO:
+ARTICULOS DE INTERCAMBIO:
+PECES:
+TRANSFORMACION ONI-LINK:
+TELEPORTACION (ONI-LINK):
+DEFECTO
+¿CONFIRMAR?
+ESC
+TAB
+SHIFT
+ESPACIO
+ENTER
+ARRIBA
+ABAJO
+IZQUIERDA
+DERECHA
+SI
+NO
+TIPO DE TECLADO:
+AZERTY
+QWERTY
+CAMARA:
+PAGINA 1/3
+PAGINA 2/3
+PAGINA 3/3
+MEJOR TIEMPO:
+RANGO DEL 100 %
+RANGO DEFINITIVO
+RANGO DE RAPIDEZ
+RANGO: DESCONOCIDO
+RANGO: Héroe de Hyrule
+RANGO: Creído
+RANGO: Maratonista de Hyrule
+RANGO: Héroe de Termina
+RANGO: Fanfarrón
+RANGO: Maratonista de Termina
+RANGO: Héroe del Tiempo
+RANGO: Orgulloso
+RANGO: Maratonista del Tiempo
+RANGO: Héroe de los dos Mundos
+RANGO: Maestro de Esgrima
+RANGO: Maratonista de los dos Mundos
+RANGO: Héroe Legendario
+RANGO: Maestro de Espadas Legendario
+RANGO: Maratonista Legendario
+Completar el juego al 100 %.
+Completar el juego sin morir,
+con un máximo de 12 corazones
+y sin botellas.
+Completar el juego en menos de
+siete horas.
+Después de los eventos ocurridos en Termina, la princesa Zelda puso fin al exilio de Link, anunciando a la gente la victoria del héroe sobre su malvado alter-ego.
+Pero el Caballero Hyliano, incapaz de aceptar su estatus de héroe, se fue a vivir como un ermitaño en un bosque que le dio la princesa.
+La existencia de Termina se tenía que mantener en secreto, por lo tanto, la princesa ocultó los eventos que tomaron lugar allí y dejó vivir a la gente en una aparente paz.
+Pero ambos sabían perfectamente que, desde el fondo del infierno, Ganon el inmortal aumentaba su poder el primer deseo a la Trifuerza, y reunió su ejército con la visión de invadir Hyrule.
+Hasta el día en que, después de meses de espera cuidándose de un ataque, un evento sucedió y puso fin a la interminable espera...
+HOLAAAA !!!                                     SENOR LINK !!!
+AYUDA: Presiona F1 para consultar la ayuda.
+¿Deseas interrumpir la partida?                                    [c=2]CONTINUAR[c=0]                                     GRABAR Y SALIR                                 SALIR SIN GRABAR
+¿Deseas interrumpir la partida?                                    [c=0]CONTINUAR                                     [c=2]GRABAR Y SALIR[c=0]                                 SALIR SIN GRABAR
+¿Deseas interrumpir la partida?                                    [c=0]CONTINUAR                                     GRABAR Y SALIR                                 [c=2]SALIR SIN GRABAR
+¡Has encontrado una pieza de corazón!
+Reúne [v=1] más y conseguirás un contenedor de corazón.
+¡Ha aumentado el número de contenedores que llevas!
+¡Has encontrado una botella!
+Se puede usar para almacenar pociones.
+¡Has encontrado un escudo!                      Tu defensa sube un punto.
+¡Has encontrado un espada pequeña!              Presiona [EPEE] para atacar enemigos o cortar hierba.
+¡Mantén [EPEE] presionado para lanzar un ataque circular!
+ARCO
+ARCO DE LAS HADAS
+GANCHO
+BOMBAS
+FLECHAS DE FUEGO
+GEMA ROJA
+YUNQUE
+HERRADURA
+JOYA
+CARTA
+ANILLO DE BODAS
+MARTILLO
+VARA DE FUEGO
+VARA DE HIELO
+LINTERNA
+FLECHAS DE HIELO
+GEMA AZUL
+BOTA VIEJA
+MARTILLO PESADO
+CAMPANILLA
+HACHA
+SOGA
+PLANO DE PUENTE
+MARTILLO MAGICO
+OCARINA DEL TIEMPO
+CANA DE PESCAR
+SUPERCANA DE PESCAR
+MEGACANA DE PESCAR
+FLECHAS DE LUZ
+GEMA AMARILLA
+BOTELLA DE VINO
+POLVO DE ORO
+ESPEJO MÁGICO
+CUCHARA
+CALABERA
+PAGARE
+SERRUCHO
+GEMA VERDE
+MAPA
+ESCOBA
+JARRO DE MERMELADA
+CRUASAN
+CERVEZA
+CLAVOS
+BOTELLA VACÍA
+POCION ROJA
+POCION VERDE
+POCION AZUL
+EQUIPAMIENTO:
+Aquí no se puede pescar, busca un pontón.
+Parece que aquí no hay peces...
+No has atrapado nada...
+Atrapaste un cangrejo de río!
+Atrapaste un eperlano!
+Atrapaste un pez zebra!
+Atrapaste un goby!
+Atrapaste un cangrejo!
+Atrapaste un anguila larva!
+Atrapaste un pececillo!
+Atrapaste una carpa dorada!
+Atrapaste una breca!
+Atrapaste un gobio!
+Atrapaste una locha!
+Atrapaste un espinoso!
+Atrapaste una acerina!
+Atrapaste un blennioidei!
+Atrapaste un magikarp!
+Atrapaste una trucha!                           Es un pez grande!
+Atrapaste un ayu!                               Es un pez grande!
+Atrapaste una perca negra!                      Es un pez grande!
+Atrapaste una anguila!                          Es un pez grande!
+Atrapaste un bagre!                             Es un pez grande!
+Atrapaste una perca americana!                  Es un pez grande!
+Atrapaste un hucho!                             Es un pez grande!
+Atrapaste un barbo!                             Es un pez grande!
+Atrapaste una lamprea!                          Es un pez grande!
+Atrapaste un nasus!                             Es un pez grande!
+Atrapaste un salmón!                            Este pez es enorme!
+Atrapaste un esturión!                          Este pez es enorme!
+Atrapaste una trucha ártica!                    Este pez es enorme!
+Atrapaste una carpa!                            Este pez es enorme!
+Atrapaste un ameirus nebulosus!                 Este pez es enorme!
+No hizo efecto...
+PECES 1
+PECES 2
+PECES 3
+PECES 4
+PECES 5
+PECES 6
+Cangrejo
+Eperlano
+Pez zebra
+Goby
+Cangrejo
+Anguila larva
+Pececillo
+Carpa dorada
+Breca
+Gobio
+Locha
+Espinoso
+Acerina
+Blennioidei
+Magikarp
+Trucha
+Ayu
+Perca negra
+Anguila
+Bagre
+Perca americana
+Hucho
+Barbo
+Lamprea
+Nasus
+Salmón
+Esturión
+Trucha ártica
+Carpa
+Ameirus nebulosus
+???
+Casa de Link                                                                                    No acercarse.
+N: A la Aldea Kakariko
+E : A la Ciudad Hyrule
+Buenos días Sr. Link!                           Luce espantoso, estaba durmiendo?
+La princesa quiere verte con urgencia en el castillo!
+...
+...
+El castillo. Al este, no me digas que lo has olvidado?
+Hem Hem...
+TUTORIAL : Presiona [ACTION] cerca de alguien para hablarle, o cerca de un letrero para leerlo.
+Has encontrado una gema de poder!                                                               Intercámbiala en la ciudad por premios.
+No has aprendido ninguna canción.
+[c=2]- CANCION DEL TIEMPO INVERTIDA[c=0]                  - No tocar
+[c=0]- Canción del tiempo Invertida                  [c=2]- NO TOCAR
+[c=2]- CANCION DEL TIEMPO INVERTIDA[c=0]                  - Canción del Tiempo Doble                      - No tocar
+- Canción del tiempo Invertida                  [c=2]- CANCION DEL TIEMPO DOBLE[c=0]                      - No tocar
+[c=0]- Canción del tiempo Invertida                  - Canción del Tiempo Doble                      [c=2]- NO TOCAR
+[c=2]- CANCION DE VUELO[c=2]                              - Canción del tiempo Invertida                  - Canción del Tiempo Doble                      - No tocar
+- Canción de vuelo                              [c=2]- CANCION DEL TIEMPO INVERTIDA[c=0]                  - Canción del Tiempo Doble                      - No tocar
+- Canción de vuelo                              - Canción del tiempo Invertida                  [c=2]- CANCION DEL TIEMPO DOBLE[c=0]                      - No tocar
+[c=0]- Canción de vuelo                              - Canción del tiempo Invertida                  - Canción del Tiempo Doble                      [c=2]- NO TOCAR
+No hizo efecto...
+Casa de Link                                    Propiedad privada
+Ciudad Hyrule
+N: Al Castillo de Hyrule
+Parece un buen lugar para construir un puente.
+El castillo está al norte, apresúrate!
+El castillo está al otro lado del puente, corre!
+La princesa está esperrándote en el castillo, al norte de aquí.
+A veces, en mi sueño, me los como asados...
+Este pueblo está lleno de tiendas de todos los tipos, lástima que no estoy interesado en ninguna...
+Desde el retorno de la paz, la princesa Zelda ha hecho mucho por Hyrule. No existiera un pueblo tan próspero sin ella.
+Hacer intercambios es la única manera de conseguir algunos objetos raros, o algunos ingredientes para cocinar.
+Mamá siempre me dice que no me acerque a las gallinas... Por qué?
+La princesa insiste en que permanezcamos vigilando la ciudad... Pero todo el mundo sabe que Ganon está muerto...
+Preferiría estar durmiendo en el castillo que estar haciendo guardia aquí...
+La vida es buena en Hyrule desque que Ganon ya no es una amenaza, gracias otra vez, Link!
+Desde que apareció el ladrón en el castillo, la pricesa dobló la guardia... y aquí estoy, otra vez...
+Unete, dijeron... Es la vida de un hombre, dijeron...
+Escuché que un objeto muy precioso ha sido robado el el castillo, y desde entonces la princessa se pudo haber vuelto absolutamente paranóica...
+Imagino que fue algo de lo que ella estaba encariñada... Un espejo de su colección, probablemente...
+Zzzzz... Zzzzz...
+Siento como que pasé mi vida entera barriendo...                                                Uno de estos días, me gustaría irme de viaje...
+Es un mapa lo que tienes?                       Te importaría dármelo? Sueño en irme de viaje y ver cosas maravillosas!
+Te daré mi escoba a cambio, estás de acuerdo?                                                                  [c=2]Sí[c=0]              No
+Te daré mi escoba a cambio, estás de acuerdo?                                                                  [c=0]Sí              [c=2]No
+Gracias! Ten mis escoba como recompensa. Es una escoba de primera clase, ha estado en mi familia desde hace siglos, estás haciendo un buen trato!
+Oh. Entonces seguiré barriendo...
+Cambiaste el mapa por una escoba!
+Así que, a dónde voy?
+No tienes suficiente.
+Regresa si cambias de idea.
+Un engranaje por un pollo y 100 rupias?                                                                        [c=2]Sí[c=0]              No
+Un engranaje por un pollo y 100 rupias?                                                                        [c=0]Sí              [c=2]No
+Tienes un engranaje!                            Dáselo al hombre que está cerca de la catarata!
+Un pedazo de corazón por una roca de magma y una roca de escarcha?                                              [c=2]Sí[c=0]              No
+Un pedazo de corazón por una roca de magma y una roca de escarcha?                                              [c=0]Sí              [c=2]No
+Lo siento, no tengo nada más en stock.
+Una bolsa capaz de guardar hasta 200 rupias por 1 pluma y 10 rupias?                                           [c=2]Sí[c=0]              No
+Una bolsa capaz de guardar hasta 200 rupias por 1 pluma y 10 rupias?                                           [c=0]Sí              [c=2]No
+Obtienes una bolsa normal!                      Te permite guardar hasta 200 rupias!
+Una bolsa capaz de guardar hasta 500 rupias por un tapiz y 100 rupias?                                         [c=2]Sí[c=0]              No
+Una bolsa capaz de guardar hasta 500 rupias por un tapiz y 100 rupias?                                         [c=0]Sí              [c=2]No
+Obtienes una bolsa grande!                      Te permite guardar hasta 500 rupias!!!
+Una bolsa capaz de guardar hasta 999 rupias por 1 amuleto, 1 roca de magma y 250 rupias?                       [c=2]Sí[c=0]              No
+Una bolsa capaz de guardar hasta 999 rupias por 1 amuleto, 1 roca de magma y 250 rupias?                       [c=0]Sí              [c=2]No
+Obtienes una bolsa gigante!!!                   Te permite guardar hasta 999 rupias!!!
+Un pollo por 2 bolsas de arroy y 3 bolsas de    aceitunas?                                                     [c=2]Sí[c=0]              No
+Un pollo por 2 bolsas de arroy y 3 bolsas de    aceitunas?                                                     [c=0]Sí              [c=2]No
+Obtienes un pollo!
+No puedes cargar más...
+Una pluma por 2 jarros de condimento y 2 bolsas de aceitunas?                                                  [c=2]Sí[c=0]              No
+Una pluma por 2 jarros de condimento y 2 bolsas de aceitunas?                                                  [c=0]Sí              [c=2]No
+Obtienes una pluma!
+Una bolsa de arroz por 15 rupias?                                                                              [c=2]Sí[c=0]              No
+Una bolsa de arroz por 15 rupias?                                                                              [c=0]Sí              [c=2]No
+Obtienes una bolsa de arroz!
+Una bolsa de aceitunas por 10 rupias?                                                                          [c=2]Sí[c=0]              No
+Una bolsa de aceitunas por 10 rupias?                                                                          [c=0]Sí              [c=2]No
+Obtienes una bolsa de aceitunas!
+ARTICULOS DE INTERCAMBIO
+[v=1] BOLSAS DE ARROZ
+[v=1] BOLSA DE ARROZ
+[v=1] ACEITUNAS
+[v=1] ACEITUNA
+[v=1] CONDIMENTOS
+[v=1] CONDIMENTO
+[v=1] PERLAS
+[v=1] PERLA
+[v=1] PLUMAS
+[v=1] PLUMA
+[v=1] POLLOS
+[v=1] POLLO
+[v=1] TAPICES
+[v=1] TAPIZ
+[v=1] AMULETOS
+[v=1] AMULETO
+[v=1] PERFUMES
+[v=1] PERFUME
+[v=1] ROCAS DE MAGMA
+[v=1] ROCA DE MAGMA
+[v=1] ROCAS DE ESCARCHA
+[v=1] ROCA DE ESCARCHA
+[v=1] PIMIENTO
+[v=1] ENGRANE
+[v=1] MEDIDOR
+[v=1] RUEDA
+[v=1] NUCLEO DE ENERGIA
+N : Al Castillo de Ganon
+La Perla Lunar por una rueda, un medidor, un    núcleo de energía y 100 Ganon de Oro?                          [c=2]Sí[c=0]              No
+La Perla Lunar por una rueda, un medidor, un    núcleo de energía y 100 Ganon de Oro?                          [c=0]Sí              [c=2]No
+Obtienes la Perla Lunar!                        Recuperas tu aspecto normal y el uso de tus armas!
+Una bolsa capaz de guardar hasta 200 Ganon de   Oro por una perla y 10 Ganon de Oro?                           [c=2]Sí[c=0]              No
+Una bolsa capaz de guardar hasta 200 Ganon de   Oro por una perla y 10 Ganon de Oro?                           [c=0]Sí              [c=2]No
+Obtienes una bolsa normal!                      Te permita guardar hasta 200 Ganon de Oro!
+Una bolsa capaz de guardar hasta 500 Ganon de   Oro por un amuleto y 100 Ganon de Oro?                         [c=2]Sí[c=0]              No
+Una bolsa capaz de guardar hasta 500 Ganon de   Oro por un amuleto y 100 Ganon de Oro?                         [c=0]Sí              [c=2]No
+Obtienes una bolsa grande!                      Te permite guardar hasta 500 Ganon de Oro!!!
+Una bolsa capaz de guardar hasta 999 Ganon de   Oro por un perfume, una roca de escarcha y 250  Ganon de Oro?                                                  [c=2]Sí[c=0]              No
+Una bolsa capaz de guardar hasta 999 Ganon de   Oro por un perfume, una roca de escarcha y 250  Ganon de Oro?                                                  [c=0]Sí              [c=2]No
+Obtienes una bolsa grande!!!                    Te permite guardar hasta 999 Ganon de Oro!!!
+Una rueda por 3 jarros de condimento?                                                                          [c=2]Sí[c=0]              No
+Una rueda por 3 jarros de condimento?                                                                          [c=0]Sí              [c=2]No
+Obtienes una rueda!                             ...                                             Grandioso...
+Una bolsa de bombas por 1 pimiento y 3 jarros de condimento?                                                    [c=2]Sí[c=0]              No
+Una bolsa de bombas por 1 pimiento y 3 jarros de condimento?                                                    [c=0]Sí              [c=2]No
+Obtienes una bolsa de bombas!                   Serás capaz de explotar nuevos caminos!
+Una roca de magma por un tapiz, un amuleto y un perfume?                                                       [c=2]Sí[c=0]              No
+Una roca de magma por un tapiz, un amuleto y un perfume?                                                       [c=0]Sí              [c=2]No
+Obtienes una roca de magma!
+Una perla por 5 jarros de condimento y 5 Ganon  de Oro?                                                        [c=2]Sí[c=0]              No
+Una perla por 5 jarros de condimento y 5 Ganon  de Oro?                                                        [c=0]Sí              [c=2]No
+Obtienes una perla!
+Un jarro de condimento por 10 Ganon de Oro?                                                                    [c=2]Sí[c=0]              No
+Un jarro de condimento por 10 Ganon de Oro?                                                                    [c=0]Sí              [c=2]No
+Obtienes un jarro de condimento!
+He! Heeeee! Heeeeeeee!
+Anoche, el cantinero no tenía más cerveza...    Ganon se puso rojo de la furia y empezó a destruir todo...                                      Al final, a nadie le queda nada de tomar...
+Las casas destruidas eran la de los oponentes de Ganon...
+El bar está destruído también, pero... ...por otras razones...
+El mercado es la atracción principal de la cuidad, ahora que el bar está arruinado...
+Tienes la Perla Lunar?                          Bueno, observando el resultado, tal vez no era un buen negocio...
+La Perla Lunar te ayuda a recuperar tu aspecto  humano. Un comerciante tiene una, pero es demasiado costosa...
+N : Tierras Sagradas - Prohibido acampar
+Una bolsa capaz de guardar hasta 200 monedas de Oro por un pollo y 10 monedas de Oro?                          [c=2]Sí[c=0]              No
+Una bolsa capaz de guardar hasta 200 monedas de Oro por un pollo y 10 monedas de Oro?                          [c=0]Sí              [c=2]No
+Obtienes una bolsa normal!                      Te permite coardar hasta 200 monedas de Oro!
+Una bolsa capaz de guardar hasta 500 monedas de Oro por un perfume y 100 monedas de Oro?                       [c=2]Sí[c=0]              No
+Una bolsa capaz de guardar hasta 500 monedas de Oro por un perfume y 100 monedas de Oro?                       [c=0]Sí              [c=2]No
+Obtienes una bolsa gramde!                      Te permite almacenar hasta 500 monedas de Oro!!!
+Una bolsa capaz de almacenar hasta 999 monedas  de Oro por un tapiz, una roca de magma y 250    monedas de Oro?                                                [c=2]Sí[c=0]              No
+Una bolsa capaz de almacenar hasta 999 monedas  de Oro por un tapiz, una roca de magma y 250    monedas de Oro?                                                [c=0]Sí              [c=2]No
+Ontienes una bolsa gigante!!!                   Te permite guardar hasta 999 monedas de Oro!!!
+Un amuleto por 1 pollo y 2 bolsas de aceitunas?                                                                [c=2]Sí[c=0]              No
+Un amuleto por 1 pollo y 2 bolsas de aceitunas?                                                                [c=0]Sí              [c=2]No
+Obtienes un amuleto!
+Una pluma por una jarra de condimetno y una     bolsa de aceitunas?                                            [c=2]Sí[c=0]              No
+Una pluma por una jarra de condimetno y una     bolsa de aceitunas?                                            [c=0]Sí              [c=2]No
+Con todos esos lobos, es muy peligroso salir de la aldea...
+Tu arma se parece a la de Los Caballeros...     Alguna vez peleaste contra lobos con ella?
+Odio las gallinas, pero si los lobos se las     arreglan para entrar a la aldea, quizás no se atrevan a acercarse...
+Las antorchas en las entrada de la aldea mantienen alejados los lobos, pero ellos se acercan más y más cada día...
+El jefe de la aldea hizo construir un bar recientemente... Dicen que el hizo esto para atraer los Caballeros Hylianos paara que nos protejan...
+Cuando el tiempo no es bueno, hago mermeladas para mantenerme ocupada... Pero en esta temporada, creo que tendré que encontrar otra actividad...
+Es una escoba lo que tienes?*Siento una vocación floreciendo dentro de mí... Me la darías por mi último jarro de mermelada?
+Esta escoba por un jarro de mermelada?                                                                         [c=2]Sí[c=0]              No
+Esta escoba por un jarro de mermelada?                                                                         [c=0]Sí              [c=2]No
+Grandioso! Esto mantendrá mi mente alejada de los problemas de este tiempo, y tal vez uncluso mantenga los lobos lejos de mí!
+Tarde o temprano, estoy segura que me la darás...
+Cambiaste la escoba por un jarro de mermelada!
+Dar es dar!
+Castillo de Hyrule
+N : Al cementerio
+Bienvenido al castillo, Sr. Link!
+Nos ordenaron que te dejemos pasar.
+Castillo de Ganon
+5 Ganon de Oro y te dejaremos entrar al castillo?                                                              [c=2]Sí[c=0]              No
+5 Ganon de Oro y te dejaremos entrar al castillo?                                                              [c=0]Sí              [c=2]No
+Puedes entrar.
+No deberías alejarte demasiado de la aldea con este clima...
+Parece que dejó de nevar...
+EL CAMINO A LA TRIFUERZA SERE ABIERTO PARA TI... MIRA APARECER EL TEMPLO DE LA TRIFUERZA!
+W : Al Castillo de Hyrule
+N : A las Cataratas
+E : Entrada a Los Bosques Perdidos
+Probablemente el ladrón está en este bosque, no puedes rendirte ahora!
+Has encontrado un cristal mágico!!!
+Faltan [v=1] por encontrar!
+Finalmente los tienes todos!!!
+Quieres guardar tu juego?                                                                                      [c=2]Sí[c=0]              No
+Quieres guardar tu juego?                                                                                      [c=0]Sí              [c=2]No
+Juego guardado.
+Estoy construyendo una ópera aquí, no tengo tiempo para hablar durante el descanso!
+Adicionalmente, he perdido mi precioso accesorio estrella...
+Has encontrado mi amuleto calabera???           Lo había olvidado en la cárcel...               Devuélvemelo! Estaré eternamente agradecido!
+Esta calabera por mi gratitud, ok?                                                                             [c=2]Sí[c=0]              No
+Esta calabera por mi gratitud, ok?                                                                             [c=0]Sí              [c=2]No
+Gracias! Recuperé toda mi motivación! Terminaré esta ópera!
+Después de un descanso...
+Ladrón...
+Cambiaste la calabera por un pagaré!
+Ser o no ser? ésa es la cuestión...
+Lo digo bien?
+Templo del Coraje                                                                               Coraje, huye!
+Bienvenidos a la casa de Tingle!
+Aquí no tampoco? Pero dónde lo perdí?
+Has encontrado el florero de mi suegra???       Ella me lo ha hecho buscar por siglos en totas  partes!                                         Devuélvemelo de inmediato!
+Este florero por algo que recién encontré, ok?                                                                 [c=2]Sí[c=0]              No
+Este florero por algo que recién encontré, ok?                                                                 [c=0]Sí              [c=2]No
+Sabia decisión, muchacho.
+Mátalo...
+Cambiaste la bota por un martillo!
+Quieres entrar a mi pandilla?                                                                                  [c=2]Sí[c=0]              No
+Quieres entrar a mi pandilla?                                                                                  [c=0]Sí              [c=2]No
+Ha! Ha! Ha!                                     Estaba bromeando!                               Pequeño tonto patético!                         Te das cuenta con quién estás tratando?!
+Es demasiado arriesgado que vayas por ahí, te podrían descubrir.
+Has encontrado algunas tablas de madera!        Puedes usarlas para construir un puente...
+Templo del Aire                                                                                 Probabilidad de frío!
+S : A la Aldea Mabe
+Así que aquí tenemos al hombre que fue capaz de detener al poderoso Ganondorf...
+Soy Agahnim, ex Sabion, y el mentor de Ganondorf. En cuanto a tí, debes ser...
+Te guste o no, vamos a coger la Trifuerza.      Adiós!
+Aldea Mabe
+Un tapiz por 2 perlas y 5 jarros de condimento?                                                                [c=2]Sí[c=0]              No
+Un tapiz por 2 perlas y 5 jarros de condimento?                                                                [c=0]Sí              [c=2]No
+Obtienes un tapiz!
+Un amuleto por 5 pollos y 5 bolsas de aceitunas?                                                               [c=2]Sí[c=0]              No
+Un amuleto por 5 pollos y 5 bolsas de aceitunas?                                                               [c=0]Sí              [c=2]No
+Una perla por 2 jarros de condimento y 2 bolsas de arroz?                                                      [c=2]Sí[c=0]              No
+Una perla por 2 jarros de condimento y 2 bolsas de arroz?                                                      [c=0]Sí              [c=2]No
+Una bolsa de arroz por una bolsa de aceitunas y 2 rupias?                                                      [c=2]Sí[c=0]              No
+Una bolsa de arroz por una bolsa de aceitunas y 2 rupias?                                                      [c=0]Sí              [c=2]No
+Los hombres de la aldea están todos obsesionados por el concurso de pesca...                     Me pregunto quién será el ganador...
+Participarás en el concurso de pesca también?   ...                                             ...
+Al final, eres igual que los otros...
+Ganaste el concurso de pesca?                   ...                                             ...
+Soy tu mayor admirador!!!
+Un puesto de pesca se ha abierto recientemente  al oeste de la aldea...                         El dueño organiza un gran concurso de pesca para iniciar su tienda.
+Tú estás en el concurso también?                Es unñutil, no puedo encontrar más de tres tipos de pez...
+Como el concurso de pesca terminó, todos regresaron a sus actividades.
+A dea Ma e
+Guarida de Los Caballeros Valientes
+Guarida de Los Caballeros Valientes                                                             Nota : Si no estamos aquí, intenta en la taberna.
+Una gema de poder por 2 perlas?                                                                                [c=2]Sí[c=0]              No
+Una gema de poder por 2 perlas?                                                                                [c=0]Sí              [c=2]No
+Una gema de poder por 2 plumas?                                                                                [c=2]Sí[c=0]              No
+Una gema de poder por 2 plumas?                                                                                [c=0]Sí              [c=2]No
+Una gema de poder por 2 pollos?                                                                                [c=2]Sí[c=0]              No
+Una gema de poder por 2 pollos?                                                                                [c=0]Sí              [c=2]No
+Un pollo por una bolsa de arroz y 2 bolsas de   aceitunas?                                                     [c=2]Sí[c=0]              No
+Un pollo por una bolsa de arroz y 2 bolsas de   aceitunas?                                                     [c=0]Sí              [c=2]No
+Más allá del borde sur de Hyrule, se dice que existe un océano gigante...
+En la temporada de apareamiento, las gaviotas salen del acantilado que nos separa del mar y vienen a la aldea.
+Esta aldea está bajo la protección de los Caballeros Hylianos, estás seguro aquí.
+Aun así, desde que se abrió una taberna en el pueblo vecino, ya no vemos a nuestros protectores por aquí...
+Escuchamos sonidos de batalla, y nada más...
+Qué, por todos los cielos, pudo haber sucedido?
+Templo de la Sabiduría                                                                          Sólo los sabios se mantendrán alejados de él.
+Tienda de alquiler de botes
+La tienda de alquiler de botes está cerrada por hoy, estoy a punto de ganar el concurso de pesca, ya tengo tres peces diferentes!
+Algunos monstruos hundieron mi botet...         Lo siento, pero tendrás que nadar ahora....
+Te gustaría rentar un bote por 15 rupias?                                                                      [c=2]Sí[c=0]              No
+Te gustaría rentar un bote por 15 rupias?                                                                      [c=0]Sí              [c=2]No
+Puedes usar el bote en el muelle, diviértete, pero no te alejes demasiado.
+(voz lejana:)                                   Te dije... NO TE ALEJES DEMASIADO!!!!
+Cueva del Abismo                                                                                Gracias por no venir a buscar al descendiente de los sabios que no se está encondiendo aquí.
+Herrero
+Gran Pirámide
+PISTA 1: La piedra más a la derecha es la       segnda.                                         PISTA 2: Todas la piedras deben ser removidas en orden de peso.
+PISTA 3: Las piedras de la cola deben ser       removidas antes de la piedra de la aleta.       PISTA 4: La piedra del ojo debe ser la quinta que remuevas.
+PISTA 5: Las piedras del agua deben ser         removidas antes de la última de la cola.        PISTA 6: La piedra del ojo debe ser removida después de la piedra de la aleta.
+PISTA 7: La última piedra no es el ojo.         PISTA 8: Las 2 piedras de la cola no deben ser removidas una después de la otra.
+PISTA 9: Una de las nueve pistas es falsa.
+N : Montañas Rocosas
+Aldea Kakariko
+Las Botas Pegaso por un tapiz y un perfume?                                                                    [c=2]Sí[c=0]              No
+Las Botas Pegaso por un tapiz y un perfume?                                                                    [c=0]Sí              [c=2]No
+Obtienes las Botas Pegaso!                      Manten presionado [COURSE] para correr!
+Un perfume por 3 plumas y 4 bolsas de arroz?                                                                   [c=2]Sí[c=0]              No
+Un perfume por 3 plumas y 4 bolsas de arroz?                                                                   [c=0]Sí              [c=2]No
+Obtienes un perfume!
+Una bolsa de aceitunas por 15 rupias?                                                                          [c=2]Sí[c=0]              No
+Una bolsa de aceitunas por 15 rupias?                                                                          [c=0]Sí              [c=2]No
+Un jarro de condimento por 20 rupias?                                                                          [c=2]Sí[c=0]              No
+Un jarro de condimento por 20 rupias?                                                                          [c=0]Sí              [c=2]No
+La Aldea Kakariko es un prerequisito para todos los aventureros dispuestos a subir la montaña. Los menos valientes sólo llegan hasta el bar...
+Bienvenido a nuestra aldea, Link!               Diviértete, pero no te acerques demasiado a los cactus...
+Las Botas Pegasus te hacen ir mucho, mucho más rápido. Es una real ventaja en una pelea.
+Tienes esas botas?                              Entonces debes ser muy fuerte ahora...
+Una roca de escarcha por un tapiz, un amuleto y un perfume?                                                    [c=2]Sí[c=0]              No
+Una roca de escarcha por un tapiz, un amuleto y un perfume?                                                    [c=0]Sí              [c=2]No
+Obtienes una roca de escarcha!
+Una perla por una jarra de condimento y una     bolsa de arroz?                                                [c=2]Sí[c=0]              No
+Una perla por una jarra de condimento y una     bolsa de arroz?                                                [c=0]Sí              [c=2]No
+Esta aldea está bajo la protección de Los 7 Sabios. Debido a su magia, tienes que alejarte bastante para encontrar un lobo...
+Estás en la aldea más segura que podrías encontrar. Nada comparado con la aldea en el centro condenada a desaparecerr, o con la aldea al este protegida por alcohólicos...
+Templo del Tiempo
+Entrada a la Mina
+Templo del Poder                                                                                Sólo para los fuertes.
+Me aislé del mundo para meditar en el significado de la vida...
+...pero debo admitir que extraño ciertas cosas...
+Es una botella de vino lo que tienes???         Dámela! Te daré oro por ella!!!
+Esta botella por oro, ok ?                                                                                     [c=2]Sí[c=0]              No
+Esta botella por oro, ok ?                                                                                     [c=0]Sí              [c=2]No
+Siento que me estoy acercando a la verdad!
+...                                             Tendré que meditar en el significado de tu negación...
+Cambiaste la botella por Polvo de oro!
+Finalmente encontré el significado de la vida... -hiccup- !
+Torre de Hielo                                                                                  El camino se abrirá cuando encuentres todas las gemas de poder.
+Desde aquí puedo admirar el lago de lava...     De hecho, amo todas las cosas roojas y brillantes.
+Mmm... es una gema impresionante la que         tienes...                                       Me la darías por... una sorpresa?
+Esta gema roja por una sorpresa, ok?                                                                           [c=2]Sí[c=0]              No
+Esta gema roja por una sorpresa, ok?                                                                           [c=0]Sí              [c=2]No
+Gracias! Aquí está tu sorpresa! He tratado de deshacerme de él por un laaaargo tiempo...
+Mala suerte, sin gema no hay sorpresa.
+Cambiaste la gema roja por un yunque! No puedes correr ni nadar mientras lo tengas!
+Siento como que me hubiera quitado un gran peso de encima, y soy más rico también, que alegría!
+Templo de Fuego                                                                                 Toca antes de entrar!
+Somos renos que hablan.
+Nos varamos aquí después de chocar con una      gaviota...                                      No hubiera sucedido si tuviera una bocina...
+Oh, casi lo olvido:                             Ho! Ho! Ho!
+Es una campana? Me está dando una idea... Me la darías? Ya no tengo dinero, pero supongo que puedo encontrar algo para agradecerte...
+Esta campanilla por un regalo, ok?                                                                             [c=2]Sí[c=0]              No
+Esta campanilla por un regalo, ok?                                                                             [c=0]Sí              [c=2]No
+Gracias! Aquí está tu regalo: el hacha que tenía que entregar al verdugo local. Contento?
+...                                             Cual es tu nombre, muchacho malo?               Te quitaré de mi lista.
+Cambiaste la campanilla por un hacha!
+Ho! Ho! Ho!
+Todo está bien, pero cómo me voy a casa?
+TUTORIAL :                                      Un golpe en una de estas esferas de color intercambia las barreras.
+Has encontrado una espada!!!                    Usala con la tecla [EPEE], o mantén presionado [EPEE] para cargar un ataque giratrio!
+TUTORIAL :                                      Caer en un agujero te llevará al piso de abajo. Sin embargo, si no hay más pisos abajo como aquí, una caída te hará perder vida y te llevará a la entrada del área, aí que ten cuidado!
+TUTORIAL :                                      Durante el juego, verás algunos lugares aparentemente inaccesibles, como la plataforma de abajo. Tendrás que volver más tarde con más equipamiento para llegar.
+@+@+@+@+@+@+@@@+                                @=++=@=+@=+@=+=@                                +@+@+@+=+=
+Los guardias te vieron dirigirte hacia el bosque, pensé que tenías alguna pista, así que corrí...
+Mmm... Esta estela está escrita en hyliano antiguo... Lo traduciré:
+Al surgir el cataclismo, el héroe encontrará esta estela. Los Pendientes de Coraje, Sabiduría y poder estarán en su posesión, su única oportunidad de salvar el mundo surgirá.
+...
+Me temo que tendremos que olvidarnos de la      ocarina por un momento...                       Si esta estela dice la verdad, tienes que reunir los 3 pendientes lo más pronto posible...
+Están escondidos en 3 templos, el más cercano es una torre cerca de las cataratas, al norte de aquí... Toma este mapa, te ayudará a encontrar el camino!
+Obtienes el mapa de Hyrule!                                                                     Presiona [CARTE] afuera para verlo.
+El primer pendiente está en una torre al norte de este bosque. Sal del bosque por el oeste y dirígete al norte para llegar al área de las cataratas.
+El segundo pendiente está el el templo en la mitad del lago. Debes alquilar un bote en la Aldea Mabe...
+El último pendiente está en un templo rodeado por montañas, al norte de la Aldea Kakariko.
+Encontraste todos los pendientes?               Muy bien, no sabemos qué va a sucedern, así que toma esta espada contigo.
+Obtienes la Espada Maestra!!!                   Probablemente necesites su poder!
+Parece un portal de teletransportación, pero... ...no tenemos información de donde va...
+Trata de tocar la estela, seguramente algo sucederá ahora que tienes todos los pendientes...
+Una última cosa:                                Monstruos están empezanndo a aparecer por todo Hyrule... Es un presagio muy malo... Ten cuidado.
+Hola Link, No tengo muchas visitas en estos tiempos...
+Déjame mejorar tu escudo...
+Obtienes un escudo mejor!!!                     Tu defensa sube un punto!
+Regresa a verme si estás herido, me encargaré de curarte.
+Obtienes 10 bolsas de arroz!
+Obtienes 10 jarros de condimento!
+Obtienes 10 bolsas de aceitunas!
+Para llegar a la Pirámide, encuentra y anota las 9 pistas escondidas en los letreros del desierto, luego levanta las piedras de la ballena en el orden correcto y el camino se abrirá...
+Expreso: Salí por el momento, en caso de        emergencia, estoy en el bar.                                                                    - The mine employee -
+Expreso: se provee el servicio de nuevo!
+Salta en el carrito y déjame hacerme cargo de la palanca.                                        No te preocupes, es mi trabajo!
+                      Link                                       Héroe de Hyrule                             - Asesinado por Ganon -
+Estamos juntos de nuevo, podemos abrir el portal...
+Asegúrate de estar listo, el ladrón de la ocarina probablemente es una criatura poderosa...
+Recuperaste la ocarina? Felicitaciones!
+Este portal es muy especial, conduce a un lugar exacto en el pasado... Pero no somos capaces de mantenerlo abierto para siempre, apúrate!
+Recuperaste la ocarina? Entonces hemos completado la misión que nuestros ancestros nos encomendaron...
+Finalente el portal está abierto... Apresúrate Link, debes recuperar la ocarina!
+La Ocarina del Tiempo...
+Anda al Templo del Tiempo, cumple tu destino!
+Cuando estemos todos juntos con la Llave del Tiempo, abriremos el portal...
+Lo lograste... Cerraremos el portal ahora...
+Obtienes un medidor!                            ...                                             Impresionante...
+Ya tengo suficiente oro, retírate.
+Dame 100 Ganon de Oro de inmediato si quieres   una recompensa, ok?                                            [c=2]Sí[c=0]              No
+Dame 100 Ganon de Oro de inmediato si quieres   una recompensa, ok?                                            [c=0]Sí              [c=2]No
+Me estás haciendo perder el tiempo!
+Incrementaré el número de flechas que puedes    cargar.                                         Dame las gracias!
+Incrementaré el número de bombas que puedes     cargar.                                         Soy muy amable con los niños...
+Dame 999 Ganon de Oro si quieres una recompensa de cuatro estrellas, ok?                                       [c=2]Sí[c=0]              No
+Dame 999 Ganon de Oro si quieres una recompensa de cuatro estrellas, ok?                                       [c=0]Sí              [c=2]No
+Tu contador de flechas se llenará permanentemente, dispara sin reparos!
+Tu contador de bombas se llenará permanentemente, puedes hacer explosiones libremente!
+Bienvenido, héroe, incrementaré tu Medidor de magia, lo necesitarás.
+Tu medidor de magia se duplicó!
+Quieres algo de tomar?
+De acuerdo con los rumores, una hada se esconde detrás de las Cataratas...                      Semejante tontería...
+Estoy ehh... montango guardia en el bar, eso es. Pero preferiría que esto quede entre tú y yo, ok?
+Héroe de Hyrule o lo que sea, no pienses que puedes tomar gratis.
+Escoge lo que quieras.
+10 flechas por 20 rupias?                                                                                      [c=2]Sí[c=0]              No
+10 flechas por 20 rupias?                                                                                      [c=0]Sí              [c=2]No
+5 bombas por 30 rupias?                                                                                        [c=2]Sí[c=0]              No
+5 bombas por 30 rupias?                                                                                        [c=0]Sí              [c=2]No
+Necesitas una bolsa de bombas para comprarlas.
+Necesitas un arco para comprarlas.
+No las necesitas.
+Gracias.
+Un corazón por 5 rupias?                                                                                       [c=2]Sí[c=0]              No
+Un corazón por 5 rupias?                                                                                       [c=0]Sí              [c=2]No
+Un jarro pequeño de magia por 15 rupias?                                                                       [c=2]Sí[c=0]              No
+Un jarro pequeño de magia por 15 rupias?                                                                       [c=0]Sí              [c=2]No
+Un jarro grande de magia por 25 rupias?                                                                        [c=2]Sí[c=0]              No
+Un jarro grande de magia por 25 rupias?                                                                        [c=0]Sí              [c=2]No
+Acabo de llegar a la cuidad, aún no he abierto, regresa más tarde.
+Que si tengo una roca de escarcha?              Sí, es verdad.
+Pensé que nadie tenía gemas de poder, así que no estaba seguro si abrir la tienda o no, pero me has ayudado a decidir.
+Para tu siguiente visita tendré abierto, serás capaz de comprar artículos extremadamente raros por gemas de poder.
+Te dejaré tenerla por 30 gemas de poder, ok?                                                                   [c=2]Sí[c=0]              No
+Te dejaré tenerla por 30 gemas de poder, ok?                                                                   [c=0]Sí              [c=2]No
+No tienes suficientes gemas.                    Busca mejor, se pueden encontrar en todas partes.
+Este detector de ayudará a saber si tienes todas las gemas de poder en el área en que estás. Una herramienta esencial para alguien que está buscando todas las gemas, es tuyo por 20 gemas de poder!
+El detector por 20 gemas de poder, ok?                                                                         [c=2]Sí[c=0]              No
+El detector por 20 gemas de poder, ok?                                                                         [c=0]Sí              [c=2]No
+Obtienes el detector de Gemas de Fuerza!!!
+Tu cantidad de Gemas de Fuerza ahora está marcada en blanco si te faltan gemas en el área actual, en amarillo si te faltan algunas en un mapa vecino y en verde si lo tienes todo.
+Una botella vacía por 10 gemas de poder?                                                                       [c=2]Sí[c=0]              No
+Una botella vacía por 10 gemas de poder?                                                                       [c=0]Sí              [c=2]No
+Obtienes una botella!                           Puedes llenarla con pociones!
+Una botella vacía por 20 gemas de poder?                                                                       [c=2]Sí[c=0]              No
+Una botella vacía por 20 gemas de poder?                                                                       [c=0]Sí              [c=2]No
+Una mejora para tu fuerza por 20 gemas de poder?                                                               [c=2]Sí[c=0]              No
+Una mejora para tu fuerza por 20 gemas de poder?                                                               [c=0]Sí              [c=2]No
+Tu fuerza se incrementa un punto!
+Una mejora para tu fuerza por 40 gemas de poder?                                                               [c=2]Sí[c=0]              No
+Una mejora para tu fuerza por 40 gemas de poder?                                                               [c=0]Sí              [c=2]No
+Una mejora para tu defensa por 20 gemas de      poder?                                                         [c=2]Sí[c=0]              No
+Una mejora para tu defensa por 20 gemas de      poder?                                                         [c=0]Sí              [c=2]No
+Tu defensa se incrementa un punto!
+Una mejora para tu defensa por 40 gemas de      poder?                                                         [c=2]Sí[c=0]              No
+Una mejora para tu defensa por 40 gemas de      poder?                                                         [c=0]Sí              [c=2]No
+Mmm... mi stock está vacío...
+Has encontrado todas las gemas de poder, es increíble...
+De acuerdo con una vieja leyenda, cuando todas  las gemas de poder sean encontradas, se abrirá  un templo que esconde un tesoro fabuloso...     Sólo tenemos que esperar...
+Regresa cuando tengas una botella vacía y te venderé mis pociones.
+Las pócimas rojas devuelven energía mientras que las pócimas verdes rellenan magia.
+Que quieres ?                                                     [c=2]POCIMA ROJA[c=0]                                     pócima verde                                         nada
+Que quieres ?                                                     pócima roja                                     [c=2]POCIMA VERDE[c=0]                                         nada
+Que quieres ?                                                     [c=0]pócima roja                                     pócima verde                                         [c=2]NADA
+¿Una pócima roja por 60 rupias?                                                                                [c=2]Sí[c=0]              No
+¿Una pócima roja por 60 rupias?                                                                                Sí              [c=2]No[c=0]
+¿Una pócima verde por 40 rupias?                                                                               [c=2]Sí[c=0]              No
+¿Una pócima verde por 40 rupias?                                                                               Sí              [c=2]No[c=0]
+Obtienes una poción roja!!!                                                                     Bébela para restaurar toda tu energía!!!
+Obtienes una poción verde!!!                                                                    Bébela para restaurar toda tu magia!!!
+Obtienes una poción azul!!!                                                                     Bébela para restaurar tu energía y magia!!!
+Sol el hombre más desafortunado del país, nunca me ha sucedido nada bueno...
+Es un amuleto de buena suerte lo que tienes?    Dámelo!                                         Nadie en el mundo lo necesita más que yo!
+Esta herradura por... nada, ok?                                                                                [c=2]Sí[c=0]              No
+Esta herradura por... nada, ok?                                                                                Sí              [c=2]No[c=0]
+Muchísimas gracias! Tal vez ahora seré suertudo!
+Lo siento amigo, pero no tengo nada que darte a cambio, mala suerte para tí.
+...                                             Que desafortunado soy...
+Cambiaste la herradura por... su gratitud?
+Al final, soy un suertudo.
+Ya no tengo premios para poner en el juego, lo siento.
+Hay [v=1] premio(s) en estos 9 cofres, quieres probar suerte por [v=2] rupias ?
+Sólo puedes abrir un cofre, ok?                                                                                [c=2]Sí[c=0]              No
+Sólo puedes abrir un cofre, ok?                                                                                Sí              [c=2]No[c=0]
+Escoge un cofre.
+Perdiste! Ese cofre está vacío.
+Buenos días Link, quieres cruzar el puente para ir al templo?
+Usualmente sólo tendría que jalar esta palanca, pero jugué con ella durante toda la noche y bueno... se dañó.
+Incluso pensé en poner tablas de madera para permitir el paso, pero alguien las robó durante la noche...
+Puedo arreglar la palanca, pero necesito un repuesto, y no puedo dejar mi puesto...
+Necesito un engrane, lo puede conseguir en el mercado de Hyrule.
+Sabes cómo funciona, verdad? Cada comerciante ofrece algunos productos por otros, debes reunir lo que ellos quieren para conseguir lo que tú quieres.
+Te daré la mercancía que tengo.                 Si quieres ver qué tienes en tu bolsa, presiona [TROC].
+Necesito un engrane para arreglar la palanca.   Encuentra uno en el mercado de Hyrule si quieres cruzar el puente.
+Me trajiste un engrane?                         Muy bien, ahora debería funcionar.
+La palanca se dañó de nuevo...                  Al menos, ahora el puente está afuera...        Esto me enseñará a construir puentes exóticos...
+Una poción azul por 160 rupias?                 Te gustará...                                                  [c=2]Sí[c=0]              No
+Una poción azul por 160 rupias?                 Te gustará...                                                  Sí              [c=2]No[c=0]
+Estoy encariñado de todas las cosas verdes y brillantes!
+No te preocupes, no voy a robar tus rupias...   Estoy tratando de dejarlo.
+Es realmente hermoso lo que tienes aquí...      Me encanta!                                     Te la cambio por un mapa de un valor... INESTIMABLE!
+Esta gema verde por un mapa, ok?                                                                               [c=2]Sí[c=0]              No
+Esta gema verde por un mapa, ok?                                                                               Sí              [c=2]No[c=0]
+Graciaaaaaas!!! Aquí está tu mapa, ahora lárgate!
+Muy bien...                                     Cuida tus rupias entonces!
+Cambiaste la gema por un mapa!
+Veniste a darme rupias?                         Muy amable de tu parte!
+La princesa quiere que le avise si sucede cualquier cosa extraña en el pueblo...
+Esta mañana vi una gaviota volando de manera extraña... No estoy seguro si avisarle o no...
+Hola Link, bienbenido a la tienda de pesca!
+Para inaugurar la apertura de mi tienda, estoy  organizando un gran concurso de pesca!          Probablemente has escuchado al respecto, toda la cuidad participa!
+Para ganar el concurso y el premio especial, tienes qu ser el primero en pescar 5 tipos diferentes de pez.
+Quieres intentarlo? La cuota de registro es de  10 rupias, ok?                                                 [c=2]Sí[c=0]              No
+Quieres intentarlo? La cuota de registro es de  10 rupias, ok?                                                 Sí              [c=2]No[c=0]
+Excelente, aquí tienes una caña de pescar, regresa cuando hayas capturado 5 diferentes tipos de peces.
+Mmm... Quieres participar por 5 rupias?                                                                        [c=2]Sí[c=0]              No
+Mmm... Quieres participar por 5 rupias?                                                                        Sí              [c=2]No[c=0]
+Muy bien, aquí tienes una caña de pescar, regresa cuando hayas capturado 5 diferentes tipos de peces.
+Y por 2 rupias?                                                                                                [c=2]Sí[c=0]              No
+Y por 2 rupias?                                                                                                Sí              [c=2]No[c=0]
+Bien, aquí tienes una caña de pescar, regresa cuando hayas capturado 5 diferentes tipos de peces.
+Por una rupia?                                                                                                 [c=2]Sí[c=0]              No
+Por una rupia?                                                                                                 Sí              [c=2]No[c=0]
+Ok, aquí tienes una caña de pescar, regresa cuando hayas capturado 5 diferentes tipos de peces.
+No me digas que quieres participar gratis???                                                                  [c=2]Sííí[c=0]             No
+No me digas que quieres participar gratis???                                                                  Sííí             [c=2]No[c=0]
+...                                             aquí tienes una caña de pescar, regresa cuando hayas capturado 5 diferentes tipos de peces.
+Aléjate, enemigo de los pescadores!
+Obtienes una caña de pescar!                    Usala en un muelle, luego saca los peces presionando [OBJECT] cuando se mueve el hilo.
+Aún faltan [v=1] peces diferentes que encontrar, buena suerte!
+Sólo un pez más por encontrar!
+Has encontrado 5 peces???                       Debes ser un súper pescador!
+Esto significa que el concurso de pesca se terminó, y tú eres el ganador!
+Imagino que quieres tu premio ahora...          Bien, como recompensa por tu victoria en el     concurso de pesca:                              ... ... ...
+Te contrato!
+Hay muchos otros tipos de peces en Hyrule, Quiero enlistarlos todos por áreaall by area.
+Te recompensaré cada vez que me traigas 5 nuevos tipos de peces.                                 De ahora en adelante puedes consultar la lista presionando [POISSONS].
+Con tu actual caña de pescar, desafortunadamente sólo serás capaz de capturar peces pequeños...
+Asegúrate de pescar en todas partes!            Cada pez que capturas te da algo de energía, lo notaste?
+Tráeme [v=1] nuevos tipos de peces para la      siguiente recompensa!
+Aquí está tu recompensa por los 10 diferentes tipos de peces que has encontrado:
+Obtienes una mejor caña de pescar!!!            Será capaz de atrapar peces de tamaño mediano.
+Aquí está tu recompensa por los 15 diferentes tipos de peces que has encontrado:
+Aquí está tu recompensa por los 20 diferentes tipos de peces que has encontrado:
+Obtienes una mejor caña de pescar!!!            Serás capaz de capturar peces gigantes!
+Aquí está tu recompensa por los 25 diferentes tipos de peces que has encontrado:
+Aquí está tu recompensa por haber encontrado todos los diferentes tipos de peces de Hyrule:
+ESTAS DESPEDIDO!!!!
+Finalmente, todos los peces existentes en Hyrule están listados, mi guía del pescador está terminada...
+Solo queda un pez más por encontrar antes de la próxima recompensa!
+Buenos días Link.                               Soy el alcalde, bienvenido a la Aldea Mabe.
+En estos momentos han organizado un concurso de pesca en el pueblo, todo el mundo no habla más  que de él...                                    Es por eso que veniste?
+Una vez que el consurso de pesca terminó, la Aldea mabe regrea a su calma usual.
+Soy el pescador legendario!                     Me gusta lo azul y brillante del océano...
+Por qué no gané el concurso de pesca?           Bueno... no estoy interesado en ese tipo de cosas.... ése es el por qué.
+Una gema azul y brillante?                      La necesito!                                    Te la cambio por la última cosa que pesqué!
+La gema azul por su pesca, ok ?                                                                                [c=2]Sí[c=0]              No
+La gema azul por su pesca, ok ?                                                                                Sí              [c=2]No[c=0]
+He-he! Te llevas una ganga, chico.
+Esta bota estaba llena de remiendos cuando la encontré, inusual, verdad?
+Eres muy amable, pero no te preocupes por mí, no temas don't be afraid of desilusionarme.
+Cambiaste la gema azul por una bota vieja!      Muy bien...
+Si alguna vez encuentras nuevas gemas azules, será un placer hacer un trato contigo!
+Anteriormente fui un pescador famoso, quieres que te de algunos trucos?
+[c=2]SOBRE LOS TIPOS DE PECES[c=0]                        Sobre las áreas de pesca                        Sobre el bonus                                  Nada
+Sobre los tipos de peces                        [c=2]SOBRE LAS AREAS DE PESCA[c=0]                        Sobre el bonus                                  Nada
+Sobre los tipos de peces                        Sobre las áreas de pesca                        [c=2]SOBRE EL BONUS[c=0]                                  Nada
+Sobre los tipos de peces                        Sobre las áreas de pesca                        Sobre el bonus                                  [c=2]NADA[c=0]
+[c=0]Dicen que las aguas de Hyrule proveen un hábitat para no menos de 30 tipos de peces, pero todos tienen su propia área, no los encontrarás todos en el mismo lugar.
+En Hyrule hay muchos lugares para pescar, pero sólo 6 áreas distintas. Para encontrar nuevos peces tendrás que ir a pescar a otros lugares.
+If you find a fish already hooked somewhere else, this means you are in the same fishing area.
+Pescar no sólo es diversión, un pez capturado te dará energía. La cantidad de vida que de da depende del pez.
+Tsk... jóvenes estos días...
+Pasé horas pescando en el lago y sólo pude encontrar 3 diferentes tipos de peces...
+Teníamos que ir a pescar en diferentes lugares  para encontrar más de 3 peces?                  Si lo hubiera sabido...
+Necesitas ayuda del tipo borracho de allá?      Desafortunadamente para tí no lo puedo dejar ir si no paga.
+Quieres pagar su deuda? Son 10 000 rupias, ok?                                                                 [c=2]Sí[c=0]              No
+Quieres pagar su deuda? Son 10 000 rupias, ok?                                                                 Sí              [c=2]No[c=0]
+Por supuesto...
+Okay, tengo otra idea: usualmente utilizo una roca de escarcha para preparar mis bebidas frescas, pero recién terminé la última que heredé de mis ancestros...
+Si me traes una nueva roca de escarcha, considerarñe su deuda pagada.
+Ajá, no puedes encontrar una roca de escarcha?
+Tienes una roca de escarcha? Impresionante...
+Dame esta roca de escarcha y olvidaré su deuda, ok?                                                            [c=2]Sí[c=0]              No
+Dame esta roca de escarcha y olvidaré su deuda, ok?                                                            Sí              [c=2]No[c=0]
+Entiendo, después de todo no es de tu incumbencia.
+Gracias!                                        Como lo prometí, el veterano puede irse, el ya no me debe nada.
+Déjame beber solo! -hiccups- !
+Fuiste a la mina?                               Solía trabajar ahí...                           Pero debido a que aparecieron monstruos, la mina está cerrada temporalmente...
+Me gustaría ayudarte a cruzar la mina, pero la  cantinera no quiere dejarme ir si no pago. Pero ya no tengo dinero, así que no puedo irme y bebo para pasar el tiempo.
+Alguien realmente debería pagar mi deuda por    mí... ...                                       -hiccup- !
+Quieres saber dónde encontrar una roca de       escarcha? Mmm... Escuché que recientemente llegó un tipo a Ciudad Hyrule, y está por abrir una tienda de un nuevo tipo...
+Bien, creo que este tipo tiene una roca de escarcha.
+Anda a ver al tipo en la tienda extraña en Ciudad Hyrule, el debería tener una roca de escarcha.
+Tienes una roca de escarcha???                  Dásela a la cantinera, promero que te ayuaré con la mina!
+Estoy libre ahora... Creí que tendría que lavar los platos por el resto de la semana!           Gracias Link!
+Puedes ir a la mina, te veré allá.                                                              -hiccup- !
+Bienvenido al bar, siéntete como en casa, Link!
+Mientras la mina al norte esté cerrada, no tengo nada que hacer excepto pasar el tiempo aquí...
+Casi todos los hombres de la aldea trabajan en la mina al norte.
+Esta mañana aparecieron monstruos adentro, así que tuvieron que cerrar la mina.
+Arroz, condimento y aceitunas so la base de intercambios en Hyrule, siempre deberías tener algunos contigo.
+Soy el jefe de la mina, y el hombre más poderoso de la aldea, así que no trates de subestimarme, muchacho.
+Soy el jefe de la aldea... Pero en realidad el jefe de la mina es mucho más influyente que yo, él contrató casi a todos los hombres de la aldea.
+El banco es´ta bajo nuestra vigilancia. Nada que reportar.
+Bienvenido al Banco de Hyrule. Estoy especializado en divisas.
+No tienes nada interesante, regresa si encuentras oro, te daré un buen precio por él.
+Tienes monedas de oro? Con la cara de un monstruo... Ganon de Oro dices?
+Es realmente horroroso, pero el oro es reusable, veamos...
+[v=1] Ganon de Oro por [v=2] Rupias, ok? [v=3]                                                                 [c=2]Sí[c=0]              No
+[v=1] Ganon de Oro por [v=2] Rupias, ok? [v=3]                                                                 Sí              [c=2]No[c=0]
+Tu bolsa está llena, regresa luego, te compraré todo.
+Es un trato!
+Tienes Monedas de Oro? Pensé que ya no existían...
+Te daré un buen precio, veamos...
+[v=1] Monedas de Oro por [v=2] Rupias, ok? [v=3]                                                               [c=2]Sí[c=0]              No
+[v=1] Monedas de Oro por [v=2] Rupias, ok? [v=3]                                                               Sí              [c=2]No[c=0]
+Qué quieres venderme?                           [c=2]- MONEDAS DE ORO[c=0]                                - Ganon de Oro                                  - Nada
+Qué quieres venderme?                           - Monedas de Oro                                [c=2]- GANON DE ORO[c=0]                                  - Nada
+Qué quieres venderme?                           - Monedas de Oro                                - Ganon de Oro                                  [c=2]- NADA[c=0]
+Estoy aquí para construir un puente al norte. Estoy seguro que será útil algún día.
+El prolbema es... No tengo herramientas...      Qué debo hacer?
+Este martillo se ve bien...                     Realmente podría ayudarme, me lo darías por un tesoro legendario que encontré cuando era explorador?
+Este martillo por un tesoro legendario, ok?                                                                    [c=2]Sí[c=0]              No
+Este martillo por un tesoro legendario, ok?                                                                    Sí              [c=2]No[c=0]
+Gracias, puedes tener esto:
+Creo que nunca terminaré el puente...
+Obtienes las Flechas de Fuego!                  Estas flechas abrasadoras usan magia y liberan un poder increíble!
+Parece que finalmente tengo todo lo que         necesito...                                     Cuando me motivo, lo hago!
+Ese es un plano de un puente?                   Realmente lo necesito, me lo darías por un tesoro legendario que encontré cuando era explorador?
+Este plano por un tesoro legendario, ok?                                                                       [c=2]Sí[c=0]              No
+Este plano por un tesoro legendario, ok?                                                                       Sí              [c=2]No[c=0]
+Gracias, ten este regalo a cambio:
+Obtienes las Flechas de Hielo!                  Estas flechas congelantes usan magia y liberan un poder increíble!
+Tienes un serrucho?                             No puedo hacer un puente sin él, me lo darías por un tesoro legendario que encontré cuando era explorador?
+Este serrucho por un tesoro legendario, ok?                                                                    [c=2]Sí[c=0]              No
+Este serrucho por un tesoro legendario, ok?                                                                    Sí              [c=2]No[c=0]
+Gracias, toma esto a cambio:
+Obtienes las Flechas de Luz!                    Estas flechas usan mucha magia y liberan el último poder!
+Tienes clavos?                                  Imagino que ayudarán, me los darías por un envase?
+Los clavos por un envase, ok?                                                                                  [c=2]Sí[c=0]              No
+Los clavos por un envase, ok?                                                                                  Sí              [c=2]No[c=0]
+Gracias, te daré esto a cambio:
+Hola Link, te acuerdas de mí?
+Hoy aparecieron monstruos en Hyrule, así que una vez más trataré de enlistarlos a todos, y una vez más cuento con tu ayuda.
+Presionando [MONSTERS], puedes ver los monstruos que están enlistados. Sólo tienes que matar un monstruo para agregarlo.
+Te debo 10 Monedas de Oro por cada monstruo nuevo. Ven a verme cuando tengas tiempo para recoger tu dinero.
+Te debo 40 Rupias por cada monstruo nuevo. Ven a verme cuando tengas tiempo para recoger tu dinero.
+Te debo 20 Ganon de Oro por cada monstruo nuevo. Ven a verme cuando tengas tiempo para recoger tu dinero.
+Te debo 1 Moneda de Oro
+Te debo [v=1] Monedas de Oro
+Te debo [v=1] Rupias
+Te debo [v=1] Ganon de Oro
+Quieres que te pague ahora?                                                                                    [c=2]Sí[c=0]              No
+Quieres que te pague ahora?                                                                                    Sí              [c=2]No[c=0]
+Tu cuenta está en 0, te di todo.
+Regresa cuando tengas una bolsa de dinero y hablaremos de negocios.
+No tienes nada interesante, regresa si encuentras oro o rupias, te daré un buen precio.
+Tienes rupias? No las hemos usado por siglos, pero aún son muy valiosas...
+Veamos...
+[v=1] Rupias por [v=2] Ganon de Oro, ok? [v=3]                                                                 [c=2]Sí[c=0]              No
+[v=1] Rupias por [v=2] Ganon de Oro, ok? [v=3]                                                                 Sí              [c=2]No[c=0]
+Posees Monedas de Oro? Es increíble que pudieras encontrar dinero tan antiguo!
+Contienen mucho oro...                          Veamos...
+[v=1] Monedas de Oro por [v=2] Ganon de Oro, ok? [v=3]                                                         [c=2]Sí[c=0]              No
+[v=1] Monedas de Oro por [v=2] Ganon de Oro, ok? [v=3]                                                         Sí              [c=2]No[c=0]
+Qué quieres venderme?                           [c=2]- MONEDAS DE ORO[c=0]                                - Rupias                                        - Nada
+Qué quieres venderme?                           - Monedas de Oro                                [c=2]- RUPIAS[c=0]                                        - Nada
+Qué quieres venderme?                           - Monedas de Oro                                - Rupias                                        [c=2]- NADA[c=0]
+Ha pasado mucho tiempo desde que me divertí tanto!
+Uno de mis ancestor quiso contruir un puente, pero al final sólo hizo el plano...
+Soy de un lineaje de incapaces, no es de extrañarse que soy pésimo en todo lo que hago... Para rematar, estoy enfermo y nadie me ama...
+Tienes una soga?                                Dámela por favor, te daré la herencia de mi familia, no tengo ningún descendiente de todas maneras...
+Esta soga por su herencia, ok?                                                                                 [c=2]Sí[c=0]              No
+Esta soga por su herencia, ok?                                                                                 Sí              [c=2]No[c=0]
+Bueno...                                        ...Gracias...                                   ...
+Lo sabía, de todas maneras nunca nadie me ha dado nada...
+Cambiaste la soga por el plano de un puente.
+...                                             Me gustaría estar solo por un momento...
+Buenos días, tú debes der Link, te estaba esperando.
+Soy un descendiente de Los 7 Sabios. Perseguido por los secuaces de Ganon, tuve que huír y esconderme aquí.
+Verte aquí me da esperanza, iré a la cueva del  portal.                                         Toma esto, creo que te podrá ayudar.
+Obtienen un pimiento!
+Buena suerte Link!
+Bienvenido Link, te estaba esperando...
+Imagino que tienes muchas preguntas, permíteme contestarte.
+Estamoe en Hyrule, pero en un tiempo que no es  más que un triste futuro para tí... El portal que tomaste te permitió venir aquí y ahora, para ser el testigo de estos tristes días...
+Quieres saber qué sucedió? Ganon atacó el castillo, más fuerte que nunca, y fuiste derrotado.
+Antes de su ejecución, la princesa Zelda se las arregló para enviar su plan a Los Sabios. Ella pensó que el robo de la Ocarina fue el punto crítico de la guerra, así que ordenó que los descendientes de Los 7 Sabios te entreguen la Ocarina cuando llegaras por el portal.
+Como estás aquí frente a mí, significa que      finalmente el día ha llegado.                   Sin embargo... la ocarina nunca fue encontrada.
+Así que trazamos otro plan. Vamos a enviarte al pasado, la noche en que la ocarina fue robada, y atraparás al ladrón con las manos en la masa.
+Ahora sólo quedamos 3 descendientes, encuentra los otros dos y también la Llave del Tiempo, y abriremos el portal.
+Toma esto, te ayudará en tu búsqueda:
+Obtienes el gancho!                             Usalo para saltar grietas!
+Uno de ellos está escondido en un templo, en la mitad del lago.
+El último sabio está escondido cerca de las cataratas.
+La llave del tiempo fue colocada en la Gran Pirámide.
+Los sabios están en la cueva, la llave del      tiempo en tu posesión...                        Muy bien, encuéntranos en la cueva del portal, ha llegado la hora.
+En el Templo del Tiempo se esconde una canción que, tocada con la ocarina, te llevará de regreso a tu tiempo.
+Buena suerte Link, todos contamos contigo.
+10 flechas por 10 Ganon de Oro?                                                                                [c=2]Sí[c=0]              No
+10 flechas por 10 Ganon de Oro?                                                                                Sí              [c=2]No[c=0]
+5 bombas por 15 Ganon de Oro?                                                                                  [c=2]Sí[c=0]              No
+5 bombas por 15 Ganon de Oro?                                                                                  Sí              [c=2]No[c=0]
+Un corazón por 4 ganon de Oro?                                                                                 [c=2]Sí[c=0]              No
+Un corazón por 4 ganon de Oro?                                                                                 Sí              [c=2]No[c=0]
+Un jarro pequeño de magia por 8 Ganon de Oro?                                                                  [c=2]Sí[c=0]              No
+Un jarro pequeño de magia por 8 Ganon de Oro?                                                                  Sí              [c=2]No[c=0]
+Un jarro grande de magia por 16 Ganon de Oro?                                                                  [c=2]Sí[c=0]              No
+Un jarro grande de magia por 16 Ganon de Oro?                                                                  Sí              [c=2]No[c=0]
+Un segundo es una gota del jarro de café. Apresúrate.
+Quieres trabajar para mí? La verdadera medida de un hombre es la cantidad de trabajo que hace. Eso es lo que siempre digo.
+Corre en la máquina para cargarla, luego párate en el botón. Esto encenderá la máquina de café. Luego acércate para recibir tu dinero.
+No te pregunto si estás listo, la preparación es el último refugio de los débiles...
+Nunca tomo más de 17 tazas de café en un día.   Pero la primera siempre es la mejor.
+Más negro que una noche sin luna, más caliente  y amargo que el mismo infierno...               Eso es café.
+Obviamente, tomaré otra.
+Por cierto, no pongo sal en mi café. No se llevan bien, después de todo.
+Este café... Es mi propio preparado especial. Lo llamo Godot 107. Estoy tratando de dicidir si reducir la acidez o la amargura... Esa es la única cosa que tengo en mi mente en este momento...
+Ha... !                                         Mi 6ta taza de café me está mirando fríamente.
+Godot Blend 102...                              ... Mi favorito.
+Ha... ! Esta preparado...                       Godot Blend 107...                              He decidido... Está muy amargo después de todo!
+...                                             Aaah, amargo!
+Los débiles son arrasados por las mareas del    destino, los fuertes se la beben.               Ha... ! Hoy también está amargo... Igual que mi destino.
+...Mi 11ava taza.                               He prometido no beber más de 17 durante un día. Lo que significa que aún estoy bien, hasta la última gota.
+Una sola gota de leche es todo lo que se necesita para destruir la magia pura y negra en la taza!
+... Qué amargura.*Aprenderás a apreciar la amargura cuando seas mayor.
+Sabes cuál es mi regla de oro?                  Botar las tazas de café malo.                   Siempre podrás tener otra.
+Ha... !                                         Entonces diré que tengo tiempo... para disfrutar otra taza de pura magia negra!
+Dos minutos no es suficiente tiempo para preparar una buena taza o' Joe...
+...Taza número 17. La última.                   Parece que ha llegado la hora de finalizar el trato.
+Tomé mis 17 tazas, aquí tienes una recompensa
+Aún nececitas dinero? ...
+Una poción roja por 40 Ganon de Oro?                                                                           [c=2]Sí[c=0]              No
+Una poción roja por 40 Ganon de Oro?                                                                           Sí              [c=2]No[c=0]
+Una poción verde por 25 Ganon de Oro?                                                                          [c=2]Sí[c=0]              No
+Una poción verde por 25 Ganon de Oro?                                                                          Sí              [c=2]No[c=0]
+Mi familia sólo conoció desgracias por siglos... Incluso si te quisiera ayudar, no tengo nada para tí.
+Soy el hombre más suertudo del país.
+No me crees?                                    Ten este tesoro que encontré esta mañana cuando paseaba, probablemente encontraré otro mañana!
+Obtienes una joya preciosa!
+Que extraño, al darte esta joya me hace sentir como que que he cancelado una antigua deuda familiar...
+Soy el mejor chef repostero del país.
+Desafortunadamente, no tengo nada en stock, no se puede encontrar nada dulceo por aquí...
+Tienes mermelada???                             Pensé que las últimas estaban caducadas desde hace siglos! Dámela, por el stock de mi desayuno especial!
+Esta mermelada por su stock, ok?                                                                               [c=2]Sí[c=0]              No
+Esta mermelada por su stock, ok?                                                                               Sí              [c=2]No[c=0]
+Tendré mi mejor desayuno en siglos!             Aquí está lo que había guardado:
+En ese caso, por qué me la enseñaste?           Ostentoso...
+Cambiaste la mermelada por un cruasán.
+Tarde o temprano, imagino que tendré que encontrar un nuevo trabajo...
+Luces incluso más pobre de lo que soy...        Debería ver al tipo de la cafetería, el busca un empleado.
+También toma esto, la necesitarás:
+Obtienes una bolsa capaz de guardar hasta 99 Ganon de Oro!
+Entonces, como te va con el dinero?
+No tienes nada interesante, regresa si encuentras divisas preciosas, te daré un buen precio.
+Dices que esas son rupias? Qué curiso.
+Parecen ser preciosas, veamos...
+[v=1] Rupias por [v=2] Monedas de Oro, ok? [v=3]                                                               [c=2]Sí[c=0]              No
+[v=1] Rupias por [v=2] Monedas de Oro, ok? [v=3]                                                               Sí              [c=2]No[c=0]
+[v=1] Ganon de Oro por [v=2] Monedas de Oro, ok? [v=3]                                                         [c=2]Sí[c=0]              No
+[v=1] Ganon de Oro por [v=2] Monedas de Oro, ok? [v=3]                                                         Sí              [c=2]No[c=0]
+Qué quieres venderme?                           [c=2]- RUPIAS[c=0]                                        - Ganon de Oro                                  - Nada
+Qué quieres venderme?                           - Rupias                                        [c=2]- GANON DE ORO[c=0]                                  - Nada
+Qué quieres venderme?                           - Rupias                                        - Ganon de Oro                                  [c=2]- NADA[c=0]
+Hola Link, te estaba esperando.
+Soy el líder de Los 7 Sabios, y también el más poderoso de ellos. Te vi en mis sueños, y también a un futuro muy triste...
+Tu presencia aquñi parece demostrar que tuve éxito... Al menos parcialmente...
+Yo fuí el que creó el portal hacia el futuro, para que seas testigo de mis visiones.
+También construí el Templo del Tiempo con los otros Sabios, para que puedas viajar como desees a través del tiempo.
+De ahora en adelante depende de tí. Debes encontrar los 7 cristales mágicos que abrirán el camino al legendario Templo de las Diosas, y ser en primero en tomar la Trifuerza!
+Que su camino guíe al verdader héroe a la Trifuerza.
+No me juzges por mi tamaño, soy un herrero de primera clase! 
+Pero debo admitir, sucede que acabo de llegar y no pude traert toda mi fragua aquí... Así que no tengo nada.
+Has cargado contigo un yunqueu???               Eres tonto?
+Te puedo ayudar a deshacerte de él si quiere,   necesito unos.                                  Incluso te daré una pequeña recompensa por tu molestia.
+Este yunque por una recompensa, ok?                                                                            [c=2]Sí[c=0]              No
+Este yunque por una recompensa, ok?                                                                            Sí              [c=2]No[c=0]
+Gracias, aquí tienes, es una herradura que hice hace tiempo:
+Sólo lo dije para ayudarte...
+Obtienes una herradura!
+Con todas las cosas que me trajiste, puedo abrir mi fragua otra vez!
+Es un buen martillo lo que tienes aquí...       Será útil en mi fragua... Me lo darás? Te reompensaré con una de mis creaciones.
+Este martillo por una recompensa, ok?                                                                          [c=2]Sí[c=0]              No
+Este martillo por una recompensa, ok?                                                                          Sí              [c=2]No[c=0]
+Gracias, aquí está una de mis creaciones más hermosas:
+Como si supieras qué hacer con ese martillo...
+Ontienes una campanilla!
+Tienes polvo de oro?*Lo necesitaré para forjar nuevos objetos maravillosos, me los darás por una magnífica recompensa?
+El polvo de oro por una magnífica recompensa,   ok?                                                            [c=2]Sí[c=0]              No
+El polvo de oro por una magnífica recompensa,   ok?                                                            Sí              [c=2]No[c=0]
+Gracias, ten este espejo mágico a cambio!       Fue hechizado por los Sabios y tiene poderes misteriosos...
+Realmente fue una buena recompensa...
+Obtienes el espejo mágico!
+Tu espada es realmente impresionante... Pero creo que puedo mejorarla...
+Quieres que trabaje en tu espada?                                                                              [c=2]Sí[c=0]              No
+Quieres que trabaje en tu espada?                                                                              Sí              [c=2]No[c=0]
+Dame tu espada, no demoraré demasiado.
+Que lástima, tu espada realmente es fascinante...
+Has encargado la Espada Maestra.
+No te preocupes, no demoraré.
+Está lista, aquí está tu espada:
+La Espada Maestra fue reforjada! Su poder aumentó!
+Un día, forjaré una espada tan hermosa como la tuya, palabra de herrero!
+10 flechas por 5 Monedas de Oro?                                                                               [c=2]Sí[c=0]              No
+10 flechas por 5 Monedas de Oro?                                                                               Sí              [c=2]No[c=0]
+5 bombas por 10 Monedas de Oro?                                                                                [c=2]Sí[c=0]              No
+5 bombas por 10 Monedas de Oro?                                                                                Sí              [c=2]No[c=0]
+Un corazón por 1 Moneda de Oro?                                                                                [c=2]Sí[c=0]              No
+Un corazón por 1 Moneda de Oro?                                                                                Sí              [c=2]No[c=0]
+Un jarro pequeño de magia por 3 Monedas de Oro?                                                                [c=2]Sí[c=0]              No
+Un jarro pequeño de magia por 3 Monedas de Oro?                                                                Sí              [c=2]No[c=0]
+Un jarro grande de magia por 6 Monedas de Oro?                                                                 [c=2]Sí[c=0]              No
+Un jarro grande de magia por 6 Monedas de Oro?                                                                 Sí              [c=2]No[c=0]
+Hola, soy el jefe de la aldea.                  No escuches los chismes que dicen que la aldea está en peligro, y disfruta tu estadía con nosotros.
+Una poción roja por 15 Monedas de Oro?                                                                         [c=2]Sí[c=0]              No
+Una poción roja por 15 Monedas de Oro?                                                                         Sí              [c=2]No[c=0]
+Una poción verde por 10 Monedas de Oro?                                                                        [c=2]Sí[c=0]              No
+Una poción verde por 10 Monedas de Oro?                                                                        Sí              [c=2]No[c=0]
+Te ves bastante pobre, ni siquiere tienes una   bolsa de dinero?                                Aquí, toma ésta:
+Obtienes una bolsa capaz de guardar hasta 99 Monedas de Oro!
+Encontrasde el Libro de Mudora!                 De ahora en adelante entiendes el Hyliano antiguo!
+Hola, soy uno de Los 7 Sabios, de pasada por este pueblo.
+El libro de Mudora fue hechizado para permitir a cualquiera que lo tenga hablar nuestro lenguaje.
+Debes venir de muy lejos si no hablas nuestro lenguaje... Conserva este libro, tte ayudará.
+Como cantinero, conozco todos los chismes...
+Aquí está uno: se dice que mi color favorito es el amarillo...                                  Pero no te dije nada, ok?
+Es una bonita gema amarilla la que tienes... Me la cambiarás por mi mejor botella?
+Esta gema amarilla por una botella, ok?                                                                        [c=2]Sí[c=0]              No
+Esta gema amarilla por una botella, ok?                                                                        Sí              [c=2]No[c=0]
+Yay! Es mía!
+Tsssk... nadie te dará más por ella, sabes...
+Cambiaste la gema amarilla por una botella de vino.
+Quieres algo de tomar? Será gratis para tí.
+Hola muchacho, me llamo Ganondorf, si escuchas cualquier cosa sobre los cristales mágicos, ven y dímelo, entendido?
+Soy el líder de Los Caballeros Hylianos.        Si no quieres problemas, pórtate bien sigue el ejemplo de Ganondorf, él es un buen tipo.
+Ganondorf sigue invitándonos a beber...         Realmente es un buen tipo...
+Beber está muy bien... pero cuándo comemos?
+No me digas... este olor... es un cruasán!      Dámelo, por mi amistad eterna!
+Este cruasán por su amistad, ok?                                                                               [c=2]Sí[c=0]              No
+Este cruasán por su amistad, ok?                                                                               Sí              [c=2]No[c=0]
+Gracias!!!                                      Toma este regalo a cambio, es el símbolo de nuestra amistad!
+... Estás declarándole la guerra a un Caballero Hyliano???                                      Estás demente???
+Cambiaste el cruasán por una cerveza.
+Hola camarada!                                  Tomarás algo con nosotros?
+Si quieres que un Caballero Hyliano revele      información confidencial, debes invitarlo a un trago. Es nuestra regla.
+Ya conoces todo lo que sé...                    Hic!
+Tengo un montón de información confidencial que sólo nosotros sabemos (y Ganondorf). Un vaso de cerveza cuesta 1 Moneda de Oro, hacemos trato?
+Información por 1 Moneda de Oro, ok?                                                                           [c=2]Sí[c=0]              No
+Información por 1 Moneda de Oro, ok?                                                                           Sí              [c=2]No[c=0]
+Los Caballeros Hylianos fueron fundados para proteger el Templo de las Diosas... Se supone que este templo esconde una reliquia poderosa llamada Trifuerza...
+Para abrir el camino al Templo de las Diosas, debes ir a la Tierra sagrada, al norte de aquí, y pararte en el símbolo de la Trifuerza con los 7 cristales en tu poder.
+Los 7 cristales mágicos están escondidos por todo Hyrule... Y, mantén esto en secreto, uno de ellos es custodiado por los legendarios Caballeros Hylianos!
+Nuestro jefe lo persiguió abajo...
+Que fuerza... nos venció fácilmente...
+El está... abajo...                             Ten cuidado... ... amigo.
+Es demasiado fuerte... el jefe no aguantará     mucho tiempo...                                 Ayúdalo, te lo ruego...
+Alguien ... deténgalo...
+Intentasa interponerte en mi camino también? En guardia!
+Fracasé...                                      Perdóname maestro...
+Gracias por tu ayuda Link, si no fuera por tí, Ganondorf se hubiera llevado el cristal...
+La órden de los Caballeros Hylianos fue fundada para proteger el acceso al Templo de las Diosas, era nuestra misión proteger el cristal. Sin él, los otros 6 son inútiles.
+Desafortunadamente, con el tiempo, la órden se debilitó. Y hoy fallamos.
+Conserva el cristal, eres más confiable que nosotros...
+Respecto a Ganondorf... No pudimos imaginar que nos traicionaría... Esa casi uno de nosotros...
+Fue enviado a la prisión Supermax, al norte de  aquí...                                         No debería dar problemas ahora...
+Fallé contra Ganondorf, pero no me subestimes. Soy el hombre que mató cien lobos.
+No has matado ningún lobo??? Eres un cobarde!
+Has matado sólo un lobo??? Eres un debilucho!
+Sólo has matado [v=1] lobos? No es la gran cosa...
+Has matado [v=1] lobos? No está mal...
+Has matado [v=1] lobos? Impresionante...
+Has matado 100 lobos? Igual que yo... es difícil de creer...
+Has matado más de cien lobos??? Increíble...
+Realmente mereces esta recompensa:
+Es hora de que regrese a entrenar...
+Cambiaré mi peinado.
+Me pondré a dieta.
+Ya no daré más información confidencial.
+No pasaré mis días en la taberna.
+Se me dañó mi última hacha... Así que juego al ahorcado para matar tiempo, pero no es lo mismo...
+Tienes un hacha para mí???                      Dámela! Te la cambio por una soga ugual de efectiva!
+Esta hacha por una soga, ok?                                                                                   [c=2]Sí[c=0]              No
+Esta hacha por una soga, ok?                                                                                   Sí              [c=2]No[c=0]
+Estoy tan conmovido...                          Esto es para tí:
+...                                             Deberías ser castigado con la pena de muerte...
+Cambiaste el hacha por una soga.
+No puedo esperar para probar el hacha!
+Hola, soy el jefe de esta aldea.
+La Aldea mabe es como un paraíso para los turistas, pero como el infierno para los ladrones.
+Sabías que un famoso pirata fue capturado aquí cuando pasaba por este pueblo?
+Encontraste un martillo!
+Mi esposo es un guardia de la prisión.          Es un trabajo de tiempo completo, así que no lo veo muy seguido...
+???                                             Qué tienes ahí???                               Déjame verlo!
+Darle el anillo de bodas, ok?                                                                                  [c=2]Sí[c=0]              No
+Darle el anillo de bodas, ok?                                                                                  Sí              [c=2]No[c=0]
+Es el anillo de bodas de mi esposo!             No me digas que otra ves fue a vera a ELLA!!!
+...                                             Parece más y más sospechoso...                  Dame eso!
+Cambiaste el anillo de bodas por nada.
+Fuera de mi camino!
+No vayas al almacén, no lo he limpiado!
+Un famoso pirata llamado Ganon D. Roger fue capturado en este pueblo hace mucho tiempo...
+Se dice que un descendiente de este pirata vive en Hyrule en la actualidad...
+Estás en la residencia de Los 7 Sabios.         Este lugar está consagrado a la meditación y al conocimiento.
+Nuestro jefe, el más poderoso de Los 7 Sabios, rara vez se encuentra aquí. El prefiere quedarse meditando en su casa al sur de la aldea.
+Hace algunos años, éramos 8 Sabios. Uno de nosotros, Agahnim, pensó que era nuestro deber coger la Trifuerza y usarla para el bienestar de todos.
+Nuestro jefe se negó rotundamente. Dijo que tal poder no debería caer en manos de los hombres, que las consecuencias serían desastrosas...
+Después de esta discusión, Agahnim abandonó la órden. Pero recientemente, él reapareció dotado de extraños poderes... Desafortunadamente no sabemos qué es lo que está planeando.
+Un pirata legendario vino a Hyrule hace mucho tiempo. El fue capturado después de una larga pelea contra los Caballero Hylianos de esa época.
+El día de su ejecución pública, un hombre de la multitud le preguntó dónde había escondido su tesoro. El pirata explicó que lo había escpndido en 4 templos en Hyrule.
+Después de esta confesión, muchos fuero en búsqueda del tesoro pero nunca nadie regresó...
+Conociste un hombre llamado Ganondorf?          Cuando él era un niño, por poco termina en el estómago de un lobo, pero fue salvado por un antiguo miembro de nuestra órden.
+Desde entonces, él considera a si salvador como su maestro.
+Nuestro jefe nos pidió que unamos nuestros poderes para crear un templo muy especial al este de aquí. Dice que este templo salvará el mundo...
+La montaña al norte de la aldea esconde un templo. Al final del templo se esconde un tesoro increíble. Pero... es demasiado peligroso entrar.
+Aún no puedo creer que fueras capaz de encontrar el tesoro...
+COMO??? ENCONTRASTE EL TESORO DEL TEMPLO!!!
+Increíble... toma esto, quiero recompensarte por esta hazaña!
+Ha pasado mucho tiempo desque que EL me diera algo...
+Tienes una joya?*Es de EL verdad?*Sí, sólo puede ser de EL!
+Darle la joya?                                                                                                 [c=2]Sí[c=0]              No
+Darle la joya?                                                                                                 Sí              [c=2]No[c=0]
+Es muy amable de su parte...                    Podrías ir a la prisión y darle esta carta, por favor?
+...                                             Le diré a EL!
+Cambiaste la joya por una carta.
+He! He! He!
+Soy el jefe de la aldea y er... de todas formas, Los Sabios son los que mandan aquí...
+Está cerrado al público.
+Te hemos esperado por mucho tiempo...           Tómate tu tiempo para visitar mi ópera...
+Esta ópera tiene una larga historia, tómate tu tiempo para descubrirla...
+Bienvenido visitante, permíteme contarte la historia de esta ópera.
+Soy el fundador, pero anteriormente no era más que un simple ladrón.
+Un día, un robo salió mal y los Caballeros Hylianos que patrullaban cerca de la taberna me cayeron encima. Fui castigado y enviado a prisión.
+En prisión, encontré una vieja calabera bajo mi litera. La usé como accesorio para recitar monólogos, muy al deleite de mi compañero de celda.
+De esta manera nació mi pasión por el teatro y luego por la ópera, en prisión.
+Brevemente antes de mi liberación, hice la promesa a la vieja calabera de contruir el más suntuoso de los teatros antes de la liberación de mi compañero de celda.
+Una vez libre. fue en busca de una tierra para construir. Hasta el día en que, perseguido por lobos, tuve que refugiarme en los Bosques Perdidos.
+Así que cuando encontré este claro, en el extremo lejano del bosque, en un escenario verde, protegido por árboles de mil años de antiguedad...
+Empecé a construir mi ópera. Los planos fueron hechos rápidamente, pero sin dinero para pagar obreros, parecía una tarea imposible.
+Cuando estaba a punto de rendirme, un tipo raro vino y me entregó la calabera, y me recordó mi promesa.
+Después de meses de trabajp, la ópera fue terminada. Era la ópera más hermosa jamás vista en Hyrule.
+Rápidamente, prestigiosos artistas llegados de todos los países llegaron a actuar aquí. Había alcanzado mi sueño y cumplido mi promesa.
+Durante la guerra contra Ganon, muchos contrabandistas usaron el caos para prosperar.
+Uno de ellos no era otro que mi antiguo compañero de celda, recientemente liberado, que me pidió usar la ópera como escondite.
+Con el regreso de la paz, el Rey de Hyrule deseó acabar con el contrabando. Envió sus mejores soldados para perseguir a los culpables.
+Tenía miedo de perderlo todo debido a mi complicidad, le pedí a mi viejo amigo que se fuera, diciéndole que lo entregaría al Rey si se negaba.
+Obligado a dejar la ópera, los bandidos me encerraron en su antiguo escondite, con los empleados, y lo quemaron.
+Así fue como morí junto con mi ópera, que fue destruida para siempre...
+Sabes mi historia,  no tienes algo que mostrarme?
+He esperado que vengas durante siglos, para cancelar esa vieja deuda...
+Hacer que cancele su deuda?                                                                                    [c=2]Sí[c=0]              No
+Hacer que cancele su deuda?                                                                                    Sí              [c=2]No[c=0]
+Mi vida fue corta, pero emocionante. Nada de eso hubiera sido posible sin tu intervención.
+Quería darte esto: el serrucho que usé para construir la ópera!
+...                                             Estás bromeando?
+Cambiaste el pagaré por un serrucho.
+Ahora vete, es hora de que descasemos en paz...
+Una melodía está grabada en la estela:
+Aprendiste la canción de vuelo!                 Tócala afuera para teletransportarte!
+Aprendiste la canción del tiempo invertida!     Tócala afuera para retroceder en el tiempo!
+Aprendiste la canción del tiempo doble!         Tócala afuera para viajar al futuro!
+Unas notas están grabadas. Si tuvieras un instrumento, podrías intentar tocarlas.
+Soy un guardia de medio tiempo en esta prisión. Fuera de las horas de visita, no te puedo dejar pasar.
+Esta carta es para mí? Probablemente es de ELLA... Dámela rápido!
+Darle la carta?                                                                                                [c=2]Sí[c=0]              No
+Darle la carta?                                                                                                Sí              [c=2]No[c=0]
+...                                             ...                                             ...
+Debo dejar mi puesto... es ehhh... una emergencia... Pareces un buen tipo, toma mi lugar. Oh y guárdame esto:
+No es para mí?                                  Que lástima...
+Cambiaste la carta por un anillo de bodas.
+Debo irme!
+Soy un simple inocente que llegó aquí por error... No tendrías algo que me ayude a escapar de aquí?
+Una... cuchara huh?
+Darle la cuchara?                                                                                              [c=2]Sí[c=0]              No
+Darle la cuchara?                                                                                              Sí              [c=2]No[c=0]
+Gracias... ... ...                              Aquí, toma este regalo como agradecimiento...   Pertenecía a mi antiguo compañero de celda...
+Parece que una oportunidad maravillosa de escape con cuchara se perdió...
+Cambiaste la cuchara por una calabera.
+Bien... hay trabajo que hacer...
+No pensé que mi misió pudiera fallar... Los Caballeros Hylianos no son muy fuertes, incluso su jefe se está volviendo débil...
+La explosión vino del cuarto de la derecha.
+Obtienes un núcleo de energía!                  ...                                             No está tan mal...
+El acceso al salón del trono sólo se permite a personas autorizadas.
+El acceso a esta parte del castillo está reservado para el personal de mantenimiento.
+Sabes la frase secreta?                         Sabía que bajo tu apariencia de lindo conejito se escondía un soldado élite de Ganon.
+Puedes pasar.
+Tienes autorización para ir a todas partes del  castillo???                                     Bien, si es así, pasa...
+Veniste a liberarme?                            No necesitaba tu ayuda...
+Quería tomar este castillo por la fuerza... Así que vine a desafiar a Ganon.
+Fue una larga y terrible pelea...               Pero los guardias del salón del trono finalmente me arrestaron...
+Qué mala suerte, realmente quería conocer a Ganon...
+En ese entonces esuché que hay una frase secreta que decir a los guardias para poder pasar. Debes decirles esto:
+Lo siento, pero nuestra princesa está en otro castillo!
+La próxima vez, lo haré.
+!!!                                             Hey, tú eres...
+Un conejito rosado!                             Me encanta el rosado!
+Siéntete como en casa, conejito, te autorizo a pasear en el castillo como desees.
+Siento como que te he visto antes...            De todas maneras, no sabes dónde puedo encontrar una buena cerveza?
+Es una cerveza lo que tienes?                   La tomo, es por eso que estás aquí de todas formas, verdad?
+Aquí, puedes tener esto, como recompensa.
+Cambiaste la cerveza por clavos...
+Creo que me caes bien, eres un buen tipo.       No tendrías otra cerveza para mí?
+Encontrastel el mapa!!!                                                                         Presiona [CARTE] para ver el mapa del calabozo.
+Encontraste la brújula!!!                                                                       El Jefe y los cofres ahora aparecen en el mapa.
+Encontraste la llave del Jefe!!!                                                                Usala para abrir su guarida.
+Encontraste una llave pequeña.                                                                  Usala para abrir una puerta.
+                    Nivel 1 :                                                                                  Templo del Coraje
+                    Nivel 2 :                                                                                Templo de la Sabiduría
+                    Nivel 3 :                                                                                   Templo del Poder
+                    Nivel 4 :                                                                                  Ruinas del Abismo
+                    Nivel 5 :                                                                                  Pirámide Fantasmal
+                 Gran Pirámide
+              Templo de la Tierra
+                Templo del Aire
+                 Templo de Agua
+                Templo de Fuego
+              Templo de las Diosas
+                 Nivel Final :                                                                                 Castillo de Hyrule
+          Segunda Aventura - Nivel 1 :                                                                               Casino
+          Segunda Aventura - Nivel 2 :                                                                         Torre de las Gemas
+        Segunda Aventura - Nivel Final :                                                                          Destino Final
+              Castillo de Hyrule
+Enconstrate un corazón nuevo!!!                                                                 Tu vida se incrementa en un corazón!!!
+Encontraste un arco !!!                                                                         Eqúipalo presionando Enter y luego úsalo con [OBJECT] para atacar a distancia!
+Encontraste el Pendiente del Coraje!!!
+Encontraste el Pendiente de la Sabiduría!!!
+Encontraste el Pendiente del Poder!!!
+Encontraste los Guantes de poder!!!                                                             Ahora puedes levantar rocas!
+Templo del Coraje
+Templo de la Sabiduría
+Templo del Poder
+Ruinas del Abismo
+Pirámide Fantasmal
+Gran Pirámide
+Templo de la Tierra
+Templo del Aire
+Templo de Agua
+Templo de Fuego
+Templo de las Diosas
+Castillo de Hyrule
+Casino
+Torre de las Gemas
+Destino Final
+¿Quieres regresar a la entrada de la mazmorra?                                                                 [c=2]Sí[c=0]              No
+¿Quieres regresar a la entrada de la mazmorra?                                                                 Sí              [c=2]No[c=0]
+Me rindo, tú ganas!                             Cómo pudiste vencer la Técnica final LOL???
+No me dejarás escapar tan fácilmente, huh?      El código en el siguiente cuarto es 12086... Ahora vete.
+Debñi haberme quedado en la pandilla familiar...
+Encontraste la linterna!!!                                                                      Ahora puedes encender fuego!
+Encontraste las aletas!!!                                                                       Ahora puedes cruzar el agua!
+???                                             Cómo pudiste llegar aquí?                       Se suponía que mi mascota debía hacer guardia!
+...                                             Dices que eres Link?                            ...                                             Entonces ya ha llegado el momento?
+Los secuaces de Ganon descubrieron mi existencia y destruyeron la aldea donde vivía. Es por eso que vine a este templo a esconderme.
+Continúa en tu búsqueda Link, te veré de nuevo en la cueva del portal!
+Encontraste una túnica mejor!!!                                                                 Tu defensa se incrementa un punto!
+Encontraste la Llave del Tiempo!!!                                                              Ve rápidamente a mostrársela al Sabio!
+Encontraste el martillo mágico!!!                                                               Usala para clavar las estacas que bloquean tu camino!
+Encontraste el mitón titán!!!                                                                   Ahora puedes levantar las rocas más pesadas!!!
+Encontraste una gema amarilla!                                                                  Es un tesoro inestimable!
+Artículo de intercambio                         Habla con una buena persona para cambiarlo.
+Encontraste el Arco de las Hadas!!!                                                             Ahora tus flechas son increíblemente poderosas!!!
+Encontraste una gema verde!                                                                     Es un tesoro inestimable!
+Encontraste la vara de hielo!!!                                                                 Ahora puedes congelar tus enemigos a distancia!!!
+Encontraste una gema azul!                                                                      Es un tesoro inestimable!
+Encontraste la vara de fuego!!!                                                                 Ahora puedes disparar poderosas bolas de fuego!!!
+Encontraste una gema roja!                                                                      Es un tesoro inestimable!
+Encontraste un escudo increñiblemente           resistente!!!                                   Tu defensa aumenta un punto!
+Por fin estas aquí.
+Realmente pensaste que podrías adelantar a un hechicero capaz de teletransportarse?
+Creo que tengo que agradercerte.                Encontrar este templo no es fácil. Ganondorf y yo pasamos meses sin encontrar ni siquiera un cristal.
+Y el día en que finalmente estuvimos apunto de  obtener uno fácilmente, apareciste y derrotaste al poderoso Ganondorf...                        Debo admitir que no lo esperaba...
+Sin embargo, parecía obvio que estabamos trabajando hacia el mismo fin y que estabas adelantado a nosotros.
+Así que decidimos que encontrarías el templo por nosotros.
+Te divertiste todo este tiempo, pero ahora es nuestro turno.
+Es hora de que desaparezcas.
+Qué???                                          No es posible que derrotes a Aghanim???
+...                                             Aún queda esperanza, puedo hacer algo...
+Bienvenido Link.                                Somos Din, Nayru y Farore, las Diosas de Hyrule fundadoras.
+Tus esfuerzos para salvar Hyrule finalmente te llevaron frente a nosotras.
+Como ya has de haber entendido, no puedes cambiar el pasado. Todos tus actos sólo tuvieron el efecto de preparar el presente de donde vienes.
+Ganondorf vino a nuestro templo para seguir a su maestro, y finalmente lo trajo de vuelta a la vida.
+El deseó ser capaz de viajar entre la vida y la muerte, pero sólo los demonis más poderosos pueden hacerlo.
+Gracias a sus nuevos poderes, Ganon fue capaz de resucitar a Aghanim, pero su nueva naturaleza sobrepasó su razón.
+El convirtió a Agahnim en zombi, se autoproclamó Rey del Mal y vino a conquistar Hyrule.
+El jefe de la aldea central organizó la defensa de Hyrule después de autoproclamarse Rey. El hizo forjar la Espada Maestrae hizo que los Caballeros y los Sabios trabajaran juntos.
+Los Caballeros Hylianos fueron destruídos, pero su jefe, armado con la Espada Maestra, hirió a Ganon lo suficiente para dar tiempo a los Sabios de sellarlo para siempre.
+Pero tú sabes lo que sucedió después. Usando Agahnim, Ganon eliminó los descendientes de los Sabios y rompió su sello.
+Con la Espada Maestra lo derrotaste varias veces, pero el mundo de los muertos no puede tenerlo prisionero durante mucho tiempo.
+Ganon encontró la trifuerza, pero este templo esconde otros tesoros...
+Contra la Trifuerza, capaz de dar poder ilimitado al que la toca creamos una anti-Trifuerza.
+Hay 3 armas con un poder excepcional. Si dos de ellas se unen contra el poseedor de la Trifuerza, anulará su deseo.
+La Espada de Coraje es legítimamente tuya. También te confiamos el Arco de la Sabiduría, dáselo a la única persona capaz de usarlo.
+En cuanto al Tridente de Poder, se lo enviamos al último elegido.
+Obtienes la Espada del Coraje!!!                Esta arma legendaria otorga un poder tremendo.
+Obtienes el Arco de la Sabiduría!!!             Un poder misterioso te impide usarlo...
+Ha llegado la hora Link, te enviamos de regreso a tu era.
+Link! Soy Zelda! Te estoy hablando por telepatía, no me podía comunicar!
+Ganon ha vuelto! Está atacando el castillo!     Todos los guardias han sido convertidos en monstruos bajo su control, ten cuidado!
+El salón del trono está más hacia el norte.
+La Princesa aún no está lista para recibirte.
+Sin embargo, ella me dió instrucciones de decirte que algunas cosas han sido guardadas para tí en el almacén.
+La Princesa estará lista para verte en unos minutos.
+Tienes autorización para entrar en el almacén?  Muy bien, puedes pasar.
+El almacén está más hacia al este.
+El castillo está bajo control.
+Encontraste un escudo!                          Tu defensa aumenta un punto!
+Obtienes una bolsa capaz de guardar hasta 99 rupias !
+La Princesa Zelda te está esperando.
+Hola Link.
+Eehhh, Link!                                    Aquí estoy!                                     Ya-hoo!
+Algo terrible sucedió anoche, Link...
+La Ocarina del Tiempo que trajiste de Termina... La tenía en una bóveda de seguridad aquí en el castillo, pero ha sido robada!
+Envié guardias por todo Hyrule, así que no creo que el ladrón llegue muy lejos...
+Me gustaría que encuentres y traigas de regreso la Ocarina. Empieza tu investigación en la bóveda de seguridad del sótano, te veré allá.
+Las bóvedas de seguridad están por este camino.
+El acceso a la bóveda de seguridad está estrictamente prohibido.
+La Princesa te dio instrucciones de investigar  el robo de la Ocarina?                          En ese caso puedes entraro. No queda nada que puedan robar, de todas maneras...
+Estaba haciendo guardia en esta puerta anoche. Estoy absolutamente seguro que nadie pasó por aquí...
+Aquí es donde teníamos la Ocarina. El guardia oyó un gran ruido. Pero antes de que se diera cuenta que venía de adentro, la bóveda había sido vaciada.
+Si ves algo sospechoso, párate en frente y presiona [ACTION] para decírmelo.
+Es una antorcha... Qué esperabas? un candelabro?
+Esta bóveda es donde tenñiamos la Ocarina. Hasta anoche...
+Este cuarto solía tener salida a las            alcantarillas...                                Antes de convertirlo en bóveda de seguridad hice que sellaran el camino. Las cortinas de allí son para esconder que no fue un buen trabajo...
+Es ehhh... un pato de caucho.                   No me preguntes qué está haciendo allí...
+Aparentemente te intrigan esas cortinas...      Veamos qué hay detrás...
+Así que de ahí es de dónde vino el ladrón!      Qué estás esperando? Ve tras él!
+Me siento olvidado...                           Aquí estoy, cuidando una bóveda se seguridad vacía y totalmente abierta...
+Has... eehhh... robado la ocarina???            Digamos que es por una buena causa...
+TUTORIAL : Presiona [ACTION] en frente de un objeto ligero como un jarrón para levantarlo. Presiona otra vez para lanzarlo.
+TUTORIAL : Presiona [ACTION] en frente de un cofre para abrirlo. Puedes abrir un cofre sólo si estas abajo de él.
+               Castillo de Hyrule
+Este camino conduce a las celdas, no tienes nada que hacer ahí.
+Este camino conduce a una zona de alta seguridad. Incluso el Héroe de Hyrule no tiene permitido entrar.
+Eehhh... Cómo llegaste aquí?
+Estas escaleras conducen a las bóvedas de seguridad.
+El salón del trono está tras esta puerta.
+El salón del trono se llama así porque sólo queda un trono...
+La puerta de la izquierda lleva al salón de baile y a los cuartos VIP, y la puerta de arriba conduce al salón comedor y a la cocina.
+En los viejos días tocaba el piano parado, pero con el transcurso del tiempo decidí sentarme.
+Estoy aquí como músico, pero en las noches de baile prefiero olvidar el arpa y bailar.
+Escuché que un ladrón de instrumentos musicales vino anoche al castillo.
+Afortunadamente, él no vió mi violín.
+Un poco de tónico?                                                                                             [c=2]Sí[c=0]              No
+Un poco de tónico?                                                                                             Sí              [c=2]No[c=0]
+Chef en el castillo, no es tan fácil...
+Dicen que los mejores cocineros son capaces de leer y cocinar al mismo tiempo. En cuanto a mí, puedo hacerlo a medias.
+Nunca sé qué preparar, tengo que encontrar una idea rápido!
+Mesera en el castillo. es un buen trabajo, tranquilo y bien remunerado.
+El ala oeste es sólo para VIPs. Y eehhh... no recibí ninguna órden respecto a tí... un descuido, probablemente.
+El ala este del castillo es sólo para guardias. Lo siento, pero no tienes nada que hacer allí.
+Esta puerta conduce al almacén.
+La biblioteca es un lugar... bastante tranquilo.
+Qué historia tam horrible...                    Está el Reino de Hyrule realmente condenado a caer en las garras de Ganon?
+Qué debemos hacer ahora?                        Si Ganon nunca hubiera encontrado la Trifuerza...
+Ese espejo es para mí?                                                                                         [c=2]Sí[c=0]              No
+Ese espejo es para mí?                                                                                         Sí              [c=2]No[c=0]
+... Me estás dando un espejo??? Piensas que soy el tipo de chica que pasa todo el día mirándose al espejo???
+Oh bueno, puedes tener esto, como agradecimiento.
+...                                             Vete rápido si no queres terminar en el calabozo.
+Cambiaste el espejo por una cuchara!
+Estás en una zona de alta seguridad, debo       pedirte que te retires.
+Encontraste uns túnica increíblemente           resistente!!!                                   Tu defensa aumenta un punto!
+Qué feliz de verte por fin, Link!
+Dices que este arco es para mí y es capaz de    derrotar a Ganon?                               Súper!
+Le diste el Arco de la Sabiduría a la Princesa.
+No te preocupes por mí, puedo ir por mi propio camino.
+Debemos derrotar a Ganon, anda primero, te      encontraré allá.                                Primero debo maquillarme.
+!!!                                             Ganon recuperó su forma humana!                 Ya no es un demonio, no es capaz de regresar del mundo de los muertos, ganamos!
+???
+Al fin estás aquí Link.                         Esta vez la victoria será mía, perfeccioné mis técnicas especialmente para vencerte.
+Una vez más nos enfrentamos Link.               Siento que desperté de una larga pesadilla...
+Agahnim estaba equivocadp, la Trifuerza nunca debió ser encontrada.
+Escúchame cuidadosamente Link, hace muchísimo tiempo, Agahnim desapareción después de que abandonó la órden de los Sabios.
+El día en que volvió, estaba dotado con un poder muy oscuro. Como Sabio, él nunca fue capaz de lanzar bolas de fuego, su especialidad eran los conejos...
+Le debía demasiado a Agahnim como para oponérmele, pero hice investigaciones mientras estábamos buscando los cristales.
+Parece que el obtuvo sus poderes de una entidad muchísimo más poderosa y peligrosa de lo que yo jamás podré ser
+Aún hay en Hyrule lugares que no has explorado y enemigos con los que no has luchado, tu aventura aún no ha terminado...
+Quieres saber por qué te estoy diciento todo    esto?                                           Creo que no me libraré tan fácilmente, después de lo que he hecho...
+Si fracaso hoy, alguien tendrá que vengar a     Aghanim en mi lugar.                            Pero...
+... serás capaz?
+Encontraste la Trifuerza!!!
+Ganon ha recuperado forma humana...             Aún es nuestro enemigo?
+Listo para un último duelo?
+En el instante en que el tocó la melodía con la ocarina, Link fue regresado a su área. El corrió al castillo para contarle su historia a la Princesa...
+La ocarina llevó a Link una vez más. El Héroe de Hyrule llegó a un gran campo cubierto de nieve...
+Así es como Ganondorf fue derrotado para siempre. La Trifuerza una vez más fue devuelta y protegida en el castillo.                                                                                     Sin embargo, preocupado por las últimas palabras  de Ganondorf, Link pasó el resto de su vida       cuidando de Hyrule.                                                                                                                                   Fin de la primera aventura.
+Esta puerta conduce a un cuarto secreto.        Obtén los 9 rangos en la pantalla de récords y regresa después de obtener el segundo para poder entrar.
+Puedes entrar, Héroe Legendario.
+Bienvenido al cuarto oscuro de 3T!
+Soy Vincent, yo ideé y programé el juego.
+Hola, soy Lobalúz.                              Yo ayudé a inventar el juego, hice algunos gráficos nuevos, probé la mayoría de los calabozo y traduje los textos.
+Hola, soy Raiden!                               Me ocupé de los mapas.
+RESULTADOS:
+Tiempo de juego:
+Vidas perdidas: [v=1]
+Vidas perdidas: [v=1]
+Corazóns: [v=1] / 16
+Gemas de Poder: [v=1] / 200
+Objetos : [v=1] / 144
+Intercambio: [v=1] / 45
+Peces: [v=1] / 30
+Enemigos: [v=1] / 100
+¡Completaste el juego al [v=1] %!
+RANGO:
+RANGOS:
+- Héroe del Tiempo
+- Héroe de Hyrule
+- Héroe de los dos Mundos
+- Héroe Legendario
+- Orgulloso
+- Maestro de Esgrima
+- Maestro de Espadas Legendario
+- Perfeccionista
+- Admirador de Zelda
+- Veterano
+- Novato
+- Maratonista del Tiempo
+- Maratonista de Hyrule
+- Maratonista de los dos Mundos
+- Maratonista Legendario
+- Muerto viviente
+- Kamikaze
+Bienvenido al Casino!
+Bienvenido, querido invitado, la cuota de       entrada es 10 Ganon de Oro, estás de acuerdo?                  [c=2]Sí[c=0]              No
+Bienvenido, querido invitado, la cuota de       entrada es 10 Ganon de Oro, estás de acuerdo?                  Sí              [c=2]No[c=0]
+Mala suerte.
+Regresa cuando tengas dinero, mi amigo.
+Está cerrado por ahora, regresa después.
+Bienvenido al Casino familiar, quieres que te   explique las reglas del juego por 5 Ganon de    Oro?                                                           [c=2]Sí[c=0]              No
+Bienvenido al Casino familiar, quieres que te   explique las reglas del juego por 5 Ganon de    Oro?                                                           Sí              [c=2]No[c=0]
+En este Casino, los enemigos no te quitarán energía sino dinero. Cada ataque te hará perder un poco más que el anterior.
+No te queda ni una mondeda, estás expulsado. No nos interesan clientes sin dinero.
+Sin embargo, si ganas los varios juegos del casino, ganarás premios fabulosos.
+Golpea los enemigos para detenerlos en una marca. Obtén las 4 marcas diferentes y ganarás el premio.
+Quieres probar por 10 Ganon de Oro?                                                                            [c=2]Sí[c=0]              No
+Quieres probar por 10 Ganon de Oro?                                                                            Sí              [c=2]No[c=0]
+Ya gastaste este juego.
+Felicitaciones!                                 Aquí está tu premio:
+Probablemente tendrás mejor suerte la próxima vez.
+Golpea los enemigos para detenerlos en una figura. Obtén un 4, un 2 y un 1 y ganarás el premio.
+Habla conmigo si fallas, empezarás de nuevo con los números que ya has encontrado.
+Quieres conpletar el juego por 5 Ganon de Oro?                                                                 [c=2]Sí[c=0]              No
+Quieres conpletar el juego por 5 Ganon de Oro?                                                                 Sí              [c=2]No[c=0]
+Esta es la línea de partida de la Gran Carrera del Casino, tienes 12 segundos para llegar a la meta.
+Estás perdiendo tiempo, sabes?
+Esta es la meta de la Gran Carrera del Casino. Anda a la línea de partida si quieres romper el récord.
+Golpea los enemigos para detenerlos en una figura y obtén más que yo con un dado menos.
+Escoge una figura, 1 o 6. Lanzaré 4 dados, si tu figura aparece, ganas, sino,  pagarás 10 veces la diferencia con el dado más cercano.
+Quieres probar?                                                                                                [c=2]Sí[c=0]              No
+Quieres probar?                                                                                                Sí              [c=2]No[c=0]
+Qué figura escoges?                                                                                            [c=2]Uno[c=0]           Seis
+Qué figura escoges?                                                                                            Uno           [c=2]Seis[c=0]
+Golpea un enemigo para detenerlo en una figura que será trasladado a un bloque de la derecha. Luego empuja los bloques hasta que lleguen a 0 en las casillas marcadas.
+Te vendo una llave por un precio igual a la suma de tus cuatro dados multiplicado por los míos.
+Te vendo una llave por [v=1] Ganon de Oro, estás de acuerdo?                                                       [c=2]Sí[c=0]              No
+Te vendo una llave por [v=1] Ganon de Oro, estás de acuerdo?                                                       Sí              [c=2]No[c=0]
+El salón del cofre está al final del corredor de la izquierda. Sólo los mejores clientes pueden aspirar a llegar.
+Abriste el cofre?                               Ahora deberías probar el Salón Especial.
+Gente como tú no tiene nada que hacer en un     casino...                                       Estamos en quiebra...
+Bienvenido al Gran Concurso de Preguntas del Casino!
+Yo soy el que hace las preguntas aquí, y las respuestas equivocadas son costosas.
+No te preguntaré si quieres jugar, soy el jefe  después de todo.                                Así que empecemos...
+Siguiente pregunta...
+Este casino tiene un total de 6 diferentes      juegos sin contar éste, correcto?                              [c=2]Correcto[c=0] Incorrecto
+Este casino tiene un total de 6 diferentes      juegos sin contar éste, correcto?                              Correcto [c=2]Incorrecto[c=0]
+Correcto! Hay 7 juegos, 1 para el mapa, 1 para la brújula y 5 para las llaves.
+No! Hay 7 juegos, 1 para el mapa, 1 para la brújula y 5 para las llaves.
+El tipo de la cafetería nunca toma más de 16    tazas de café al día, correcto?                                [c=2]Correcto[c=0] Incorrecto
+El tipo de la cafetería nunca toma más de 16    tazas de café al día, correcto?                                Correcto [c=2]Incorrecto[c=0]
+Correcto! El puede tomar hasta 17 tazas!
+No! El puede tomar hasta 17 tazas!
+Este juego contiene un total de 150 gemas de    poder, correcto?                                               [c=2]Correcto[c=0] Incorrecto
+Este juego contiene un total de 150 gemas de    poder, correcto?                                               Correcto [c=2]Incorrecto[c=0]
+Correcto! Hay 200.
+No! Hay 200.
+Sólo quedan 7 casas en la aldea del centro, es  verdad?                                                        [c=2]Correcto[c=0] Incorrecto
+Sólo quedan 7 casas en la aldea del centro, es  verdad?                                                        Correcto [c=2]Incorrecto[c=0]
+Correcto! Las otras 3 están destruídas.
+No! Habían 10 casas, 3 de ellas están destruídas así que sólo quedan 7.
+Has muerto [v=1] veces, estoy en lo correcto?[v=2]                                                              [c=2]Correcto[c=0] Incorrecto
+Has muerto [v=1] veces, estoy en lo correcto?[v=2]                                                              Correcto [c=2]Incorrecto[c=0]
+Correcto! Has muerto [v=1] veces.
+No! Has muerto [v=1] veces.
+14 respuestas incorrectas son suficientes para  que cualquier jugador pierda, correcto?                        [c=2]Correcto[c=0] Incorrecto
+14 respuestas incorrectas son suficientes para  que cualquier jugador pierda, correcto?                        Correcto [c=2]Incorrecto[c=0]
+Correcto! 14 respuestas incorrectas hacen perder mínimo 1050 Ganon de Oro de 999 transportables.
+No! 14 respuestas incorrectas hacen perder mínimo 1050 Ganon de Oro de 999 transportables.
+Soy el jefe más súper del juego, correcto?                                                                     [c=2]Correcto[c=0] Incorrecto
+Soy el jefe más súper del juego, correcto?                                                                     Correcto [c=2]Incorrecto[c=0]
+Ha! Ha! Estamos de acuerdo.
+...                                             Eso es incorrecto, según mis principios...
+Sólo son necesarios 3 calabozos del pasado para finalizar el juego, correcto?                                  [c=2]Correcto[c=0] Incorrecto
+Sólo son necesarios 3 calabozos del pasado para finalizar el juego, correcto?                                  Correcto [c=2]Incorrecto[c=0]
+Correcto! Templo del Aire, Templo de Fuego y Templo de las Diosas.
+No! De hecho 3 son necesarios: Templo del Aire, Templo de Fuego y Templo de las Diosas.
+Más de 4000 Ganon de Oro son necesarias para    obtener todos los premios del hada gorda,       correcto?                                                      [c=2]Correcto[c=0] Incorrecto
+Más de 4000 Ganon de Oro son necesarias para    obtener todos los premios del hada gorda,       correcto?                                                      Correcto [c=2]Incorrecto[c=0]
+Correcto! 3798 son suficientes.
+No! 3798 son suficientes.
+En el tiempo de Zelda, el palacio tenía 80      columnas, correcto?                                            [c=2]Correcto[c=0] Incorrecto
+En el tiempo de Zelda, el palacio tenía 80      columnas, correcto?                                            Correcto [c=2]Incorrecto[c=0]
+Correcto! Ciertamente habían 80.
+No! En realidad habían 80.
+Has contestado [v=1] de mis preguntas, es verdad?[v=2]                                                               [c=2]Correcto[c=0] Incorrecto
+Has contestado [v=1] de mis preguntas, es verdad?[v=2]                                                               Correcto [c=2]Incorrecto[c=0]
+Correcto! Pero ahora lo hiciste.
+No! Pero ahora lo hiciste.
+Puedes encontrar un máximo de 16 pedazos de     corazón en el juego, correcto?                                 [c=2]Correcto[c=0] Incorrecto
+Puedes encontrar un máximo de 16 pedazos de     corazón en el juego, correcto?                                 Correcto [c=2]Incorrecto[c=0]
+Correcto! Hay 16 en total.
+No! Hay 16 en total.
+Una poción azul cuesta el equivalente de 40     Rupias + 40 Ganon de Oro + 10 Monedas de Oro,   correcto?                                                      [c=2]Correcto[c=0] Incorrecto
+Una poción azul cuesta el equivalente de 40     Rupias + 40 Ganon de Oro + 10 Monedas de Oro,   correcto?                                                      Correcto [c=2]Incorrecto[c=0]
+Correcto! Eso es 160 Rupias.
+No! Eso equivale a 160 Rupias, el precio de una poción azul.
+En la mina, las vías del carrito podían cambiar con 2 palancas, correcto?                                      [c=2]Correcto[c=0] Incorrecto
+En la mina, las vías del carrito podían cambiar con 2 palancas, correcto?                                      Correcto [c=2]Incorrecto[c=0]
+Correcto! Sólo habían 1.
+No! Sólo habían 1.
+Tuviste que encontrar 3 diferentes tipos de     peces para ganar el concurso de pesca, correcto?               [c=2]Correcto[c=0] Incorrecto
+Tuviste que encontrar 3 diferentes tipos de     peces para ganar el concurso de pesca, correcto?               Correcto [c=2]Incorrecto[c=0]
+Correcto! Necesitabas 5.
+No! Necesitabas 5.
+Sólo la Espada Maestra es capaz de devolver los proyectiles, correcto?                                         [c=2]Correcto[c=0] Incorrecto
+Sólo la Espada Maestra es capaz de devolver los proyectiles, correcto?                                         Correcto [c=2]Incorrecto[c=0]
+Correcto! Tu espada actual puede hacer eso      también.
+No! Tu espada actual puede hacer eso también.
+Zelda es más alta que tú, verdad?                                                                              [c=2]Correcto[c=0] Incorrecto
+Zelda es más alta que tú, verdad?                                                                              Correcto [c=2]Incorrecto[c=0]
+Correcto! Eres un pixel más alto.
+No! Eres un pixel más alto.
+El calabozo 3 tiene 3 pisos, correcto?                                                                         [c=2]Correcto[c=0] Incorrecto
+El calabozo 3 tiene 3 pisos, correcto?                                                                         Correcto [c=2]Incorrecto[c=0]
+Correcto! Y uno solo para el jefe.
+No! 2 pisos más 1 del jefe, 3 en total.
+La encarnación demonñiaca de Link es un conejo  rosado, correcto?                                              [c=2]Correcto[c=0] Incorrecto
+La encarnación demonñiaca de Link es un conejo  rosado, correcto?                                              Correcto [c=2]Incorrecto[c=0]
+Correcto! Es Oni Link.
+No! Es Oni Link.
+Tingle nunca debió haber existido, correcto?                                                                   [c=2]Correcto[c=0] Incorrecto
+Tingle nunca debió haber existido, correcto?                                                                   Correcto [c=2]Incorrecto[c=0]
+Eehhh... nos estamos saliendo del tema, pero diré que está bien.
+...                                             Para mí, el nunca debió existir.
+Quieres darme Ganon de Oro, correcto?                                                                          [c=2]Correcto[c=0] Incorrecto
+Quieres darme Ganon de Oro, correcto?                                                                          Correcto [c=2]Incorrecto[c=0]
+Correcto! Lástima...
+Gracias!
+Las mordeduras de serpiente te dejan con medio  corazón sin importar tu vida y defensa,         correcto?                                                      [c=2]Correcto[c=0] Incorrecto
+Las mordeduras de serpiente te dejan con medio  corazón sin importar tu vida y defensa,         correcto?                                                      Correcto [c=2]Incorrecto[c=0]
+Correcto! Si sólo te quedara medio corazón, la mordedura te deja sin vida.
+No! Si sólo te quedara medio corazón, la mordedura te deja sin vida.
+La propiedad de Link tiene 77 montoncitos de    hierba, correcto?                                              [c=2]Correcto[c=0] Incorrecto
+La propiedad de Link tiene 77 montoncitos de    hierba, correcto?                                              Correcto [c=2]Incorrecto[c=0]
+Correcto! Me alegra saber que no soy el único   que las ha contado!
+No! Te das cuenta que conozco tu propiedad mejor que tú???
+2 elevado a la 12 es menor que la raíz cúbica de 7, es cierto?                                                  [c=2]Correcto[c=0] Incorrecto
+2 elevado a la 12 es menor que la raíz cúbica de 7, es cierto?                                                  Correcto [c=2]Incorrecto[c=0]
+Correcto! Bueno, eso creo.
+No! Creo que es al revés.
+Es posible terminar el juego moviéndose sólo en caminata lunar, correcto?                                      [c=2]Correcto[c=0] Incorrecto
+Es posible terminar el juego moviéndose sólo en caminata lunar, correcto?                                      Correcto [c=2]Incorrecto[c=0]
+Correcto! Pero puedes intentarlo si quieres.
+No! Vueno, debrías intentarlo...
+Es en el pasado cuando puedes ganar más dinero  matando un enemigo, correcto?                                  [c=2]Correcto[c=0] Incorrecto
+Es en el pasado cuando puedes ganar más dinero  matando un enemigo, correcto?                                  Correcto [c=2]Incorrecto[c=0]
+Correcto! Es en el presente, con las rupias rojas.
+No! Es en el presente, con las rupias rojas.
+Tu espada puede vencer cualquier oponente,      excepto un jefe, en menos de 6 golpes, correcto?               [c=2]Correcto[c=0] Incorrecto
+Tu espada puede vencer cualquier oponente,      excepto un jefe, en menos de 6 golpes, correcto?               Correcto [c=2]Incorrecto[c=0]
+Correcto! Hay enemigos que no puedes matar con la espada.
+No! Hay enemigos que no puedes matar con la espada.
+El acertijo del desierto tenía 6 rocas, verdad?                                                                [c=2]Correcto[c=0] Incorrecto
+El acertijo del desierto tenía 6 rocas, verdad?                                                                Correcto [c=2]Incorrecto[c=0]
+Correcto! Yo nunca pude ensontrar el orden...
+No! Hiciste trampa para resolverlo, estoy seguro...
+Has jugado más de [v=1] horas, correcto? [v=2]                                                                 [c=2]Correcto[c=0] Incorrecto
+Has jugado más de [v=1] horas, correcto? [v=2]                                                                 Correcto [c=2]Incorrecto[c=0]
+Correcto! El tiempo vuela, verdad?
+No! El tiempo vuela, verdad?
+Las gallinas del pasado son más pacientes que   las del presente, correcto?                                    [c=2]Correcto[c=0] Incorrecto
+Las gallinas del pasado son más pacientes que   las del presente, correcto?                                    Correcto [c=2]Incorrecto[c=0]
+Correcto! Sabes lo que haces...
+No! Tendrás que revisarlo...
+Fue posible capturar 4 peces diferentes en el   Lago Hylia, correcto?                                          [c=2]Correcto[c=0] Incorrecto
+Fue posible capturar 4 peces diferentes en el   Lago Hylia, correcto?                                          Correcto [c=2]Incorrecto[c=0]
+Correcto! Habían 6 especies diferentes.
+No! Habían 6 especies diferentes, entonces era posible capturar 4.
+Santa Claus existe, es verdad?                                                                                 [c=2]Correcto[c=0] Incorrecto
+Santa Claus existe, es verdad?                                                                                 Correcto [c=2]Incorrecto[c=0]
+Correcto! Y lo conociste.
+No! Lo conociste.
+En el pasado, las montañas tenían un total de 16 piedras, correcto?                                             [c=2]Correcto[c=0] Incorrecto
+En el pasado, las montañas tenían un total de 16 piedras, correcto?                                             Correcto [c=2]Incorrecto[c=0]
+Correcto! Habían solamente 15, obviamente.
+No! Habían solamente 15, obviamente.
+Hay un total de 42 alfombras en el Casino,      correcto?                                                      [c=2]Correcto[c=0] Incorrecto
+Hay un total de 42 alfombras en el Casino,      correcto?                                                      Correcto [c=2]Incorrecto[c=0]
+Correcto! Hay 44.
+No! Hay 44.
+Las gemas de poder pueden ser intercambiadas por 5 artículos diferentes, correcto?                              [c=2]Correcto[c=0] Incorrecto
+Las gemas de poder pueden ser intercambiadas por 5 artículos diferentes, correcto?                              Correcto [c=2]Incorrecto[c=0]
+Correcto! Veo que no olvidaste la roca de escarcha.
+No! Probablemente olvidaste la roca de escarcha.
+La túnica verde te da un punto de defensa,      correcto?                                                      [c=2]Correcto[c=0] Incorrecto
+La túnica verde te da un punto de defensa,      correcto?                                                      Correcto [c=2]Incorrecto[c=0]
+Correcto! La túnica verde es tu primera y no te da puntos de defensa.
+No! La túnica verde es tu primera y no te da puntos de defensa.
+Habían 5 espejos en el dormitorio de Zelda,     correcto?                                                      [c=2]Correcto[c=0] Incorrecto
+Habían 5 espejos en el dormitorio de Zelda,     correcto?                                                      Correcto [c=2]Incorrecto[c=0]
+Correcto! Le diste el quinto.
+No! De hecho, tú le diste el quinto.
+La Pirámide en el pasado tenía 85 cuartos,      correcto?                                                      [c=2]Correcto[c=0] Incorrecto
+La Pirámide en el pasado tenía 85 cuartos,      correcto?                                                      Correcto [c=2]Incorrecto[c=0]
+Correcto! Sólo 84.
+No! Sólo 84.
+Las flechas de fuego son más fuertes que las de hielo, correcto?                                               [c=2]Correcto[c=0] Incorrecto
+Las flechas de fuego son más fuertes que las de hielo, correcto?                                               Correcto [c=2]Incorrecto[c=0]
+Correcto! Las flechas de fuego tiene una fuerza de 10, las de hielo tienen 7.
+No! Las flechas de fuego tiene una fuerza de 10, las de hielo tienen 7.
+Las bombas cusan tanto daño como el martillo,   correcto?                                                      [c=2]Correcto[c=0] Incorrecto
+Las bombas cusan tanto daño como el martillo,   correcto?                                                      Correcto [c=2]Incorrecto[c=0]
+Correcto! Las bombas tienen una fuerza de 5, el martillo tiene 3.
+No! Las bombas tienen una fuerza de 5, el martillo tiene 3.
+Qué??? Me derrotaste???                                                                                        [c=2]Correcto[c=0]   Correcto
+Qué??? Me derrotaste???                                                                                        Correcto   [c=2]Correcto[c=0]
+Has encontrado el Escudo de las Diosas!!!       Ahora tu vida regresa constantemente!!!
+En esta piedra está escrita la historia de Hyrule en Hyliano antiguo:
+Después de que la diosas Din, Nayru y Farore crearon Hyrule, una entidad maligna con un poder sin igual vino a ocupar esta tierra.
+A pesar de sus grandes poderes, las diosas tuvieron que aceptar que nunca podrían destruir esta criatura.
+...                                             La continuación de la historia no esá escrita aquí. Tal vez en otra piedra?
+Has encontrado la Túnica de las Diosas!!!       Ahora tu magia regresa constantemente!!!
+En esta piedra está escrita la historia de Hyrule en Hyliano antiguo:
+Din, Nayru y Farore no podían estar sin hacer nada, y desafiaron la entidad maligna.
+Después de una larga y desesperada batalla, tenían que encontrar una solución y se las arreglaron para dividir el poder de la entidad.
+Sin embargo, para hacerlo, tuvieron que crear criaturas malvadas que contenían fragmentos del poder de la entidad maligna.
+Lo que quedó de la entidad maligna está atrapada en forma humana, y no debe ser liberada mientras las criaturas malvadas no sean derrotadas.
+Bienvenido entre nosotros, quieres que te       explique cómo funciona este juego?                             [c=2]Sí[c=0]              No
+Bienvenido entre nosotros, quieres que te       explique cómo funciona este juego?                             [c=0]Sí              [c=2]No
+Los enemigos en este calabozo son muy especiales, cada uno de ellos te hará perder el doble del golpe anterior.
+Sé extremadamente cuidadoso, 7 golpes serán suficientes para matarte.
+Además, el número de enemigo que mates, al igual que el tipo de enemigos, serán contados. Una cierta cantidad es requerida para abrir algunas puertas.
+Buena suerte Link, cualquier cosa que suceda queda aquí.
+Elimina al menos 30 enemigos de 4 tipos diferentes y abriré la puerta.
+Buena suerte Link.
+Has derrotado suficientes enemigos, te abriré...
+Elimina al menos 60 enemigos de 10 tipos diferentes y abriré la puerta.
+Elimina al menos 20 enemigos de 3 tipos diferentes y abriré la puerta.
+Elimina al menos 99 enemigos de 12 tipos diferentes y abriré la puerta.
+Elimina al menos 30 enemigos de 12 tipos diferentes y abriré la puerta.
+Elimina al menos 40 enemigos de 6 tipos diferentes y abriré la puerta.
+Elimina al menos 50 enemigos de 7 tipos diferentes y abriré la puerta.
+Encontraste la Máscara de Oni Link!!!           Usa [ONILINK] para transformarte y volverte increíblemente poderoso.
+Felicitaciones Link! Has derrotado cada uno de los tipos de enemigo... Es increíble...
+Te debo mucho, quieres que te pague ahora?
+Finalmente soy capaz de tomar mi forma original, prepárate para recibir mucho!                   Adiós, Héroe de Hyrule!
+Apúrate Link! Usa la Espada de las Diosas para eliminarlo definitivamente!
+No en mí, tonto...
+Felicitaciones Link, ahora vamos a casa.
+Se ha hecho justicia. Mi maestro finalmente fue vengado.
+Fuera de mi camino!
+Qué demonios estás haciendo?
+Déjame explicarte la razón de nuestra presencia en el calabozo de la entidad sin nombre.
+Después de tu partida del castillo que siguió a mi victoria sobre Ganon, Ganondorf me devolvió la Trifuerza y me contó su historia.
+Rápidamente llegamos a la conclusión que el hombre de la enciclopedia de monstruos era extremadamente sospechoso, así que, cuando supimos de un guardia que habías ido a verlo, decidimos venir en tu ayuda.
+Como pensamos, sólo el poder de las 3 Armas de las Diosas unidas y usadas por los 3 elegidos podría destruir esta plaga para siempre.
+En cuanto a Ganondorf, él no tiene nada que ver hora con el monstruo que conocimos, ya no has oscuridad en él y es digno de confianza.
+De ahora en adelante Hyrule está en paz, para bien. Los monstruos nuca reaparecerán de nuevo, el mal ha sido derrotado definitivamente.
+Ahora dime Link, qué vas a hacer en tus días libres?
+Hyrule fue salvada y toda amenaza eliminada.      Después de largas aventuras, los tres héroes      habían cumplido su destino.                                                                         Las tres Diosas vinieron a Hyrule a felicitarlos, y se fueron de nuevo, llevándose la Trifuerza.                                                      El poderoso Ganondorf rápidamente se volvió el    nuevo jefe de los guardias y pasó el resto de sus días protegiendo el reino contra enemigos que nunca llegaron.
+La Princesa Zelda celebró a lo largo del país y   aún más lejos, siendo la soberana que trajo la paz al mundo.                                                                                           Link prefirió escapar de la fama, desapareción, y nadie lo volvió a ver en Hyrule nunca más.
+AYUDA 1/2
+AYUDA 2/2
+Regresar al juego: F1      Siguiente: Derecha
+Regresar al juego: F1     Anterior: Izquierda
+Espadazo:
+Ataque circular:              Mantener espada
+Abrir / Hablar / Levantar:
+Usar el objeto seleccionado:
+Menú de selección de objeto:
+Correr:
+Mirar a los alrededores
+Enciclopedia de peces:
+Artículos de intercambio:
+Bestiario:
+Mapa (exterior o mazmorra):
+Guardar / Salir:
+Transformación Oni-Link:
+Teletransportación (Oni-Link):
+AYUDA
+Regresar al juego: F1
+ENEMIGOS 1
+ENEMIGOS 2
+ENEMIGOS 3
+ENEMIGOS 4
+ENEMIGOS 5
+ENEMIGOS 6
+ENEMIGOS 7
+ENEMIGOS 8
+ENEMIGOS 9
+ENEMIGOS 10
+ENEMIGOS 11
+ENEMIGOS 12
+Creador / Desarrollador:
+Vincent Jouillat
+Ilustraciones:
+Solène Jouillat
+Mapa de Termina:
+Adrien Baptis
+Graphisms :
+Solène Jouillat
+Lucie Pénalver (Lobalùz)
+Probadores:
+Alexandre Chevalier
+Jade Rohart
+Raphaël Remaut
+Agradecimientos:
+¡A Nintendo por crear la saga de The Legend of Zelda!
+¡A la comunidad del foro zeldaroth.fr
+por el apoyo que me ha brindado durante varios años!
+¿No es eso suficiente para ti?                  ... ... ...                                     ¿Qué tal esto en este caso?
+Bueno, la leyenda tenía que admitir que Link era  súper fuerte...                                                                                     Después de poner fin a la eterna amenaza de Ganon, ayudar a las diosas derrotando a la entidad sin   nombre, aquí el señor del terror que pasaba por   allí también fue tomado caro...                                                                     Sinceramente, bien hecho, ¡eres bueno!                                                              Fin de la última misión.
+                 última misión:                                                                                Templo de demasiado
+Templo de demasiado
+No esperaba que completaras este nivel...       ¡Felicitaciones!
+Pero esta vez está realmente terminado, ¡bien   hecho!
+Me pusieron allí para animarte...               ¡Ánimo!

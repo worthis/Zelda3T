@@ -1,0 +1,54 @@
+/*
+
+    Zelda Time to Triumph
+
+    Copyright (C) 2007-2024  Vincent Jouillat
+
+    Please send bugreports with examples or suggestions to www.zeldaroth.fr
+
+*/
+
+#ifndef __ENNEMI137_H__
+#define __ENNEMI137_H__
+
+#include "../../../engine/resources/WImage.h"
+
+#include "../../../engine/util/time/Chrono.h"
+
+#include "../types/Ennemi.h"
+
+class Ennemi137 : public Ennemi {
+    public :
+        Ennemi137(int x, int y);
+        ~Ennemi137();
+
+        void ennLoop();
+        void draw(int offsetX, int offsetY);
+
+        int getX();
+        int getY();
+
+        BoundingBox* getBoundingBox();
+
+        void reset();
+        bool isResetable();
+
+        bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
+
+    private :
+
+        int anim;
+        int animMax;
+        int vanim;
+
+        int cooldown;
+        bool jump;
+
+        WImage* image;
+
+        Chrono chrono;
+
+        BoundingBox box;
+};
+
+#endif  // Ennemi137.h

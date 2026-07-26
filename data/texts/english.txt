@@ -1,0 +1,1728 @@
+PRESS ENTER
+SELECTION SCREEN
+OPTIONS
+RECORDS
+LOAD
+DELETE
+CANCEL
+DELETE?
+YES
+NO
+GAME
+COMMANDS
+AUDIO
+RETURN
+DISPLAY :
+FULL SCREEN
+WINDOWED MODE
+LANGUAGE:                         ENGLISH
+LINK:
+ORIGINAL
+BLOND
+MUSIC:
+SOUNDS:
+KEYBOARD
+GAMEPAD
+NO GAMEPAD FOUND
+PAGE 1 / 2
+PAGE 2 / 2
+TOP:
+BOTTOM:
+LEFT:
+RIGHT:
+RUN:
+SWORD:
+OBJECT:
+ACTION:
+MENU:
+QUIT:
+MAP:
+ENCYCLOPEDIA:
+BARTER ITEMS:
+FISHES:
+TRANSFORMATION ONI-LINK:
+TELEPORTATION (ONI-LINK):
+DEFAULT
+CONFIRM ?
+ESC
+TAB
+SHIFT
+SPACE
+ENTER
+TOP
+BOTTOM
+LEFT
+RIGHT
+YES
+NO
+KEYBOARD LAYOUT :
+AZERTY
+QWERTY
+CAMERA :
+PAGE 1 / 3
+PAGE 2 / 3
+PAGE 3 / 3
+BEST TIME:
+100% RANK
+ULTIMATE RANK
+SPEED RANK
+RANK: UNKNOWN
+RANK: Hyrule's Hero
+RANK: Show-off
+RANK: Hylian marathon runner
+RANK: Termina's Hero
+RANK: Big-head
+RANK: Termina marathon runner
+RANK: Hero of Time
+RANK: Proud
+RANK: Marathon Runner of Time
+RANK: Hero of two worlds
+RANK: Master Swordsman
+RANK: Two worlds marathon runner
+RANK: Legendary Hero
+RANK: Legendary Sword Master
+RANK: Legendary Marathon Runner
+Complete game at 100%.
+Complete game without dying,
+with at most 12 hearts
+and without any bottles.
+Complete game in less than
+seven hours.
+After the events that occured in Termina, Princesse Zelda put an end to Link's exil, announcing to the people the victory of the hero on his evil alter-ego.
+But the Hylian knight, unable to accept his status of hero, left to live as an ermit in a forest given to him by the princess.
+The existence of Termina had to be kept secret, therefore the princess hid the events that took place there and let the people living in an illusory peace.
+But both of them perfectly knew that, from the bottom of hell, Ganon the immortal drawed his power from his first wish to the Triforce, and rounded up his army with a view to invade Hyrule.
+Until the day when, after months spent watching out for an attack, an event came up and put an end to this endless waiting...
+HELLOOO !!!                                     MY LORD LINK !!!
+HELP : Press F1 to read the help.
+Would you like to quit?                                            [c=2]CONTINUE[c=0]                                      SAVE AND QUIT                                QUIT WITHOUT SAVING
+Would you like to quit?                                            [c=0]CONTINUE                                      [c=2]SAVE AND QUIT[c=0]                                QUIT WITHOUT SAVING
+Would you like to quit?                                            [c=0]CONTINUE                                      SAVE AND QUIT                                [c=2]QUIT WITHOUT SAVING
+You have found a Piece of Heart!!!
+[v=1] more until you receive a new Heart Container!!!
+You have obtained one more Heart Container!!!
+You have found a bottle!!!
+Use it to store potions!
+You got a shield!!!                             Your defense has increased !!!
+You got a small sword!!!                        Press [EPEE] to slash bushes or enemies!
+Hold down [EPEE] to prepare a charged attack!
+BOW
+FAIRY BOW
+HOOKSHOT
+BOMBS
+FIRE ARROWS
+RED GEMSTONE
+ANVIL
+HORSESHOE
+JEWEL
+LETTER
+WEDDING RING
+HAMMER
+FIRE ROD
+ICE ROD
+LANTERN
+ICE ARROWS
+BLUE GEMSTONE
+OLD BOOT
+HEAVY HAMMER
+LITTLE BELL
+AXE
+ROPE
+BRIDGE'S PLAN
+MAGIC HAMMER
+OCARINA OF TIME
+FISHING ROD
+SUPER FISHING ROD
+MEGA FISHING ROD
+LIGHT ARROWS
+YELLOW GEMSTONE
+BOTTLE OF WINE
+GOLD DUST
+MAGIC MIRROR
+SPOON
+SKULL
+IOU
+SAW
+GREEN GEMSTONE
+CHART
+BROOM
+MARMELADE POT
+CROISSANT
+BEER
+NAILS
+EMPTY BOTTLE
+RED POTION
+GREEN POTION
+BLUE POTION
+EQUIPMENT:
+You can't fish here, look for a pontoon.
+There doesn't seem to be any fish here...
+Nothing caught...
+You caught a crawfish!
+You caught a smelt!
+You caught a zebrafish!
+You caught a goby!
+You caught a crab!
+You caught an eel larvae!
+You caught a minnow!
+You caught a goldfish!
+You caught a bleak!
+You caught a gudgeon!
+You caught a loach!
+You caught a stickleback!
+You caught a ruffe!
+You caught a blenny!
+You caught a magikarp!
+You caught a trout!                             It's a big fish!
+You caught an ayu!                              It's a big fish!
+You caught a black perch!                       It's a big fish!
+You caught an eel!                              It's a big fish!
+You caught a catfish!                           It's a big fish!
+You caught a largemouth bass!                   It's a big fish!
+You caught a huchen!                            It's a big fish!
+You caught a barbell!                           It's a big fish!
+You caught a lamprey!                           It's a big fish!
+You caught a nase!                              It's a big fish!
+You caught a salmon!                            This fish is huge!
+You caught a sturgeon!                          This fish is huge!
+You caught an arctic charr!                     This fish is huge!
+You caught a carp!                              This fish is huge!
+You caught a brown bullhead!                    This fish is huge!
+It had no effect...
+FISHES 1
+FISHES 2
+FISHES 3
+FISHES 4
+FISHES 5
+FISHES 6
+Crawfish
+Smelt
+Zebrafish
+Goby
+Crab
+Eel larvae
+Minnow
+Goldfish
+Bleak
+Gudgeon
+Loach
+Stickleback
+Ruffe
+Blenny
+Magikarp
+Trout
+Ayu
+Black perch
+Eel
+Catfish
+Largemouth
+Huchen
+Barbell
+Lamprey
+Nase
+Salmon
+Sturgeon
+Arctic charr
+Carp
+Brown bullhead
+???
+Link's house                                                                                    Do not come any closer.
+N: To the Kakariko Village
+E : To Hyrule City
+Good morning sir Link!                          You look dreadful, were you asleep?
+The princess wants to see you urgently at the castle!
+...
+...
+The castle. To the east, don't tell me you've forgotten?
+Hem Hem...
+TUTORIAL : Press [ACTION] near someone to talk with him, or near a sign to read it.
+You have found a power gem!                                                                     Barter it in the city for prices.
+You didn't learn any song.
+[c=2]- INVERTED SONG OF TIME[c=0]                         - Do not play
+[c=0]- Inverted Song of Time                         [c=2]- DO NOT PLAY
+[c=2]- INVERTED SONG OF TIME[c=0]                         - Song of Double Time                           - Do not play
+- Inverted Song of Time                         [c=2]- SONG OF DOUBLE TIME[c=0]                           - Do not play
+[c=0]- Inverted Song of Time                         - Song of Double Time                           [c=2]- DO NOT PLAY
+[c=2]- SONG OF SOARING[c=0]                               - Inverted Song of Time                         - Song of Double Time                           - Do not play
+- Song of Soaring                               [c=2]- INVERTED SONG OF TIME[c=0]                         - Song of Double Time                           - Do not play
+- Song of Soaring                               - Inverted Song of Time                         [c=2]- SONG OF DOUBLE TIME[c=0]                           - Do not play
+[c=0]- Song of Soaring                               - Inverted Song of Time                         - Song of Double Time                           [c=2]- DO NOT PLAY
+No effect...
+Link's estate                                   Private property
+Hyrule City
+N: To Hyrule Castle
+Looks like a good place to build a bridge.
+The castle is up north, hurry up!
+The castle is on the other side of the bridge, rush up!
+The princess is waiting for you at the castle, northerly from here.
+Sometimes, in my dream, I eat them spit roasted...
+This town is full of shops of all kinds, too bad I'm interested in none of them...
+Since the return of the peace, princess Zelda made a lot for Hyrule. There wouldn't be such prosperous town without her.
+To barter is the only way to get some rare objects, or some ingredients to cook.
+My Mom always tells me not to get close the hens... Why?
+The princess insists that we keep watching on the city... But every one know that Ganon is dead...
+I would rather sleep in the castle instead of mounting guard here...
+Life is good in Hyrule since Ganon is not a threat anymore, thanks again Link!
+Since the theft in the castle, the princess doubled the guard... and here I am, again...
+Join up, they said... It's a man's life, they said...
+I heard that a very precious object has been stolen in the castle, and since then the princess would have become an absolute paranoiac...
+I guess it was something she was fond of... A mirror of her collection, probably...
+Zzzzz... Zzzzz...
+I feel like I spent my entire life sweeping...  One of these days, I would like to go on a journey...
+Is this a chart you have?                       Do you mind giving it to me? I dream of going in a travel to see wonderful things!
+I will give you my broom in return, is it okay  with you?                                                     [c=2]YES[c=0]              NO
+I will give you my broom in return, is it okay  with you?                                                     [c=0]YES              [c=2]NO
+Thank you! Take my broom as a reward. It's a first-class broom, it is in my family since centuries, you're making a good deal!
+Oh. If that's so I guess I just have to keep sweeping...
+You traded the chart for a broom!
+So, where am I going?
+You don't have enough.
+Come back if you change your mind.
+A cogwheel for a chicken and 100 rupees?                                                                      [c=2]YES[c=0]              NO
+A cogwheel for a chicken and 100 rupees?                                                                      [c=0]YES              [c=2]NO
+You got a cogwheel!                             Go and give it to the man near of the waterfall!
+A piece of heart for a magma rock and a frosty  rock?                                                         [c=2]YES[c=0]              NO
+A piece of heart for a magma rock and a frosty  rock?                                                         [c=0]YES              [c=2]NO
+Sorry, I have nothing in stock anymore.
+A wallet able to hold up to 200 rupees for 1    feather and 10 rupees?                                        [c=2]YES[c=0]              NO
+A wallet able to hold up to 200 rupees for 1    feather and 10 rupees?                                        [c=0]YES              [c=2]NO
+You got a regular wallet!                       It allows you to hold up to 200 rupees!
+A wallet able to hold up to 500 rubis for a     tapestry and 100 rupees?                                      [c=2]YES[c=0]              NO
+A wallet able to hold up to 500 rubis for a     tapestry and 100 rupees?                                      [c=0]YES              [c=2]NO
+You got a big wallet!                           It allows you to hold up to 500 rupees!!!
+A wallet able to hold up to 999 rupees for 1    amulet, 1 magma rock and 250 rupees?                          [c=2]YES[c=0]              NO
+A wallet able to hold up to 999 rupees for 1    amulet, 1 magma rock and 250 rupees?                          [c=0]YES              [c=2]NO
+You got a huge wallet!!!                        It allows you to hold up to 999 rupees!!!
+A chicken for 2 bags of rice and 3 bags of      olives?                                                       [c=2]YES[c=0]              NO
+A chicken for 2 bags of rice and 3 bags of      olives?                                                       [c=0]YES              [c=2]NO
+You got a chicken!
+You can't carry more...
+A feather for 2 jars of spices and 2 bags of    olives?                                                       [c=2]YES[c=0]              NO
+A feather for 2 jars of spices and 2 bags of    olives?                                                       [c=0]YES              [c=2]NO
+You got a feather!
+A bag of rice for 15 rupees?                                                                                  [c=2]YES[c=0]              NO
+A bag of rice for 15 rupees?                                                                                  [c=0]YES              [c=2]NO
+You got a bag of rice!
+A bag of olives for 10 rupees?                                                                                [c=2]YES[c=0]              NO
+A bag of olives for 10 rupees?                                                                                [c=0]YES              [c=2]NO
+You got a bag of olives!
+BARTER ITEMS
+[v=1] BAGS OF RICE
+[v=1] BAG OF RICE
+[v=1] BAGS OF OLIVES
+[v=1] BAG OF OLIVES
+[v=1] JARS OF SPICES
+[v=1] JAR OF SPICES
+[v=1] PEARLS
+[v=1] PEARL
+[v=1] FEATHERS
+[v=1] FEATHER
+[v=1] CHIKENS
+[v=1] CHICKEN
+[v=1] TAPESTRIES
+[v=1] TAPESTRY
+[v=1] AMULETS
+[v=1] AMULET
+[v=1] PERFUMES
+[v=1] PERFUME
+[v=1] MAGMA ROCKS
+[v=1] MAGMA ROCK
+[v=1] FROSTY ROCKS
+[v=1] FROSTY ROCK
+[v=1] PEPPER
+[v=1] COGWHEEL
+[v=1] GAUGE
+[v=1] WHEEL
+[v=1] ENERGY CORE
+N : To Ganon Castle
+The Moon Pearl for a wheel, a gauge, an energy  core and 100 Gold Ganon?                                      [c=2]YES[c=0]              NO
+The Moon Pearl for a wheel, a gauge, an energy  core and 100 Gold Ganon?                                      [c=0]YES              [c=2]NO
+You got the Moon Pearl!                         You regain your normal aspect and the use of your weapons!
+A wallet able to hold up to 200 Gold Ganon for a pearl and 10 Gold Ganon?                                      [c=2]YES[c=0]              NO
+A wallet able to hold up to 200 Gold Ganon for a pearl and 10 Gold Ganon?                                      [c=2]YES[c=0]              NO
+You got a regular wallet!                       It allows you to hold up to 200 Gold Ganon!
+A wallet able to hold up to 500 Gold Ganon for  an amulet and 100 Gold Ganon?                                 [c=2]YES[c=0]              NO
+A wallet able to hold up to 500 Gold Ganon for  an amulet and 100 Gold Ganon?                                 [c=0]YES              [c=2]NO
+You got a big wallet!                           It allows you to hold up to 500 Gold Ganon!!!
+A wallet able to hold up to 999 Gold Ganon for a perfume, a frosty rock and 250 Gold Ganon?                    [c=2]YES[c=0]              NO
+A wallet able to hold up to 999 Gold Ganon for a perfume, a frosty rock and 250 Gold Ganon?                    [c=0]YES              [c=2]NO
+You got a huge wallet!!!                        It allows you to hold up to 999 Gold Ganon!!!
+A wheel for 3 jars of spices?                                                                                 [c=2]YES[c=0]              NO
+A wheel for 3 jars of spices?                                                                                 [c=0]YES              [c=2]NO
+You got a wheel!                                ...                                             Awesome...
+A bomb bag for 1 pepper et 3 jars of spices?                                                                  [c=2]YES[c=0]              NO
+A bomb bag for 1 pepper et 3 jars of spices?                                                                  [c=0]YES              [c=2]NO
+You got a bomb bag!                             You will be able to blow out new ways!
+A magma rock for a tapestry, an amulet and a    perfume?                                                      [c=2]YES[c=0]              NO
+A magma rock for a tapestry, an amulet and a    perfume?                                                      [c=0]YES              [c=2]NO
+You got a magma rock!
+A pearl for 5 jars of spices and 5 Gold Ganon?                                                                [c=2]YES[c=0]              NO
+A pearl for 5 jars of spices and 5 Gold Ganon?                                                                [c=0]YES              [c=2]NO
+You got a pearl!
+A jar of spices for 10 Gold Ganon?                                                                            [c=2]YES[c=0]              NO
+A jar of spices for 10 Gold Ganon?                                                                            [c=0]YES              [c=2]NO
+You got a jar of spice!
+He! Heeeee! Heeeeeeee!
+Last night, the barman didn't have beer left... Ganon turned red with rage and started to destroy everything...                                 In the end, no one has anything left to drink...
+The destroyed houses were Ganon's opponents' ones...
+The bar is destroyed too, but... ...for other reasons...
+The market place is main attraction of the city, now that the bar is ruined...
+You've got the Moon Pearl?                      Well, in view of the result, maybe it wasn't that much of a good deal...
+The Moon Pearl helps you regain a human aspect. A stallholder has one, but it's far too expensive...
+N : Holy Lands - Camping prohibited
+A wallet able to hold up to 200 Gold coins for a chicken and 10 Gold coins?                                    [c=2]YES[c=0]              NO
+A wallet able to hold up to 200 Gold coins for a chicken and 10 Gold coins?                                    [c=0]YES              [c=2]NO
+You got a regular wallet!                       It allows you to hold up to 200 Gold coins!
+A wallet able to hold up to 500 Gold coins for a perfume and 100 Gold coins?                                   [c=2]YES[c=0]              NO
+A wallet able to hold up to 500 Gold coins for a perfume and 100 Gold coins?                                   [c=0]YES              [c=2]NO
+You got a big wallet!                           It allows you to hold up to 500 Gold coins!!!
+A wallet able to hold up to 999 Gold coins for a tapestry, a magma rock and 250 Gold coins?                    [c=2]YES[c=0]              NO
+A wallet able to hold up to 999 Gold coins for a tapestry, a magma rock and 250 Gold coins?                    [c=0]YES              [c=2]NO
+You got a huge wallet!!!                        It allows you to hold up to 999 Gold coins!!!
+An amulet for 1 chicken and 2 bags of olives?                                                                 [c=2]YES[c=0]              NO
+An amulet for 1 chicken and 2 bags of olives?                                                                 [c=0]YES              [c=2]NO
+You got an amulet!
+A feather for a jar of spices and a bag of      olives?                                                       [c=2]YES[c=0]              NO
+A feather for a jar of spices and a bag of      olives?                                                       [c=0]YES              [c=2]NO
+With all these wolves, it's very dangerous to leave the village...
+Your weapon looks like this of the Knights...   Did you ever fight wolves with it?
+I hate hens, but if the wolves manage to get in the village, maybe they won't dare coming close...
+The torchs at the entry of the village keep the wolves away, but they come closer and closer every day...
+The chief of the village had a bar built recently... They say that he would have done this to attract the Hylian Knights so that they would protect us...
+When time is no good, I make marmelades to keep me busy... But in this season, I guess I will have to find another activity...
+Is that a broom you have?                       I feel a vocation springing up in me... Will you cede it to me for my last marmelade jar?
+This broom for a marmelade pot?                                                                               [c=2]YES[c=0]              NO
+This broom for a marmelade pot?                                                                               [c=0]YES              [c=2]NO
+Great! This will keep my mind away of all the problems of this time, and maybe it will even keep the wolves away of me!
+Sooner or later, I'm sure you will give it to me...
+You traded the broom for a marmelade pot!
+Giving is giving!
+Hyrule Castle
+N : To the graveyard
+Welcome in the castle, Sir Link!
+We were ordered to let you pass.
+Ganon Castle
+5 Gold Ganon and we let ya come'n go in the castle?                                                           [c=2]YES[c=0]              NO
+5 Gold Ganon and we let ya come'n go in the castle?                                                           [c=0]YES              [c=2]NO
+You can go.
+You shouldn't go too far away from the village by this weather...
+Looks like it stopped snowing...
+MAY THE WAY TO THE TRIFORCE BE OPENED FOR YOU... SEE APPEAR THE TEMPLE OF THE TRIFORCE!
+W : To Hyrule Castle
+N : To the waterfalls
+E : Entry of the Lost Woods
+The thief is probably in this forest, you can't give up now!
+You've found a magic crystal!!!
+Again [v=1] left to find!
+Finally you've got them all!!!
+Do you want to save your game?                                                                                [c=2]YES[c=0]              NO
+Do you want to save your game?                                                                                [c=0]YES              [c=2]NO
+Game saved.
+I'm building an opera here, I don't have time to talk during the break!
+What's more, I've lost my precious star accessory...
+You've found my fetish skull???                 I had forgotten it in jail...                   Give it back! I will be eternally grateful!
+This skull for my gratefulness, ok?                                                                           [c=2]YES[c=0]              NO
+This skull for my gratefulness, ok?                                                                           [c=0]YES              [c=2]NO
+Thank you! I regain all motivation! I will finish this opera!
+After a break...
+Thief...
+You traded the skull for an IOU!
+To be or not to be? that is the question...
+Do I say it well ?
+Temple of Courage                                                                               Courage, flee!
+Welcome at Tingle's place!
+Not here either? But where did I lose it?
+You have found my mother-in-law's vase???       She makes me look for it everywhere for         centuries!                                      Give it back right away!
+This vase for a stuff I just found, ok?                                                                       [c=2]YES[c=0]              NO
+This vase for a stuff I just found, ok?                                                                       [c=0]YES              [c=2]NO
+Wise resolution kid.
+Kill him...
+You traded the boot for a hammer!
+You wanna enter my gang?                                                                                      [c=2]YES[c=0]              NO
+You wanna enter my gang?                                                                                      [c=0]YES              [c=2]NO
+Ha! Ha! Ha!                                     I was kidding!                                  Pathetic little fool!                           Do you realize who you are dealing with?!
+It's too risky for you to go in there, you could be seen.
+You have found some wooden planks!              You could use them to build a bridge...
+Temple of Air                                                                                   Risk of cold!
+S : To Mabe Village
+So here is the man who was able to stop the powerful Ganondorf...
+I am Agahnim, former wise man, and Ganondorf's mentor. As for you, you must be Link...
+Like it or not, we are going to take the        Triforce.                                       Farewell!
+Mabe Village
+A tapestry for 2 pearls and 5 jars of spices?                                                                 [c=2]YES[c=0]              NO
+A tapestry for 2 pearls and 5 jars of spices?                                                                 [c=0]YES              [c=2]NO
+You got a tapestry!
+An amulet for 5 chickens and 5 bags of olives?                                                                [c=2]YES[c=0]              NO
+An amulet for 5 chickens and 5 bags of olives?                                                                [c=0]YES              [c=2]NO
+A pearl for 2 jars of spices and 2 bags of rice?                                                              [c=2]YES[c=0]              NO
+A pearl for 2 jars of spices and 2 bags of rice?                                                              [c=0]YES              [c=2]NO
+A bag of rice for a bag of olives and 2 rupees?                                                               [c=2]YES[c=0]              NO
+A bag of rice for a bag of olives and 2 rupees?                                                               [c=0]YES              [c=2]NO
+The men of the village are all obsessed by the  fishing contest...                              I wonder who will be the winner...
+You're participating in the fishing contest too? ...                                             ...
+In the end you're just like the others...
+You won the fishing contest?                    ...                                             ...
+I am your biggest fan!!!
+A fishing stand has just opened at the west of  the village...                                  The owner organizes a great fishing contest to  mark the start of his shop.
+You are in the contest too?                     It's hopeless, I can't find more than three     types of fish...
+Since the fishing contest is over, everyone     returned to his own business.
+Ma e Vi l ge
+Hang-out of the Fearless Knights
+Hang-out of the Fearless Knights                                                                NB : If we are not here, try the tavern.
+A power gem for 2 pearls?                                                                                     [c=2]YES[c=0]              NO
+A power gem for 2 pearls?                                                                                     [c=0]YES              [c=2]NO
+A power gem for 2 feathers?                                                                                   [c=2]YES[c=0]              NO
+A power gem for 2 feathers?                                                                                   [c=0]YES              [c=2]NO
+A power gem for 2 chickens?                                                                                   [c=2]YES[c=0]              NO
+A power gem for 2 chickens?                                                                                   [c=0]YES              [c=2]NO
+A chicken for 1 bag of rice and 2 bags of       olives?                                                       [c=2]YES[c=0]              NO
+A chicken for 1 bag of rice and 2 bags of       olives?                                                       [c=0]YES              [c=2]NO
+Beyond Hyrule's South border, a gigantic ocean is said to stand...
+At the mating season the seagulls get over the cliff separating us from the seashore and come in the village.
+This village is under the protection of the Hylian Knights, you are safe here.
+Yet, since a tavern opened in the neighbouring town, we don't see our protectors around anymore...
+We heard sounds of battle, and nothing more...
+What, by all heavens, can have happened?
+Temple of Wisdom                                                                                Only the wise ones will stay away from it.
+Boat rental shop
+The boat shop is closed for today, I am about to win the fishing contest, I already have three differents!
+Some monsters sinked my boat...                 I'm sorry, but you will have to swim now....
+Would you like to rent a boat for 15 rupees?                                                                  [c=2]YES[c=0]              NO
+Would you like to rent a boat for 15 rupees?                                                                  [c=0]YES              [c=2]NO
+You can use the boat at the pontoon, have fun, but don't go too far.
+(far away voice:)                               I told you... DON'T GO TOO FAR!!!!
+Abyss Cave                                                                                      Thank you to don't come look for the descendant of the wisemen who is not hidding here.
+Blacksmith
+Great Pyramid
+HINT 1: The stone the most at the right is the  second one.                                     HINT 2: The stones must all be removed by weight order.
+HINT 3: The tail's stones must be removed before the fin's one.                                  HINT 4: The eye's stone must be the fifth you remove.
+HINT 5: The water stones must be removed before the last one of the tail.                       HINT 6: The eye's stone must be removed after the fin's one.
+HINT 7: The last stone is not the eye.          HINT 8: The 2 stones of the tail must not be removed one after the other.
+HINT 9: One of the nine hints is a fake.
+N : Rocky Mountains
+Kakariko Village
+The Pegasus boots for a tapestry and a perfume?                                                               [c=2]YES[c=0]              NO
+The Pegasus boots for a tapestry and a perfume?                                                               [c=0]YES              [c=2]NO
+You got the Pegasus boots!                      Hold [COURSE] to run!
+A perfume for 3 feathers and 4 bags of rice?                                                                  [c=2]YES[c=0]              NO
+A perfume for 3 feathers and 4 bags of rice?                                                                  [c=0]YES              [c=2]NO
+You got a perfume!
+A bag of olives for 15 rupees?                                                                                [c=2]YES[c=0]              NO
+A bag of olives for 15 rupees?                                                                                [c=0]YES              [c=2]NO
+A jar of spices for 20 rupees?                                                                                [c=2]YES[c=0]              NO
+A jar of spices for 20 rupees?                                                                                [c=0]YES              [c=2]NO
+The Kakariko Village is a prerequisite for all adventurers willing to climb up the mountain. The less brave ones just reach the saloon...
+Welcome in our village, Link!                   Have fun, but don't go too close of the cactus...
+The Pegasus boots make you going much much faster. It's a real advantage in a fight.
+You have these boots?                           Then you must be pretty strong now...
+A frosty rock for a tapestry, an amulet and a   perfume?                                                      [c=2]YES[c=0]              NO
+A frosty rock for a tapestry, an amulet and a   perfume?                                                      [c=0]YES              [c=2]NO
+You got a frosty rock!
+A pearl for a jar of spices and a bag of rice?                                                                [c=2]YES[c=0]              NO
+A pearl for a jar of spices and a bag of rice?                                                                [c=0]YES              [c=2]NO
+This village is under the protection of the 7 Wise Men. Because of their magic, you have to go pretty far before seeing a wolf...
+You are here in the safer village you could find. Nothing to see withthe hamlet in the center doomed to disappear, or with the west village protected by alcoholics...
+Temple of Time
+Mine Entry
+Temple of Power                                                                                 Only for sturdy.
+I isolated myself from the world to meditate on the meaning of life...
+...but I must admitt I miss some particular things...
+Is this a bottle of wine you have???            Give it to me! I will give you gold for it!!!
+This bottle for gold, ok ?                                                                                    [c=2]YES[c=0]              NO
+This bottle for gold, ok ?                                                                                    [c=0]YES              [c=2]NO
+I feel I'm getting close of the truth!
+...                                             I will have to meditate on the meaning of your refusal...
+You traded the bottle for Gold Dust!
+I finally found the meaning of life... -hiccup- !
+Tower of Ice                                                                                    The way will open when all the power gems are found.
+From here I can admire the lake of lava...      In fact, I love all the red and shiny things.
+Mmm... it's an amazing gemstone you have here... Would you give it to me for... a surprise?
+This red gemstone for a surprise, ok?                                                                         [c=2]YES[c=0]              NO
+This red gemstone for a surprise, ok?                                                                         [c=0]YES              [c=2]NO
+Thank you! Here is your surprise! I tried to get ride of it for a looong time...
+Too bad for you, no gemstone no surprise.
+You traded the red gemstone for an anvil! You can't run nor swim while you have it!
+I feel like I have a great weight off me, and I'm wealthier too, so happy!
+Temple of Fire                                                                                  Knock before entering!
+We are talking reindeers.
+We ran aground here after crashing into a       seagull...                                      It wouldn't have happened if I had have a horn...
+Oh, I almost forgot:                            Ho! Ho! Ho!
+Is this a bell here? It's giving me an idea...  Would you give it to me? I don't have pony anymore, but I guess I can find something to thank you...
+This little bell for a gift, ok?                                                                              [c=2]YES[c=0]              NO
+This little bell for a gift, ok?                                                                              [c=0]YES              [c=2]NO
+Thank you! Here is your gift: the axe I had to deliver to the local executioner. Happy ?
+...                                             What is your name, naughty boy?                 I strike you off my list.
+You traded the little bell for an axe!
+Ho! Ho! Ho!
+That's all very well, but how do I go home?
+TUTORIAL :                                      A hit on one of these colored sphere switch the stumbling blocks.
+You have found a sword!!!                       Use it with the key [EPEE], or keep [EPEE] holded to charge a spin attack!
+TUTORIAL :                                      Falling in a hole will bring you at the floor below. However, if there is no floor below like here, a fall will make you lose life and will bring at the entry of the area, so be careful!
+TUTORIAL :                                      During the game, you might see some spots apparently inaccessible, like the platform underneath. You will then have to come back later with more equipment to reach it.
+@+@+@+@+@+@+@@@+                                @=++=@=+@=+@=+=@                                +@+@+@+=+=
+The guards saw you heading toward the forest, I thought you may have a lead so I ran up...
+Mmm... This stele is written in ancient hylian... I will translate it:
+At the dawn of cataclysm, shall the heroe find this stele. The Pendents of Courage, Wisdom and Power in his possession, his only chance to save the world will arise.
+...
+I'm afraid we'll have to forget about the       ocarina for a moment...                         If this stele says the truth, you have to gather the 3 pendents as soon as possible...
+They are hidden in 3 temples, the nearest is a tower by the waterfalls, north of here... Take this map, it will help you find your way!
+You got the map of Hyrule!                                                                      Press [CARTE] outdoors to see it.
+The first pendent is in a tower North of this forest. Leave the forest by the West and head North to arrive in the waterfalls area.
+The second pendent is in the temple in the middle of the Lake. You should rent a boat at the Mabe village...
+The last pendent is in a temple surrounded by the mountains, North of the Kakariko Village.
+You've found all the pendents ?                 Very well, we don't know what is going to happen, so take this sword with you.
+You got the Master Sword!!!                     You will probably need its power!
+It looks like a teleportation portal, but... ...we have no information about where it goes...
+Try to touch the stele, something will surely happen now that you've got the pendents...
+One last thing:                                 Monsters are starting to appear everywhere in Hyrule... It's a very bad omen... Be careful.
+Hello Link, I don't have many visitors these times...
+Let me improve your shield...
+You got a better shield!!!                      Your defense raises by one point!
+Come back to see me if you are hurt, I would take care of your wounds.
+You got 10 bags of rice!
+You got 10 jars of spices!
+You got 10 bags of olives!
+To reach the Pyramid, find and write down the 9 hints hidden on the desert's signs, the lift the whale's stones in the right order, and the way will open...
+Cart express: I'm out for the moment, in case of emergency, I am at the saloon.                                                                  - The mine employee -
+Cart express : service is provided again!
+Jump on the cart and let me take care of the    lever.                                          Don't worry, it's my job!
+                      Link                                       Heroe of Hyrule                               - Killed by Ganon -
+We are all back together, we can open the portal...
+Be sure to be ready, the ocarina's thief is probably a powerfull creature...
+You took the ocarina back? Congratulations!
+This portal is very special, it leads to an exact place in the past... But we are not able to keep it opened forever, hurry up!
+You got the ocarina? Then we completed the mission our ancestors entrusted us with...
+The portal is finally opened... Hurry Link, you've got to take the ocarina back!
+The Ocarina of Time...
+Go to the Temple of Time, fulfil your destiny!
+When we are all together with the key of Time, we'll open the portal...
+You succeeded... We close the portal now...
+You got a gauge!                                ...                                             Awesome...
+Okay I have enough gold, go away.
+Gimme 100 Gold Ganon right away if you want a   reward, ok ?                                                  [c=2]YES[c=0]              NO
+Gimme 100 Gold Ganon right away if you want a   reward, ok ?                                                  [c=0]YES              [c=2]NO
+You're making me lose my time, sheesh!
+I will increase the number of arrows you can    carry with you.                                 Say thank you !
+I will increase the number of bombs you can     carry with you.                                 I'm too kind with children...
+Give me 999 Gold Ganon if you want a four-star  reward, ok?                                                   [c=2]YES[c=0]              NO
+Give me 999 Gold Ganon if you want a four-star  reward, ok?                                                   [c=0]YES              [c=2]NO
+Your account of arrows will now fill up permanently, don't hesitate to shoot anymore.
+Your bomb stock restores permanently now, you can blow up freely!
+Welcome heroe, I will increase your Magic Meter, you may need it.
+Your stock of magic power doubled!
+Do you want something to drink?
+According to the gossips, a fairy would hide    behind the waterfall...                         Absolute poppycock...
+I'm er... mounting guard in the bar, that's it. But I would prefer this to be between you and me, ok?
+Heroe of Hyrule or whatever, don't think you can drink for free.
+Choose what you want.
+10 arrows for 20 rupees?                                                                                      [c=2]YES[c=0]              NO
+10 arrows for 20 rupees?                                                                                      [c=0]YES              [c=2]NO
+5 bombs for 30 rupees?                                                                                        [c=2]YES[c=0]              NO
+5 bombs for 30 rupees?                                                                                        [c=0]YES              [c=2]NO
+You need a bag of bomb to buy this.
+You need a bow to buy this.
+You don't need this.
+Thank you.
+A heart for 5 rupees?                                                                                         [c=2]YES[c=0]              NO
+A heart for 5 rupees?                                                                                         [c=0]YES              [c=2]NO
+A little magic jar for 15 rupees?                                                                             [c=2]YES[c=0]              NO
+A little magic jar for 15 rupees?                                                                             [c=0]YES              [c=2]NO
+A big magic jar for 25 rupees?                                                                                [c=2]YES[c=0]              NO
+A big magic jar for 25 rupees?                                                                                [c=0]YES              [c=2]NO
+I've just arrived in the city, I'm not open yet, come back later.
+If I have a frosty rock?*Yes, that's right.
+I thought no one had power gems, so I wasn't sure whether to open my shop or not, but you helped me decide.
+At your next visit I will be open, you will be able to buy extremly rare items for power gems.
+I let you have it for 30 power gems, ok?                                                                      [c=2]YES[c=0]              NO
+I let you have it for 30 power gems, ok?                                                                      [c=0]YES              [c=2]NO
+You don't have enough gems.                     Look better, they can be found anywhere.
+This detector will help you know whether you have all the power gems in the area you are or not. An essential tool for someone looking for all the gems, it's yours for 20 power gems!
+The detector for 20 power gems, ok?                                                                           [c=2]YES[c=0]              NO
+The detector for 20 power gems, ok?                                                                           [c=0]YES              [c=2]NO
+You got the force gem detector!!!
+The number of force gems in your possession is  now white if you haven't found all the gems in  the current area, yellow if there are more in   the next area and green if you have everything.
+An empty bottle for 10 power gems?                                                                            [c=2]YES[c=0]              NO
+An empty bottle for 10 power gems?                                                                            [c=0]YES              [c=2]NO
+You got a bottle!                               You can fill it with potions!
+An empty bottle for 20 power gems?                                                                            [c=2]YES[c=0]              NO
+An empty bottle for 20 power gems?                                                                            [c=0]YES              [c=2]NO
+An improvment of your strength for 20 power     gems?                                                         [c=2]YES[c=0]              NO
+An improvment of your strength for 20 power     gems?                                                         [c=0]YES              [c=2]NO
+Your strength increases by one point!
+An improvment of your strength for 40 power     gems?                                                         [c=2]YES[c=0]              NO
+An improvment of your strength for 40 power     gems?                                                         [c=0]YES              [c=2]NO
+An improvment of your defense for 20 power gems?                                                              [c=2]YES[c=0]              NO
+An improvment of your defense for 20 power gems?                                                              [c=0]YES              [c=2]NO
+Your defense increases by one point!
+An improvment of your defense for 40 power gems?                                                              [c=2]YES[c=0]              NO
+An improvment of your defense for 40 power gems?                                                              [c=0]YES              [c=2]NO
+Mmm... my stock is empty...
+I guess you've found all the power gems, it's incredible...
+According to an old legend, when all the power  gems are found, a temple hidding a fabulous     treasure will open...                           We just have to wait...
+Come back when you have an empty bottle and I will sell you some potions.
+Red potions restore energy and green potions restore magic.
+What do you want?                                                 [c=2]RED POTION[c=0]                                      green potion                                       nothing
+What do you want?                                                 red potion                                      [c=2]GREEN POTION[c=0]                                       nothing
+What do you want?                                                 [c=0]red potion                                      green potion                                       [c=2]NOTHING
+A red potion for 60 rupees?                                                                                   [c=2]YES[c=0]              NO
+A red potion for 60 rupees?                                                                                   [c=0]YES              [c=2]NO
+A green potion for 40 rupees?                                                                                 [c=2]YES[c=0]              NO
+A green potion for 40 rupees?                                                                                 [c=0]YES              [c=2]NO
+You got a red potion!!!                                                                         Drink it to restore all your energy!!!
+You got a green potion!!!                                                                       Drink it to restore all your magic!!!
+You got a blue potion!!!                                                                        Drink it to restore your energy and your magic!!!
+I am the unluckiest man of the country, nothing good ever happen to me...
+Is this a lucky charm you have?                 Give it to me!                                  Nobody in the world need it more than me!
+This horseshoe for... nothing, ok?                                                                            [c=2]YES[c=0]              NO
+This horseshoe for... nothing, ok?                                                                            [c=0]YES              [c=2]NO
+Thank you so much! Maybe I will be lucky now!
+I'm sorry my friend, but I have nothing to give you in return, unlucky for you.
+...                                             How unlucky I am...
+You traded the horseshoe for... his gratitude?
+In the end I'm a lucky devil.
+I don't have price to put in game anymore, sorry.
+There are [v=1] prices in these 9 chests, do you want to try your luck for [v=2] rupees ?
+You can open only one chest, ok?                                                                              [c=2]YES[c=0]              NO
+You can open only one chest, ok?                                                                              [c=0]YES              [c=2]NO
+Choose a chest.
+You lose! This chest is empty.
+Good morning Link, you want to cross the bridge to go to the temple?
+Usually I would just have to turn this lever, but I played with it all last night and well... it brokes.
+I even tought about putting wooden planks to allow the path, but someone stole them during the night...
+I could fix the lever, but I need a replacement part, and I can't leave my post...
+I need a cogwheel, they can be found at the marketplace of Hyrule City.
+You know how it works, don't you? Each stallholder offers some products for others, you've got to gather what they want in order to get what you want.
+I will give you the merchandises I already have. If you want to see what you have in you bag, press [TROC].
+I need a cogwheel to fix that lever.            Go find one at the marketplace of Hyrule city if you want to cross the bridge.
+You brought me a cogwheel?                      Very well, now it should work.
+The lever is broken again...                    At least now the bridge is out...               It will teach me to build exotic bridge...
+A blue potion for 160 rupees?                   You will like it...                                           [c=2]YES[c=0]              NO
+A blue potion for 160 rupees?                   You will like it...                                           [c=0]YES              [c=2]NO
+I'm fond of every thing green and shiny!
+Don't worry, I'm not going to steal your        rupees...                                       I'm trying to quit.
+It's really beautiful what you have here...     Love it!                                        I trade it for a chart of an... INESTIMABLE value!
+This green gemstone for a map, ok?                                                                            [c=2]YES[c=0]              NO
+This green gemstone for a map, ok?                                                                            [c=0]YES              [c=2]NO
+Thank youuuu!!! Here is your chart, now get lost!
+Very well...                                    Watch out for your rupees then!
+You traded the gemstone for a map!
+You came to give me some rupees?                How nice of you!
+The princess wants me to warn her if anything strange happen on the town...
+This morning I saw a seagull flying strangely... I'm not sure whether I've got to tell her or not...
+Hello Link, welcome at the fishing stand!
+To unveil the opening of my stand, I'm          organizing a great fishing contest!             You've probably heard about it, all the city participates!
+To win the contest and the special price, you've got to be the first one to hook 5 different types of fish.
+Do you want to try? The registration fee is 10  Rupees, ok?                                                   [c=2]YES[c=0]              NO
+Do you want to try? The registration fee is 10  Rupees, ok?                                                   [c=0]YES              [c=2]NO
+Excellent, here is a fishing rod, come back when you've caught 5 different types of fish.
+Mmm... Do you want to participate for 5 Rupees?                                                               [c=2]YES[c=0]              NO
+Mmm... Do you want to participate for 5 Rupees?                                                               [c=0]YES              [c=2]NO
+Very well, here is a fishing rod, come back when you've caught 5 different types of fish.
+And for 2 Rupees?                                                                                             [c=2]YES[c=0]              NO
+And for 2 Rupees?                                                                                             [c=0]YES              [c=2]NO
+Well, here is a fishing rod, come back when you've caught 5 different types of fish.
+For 1 Rupees ?                                                                                                [c=2]YES[c=0]              NO
+For 1 Rupees ?                                                                                                [c=0]YES              [c=2]NO
+Ok, here is a fishing rod, come back when you've caught 5 different types of fish.
+Don't tell me you want to participate for       free???                                                       [c=2]YEAH[c=0]             NO
+Don't tell me you want to participate for       free???                                                       [c=0]YEAH             [c=2]NO
+...                                             Here is a fishing rod, come back when you've caught 5 different types of fish.
+Go away, enemy of fishermen!
+You got a fishing rod!                          Use it on a pontoon, then bring the fish up pressing [OBJECT] when the line is moving.
+Still [v=1] different fish to find, good luck!
+Just one more fish to find!
+You have found 5 fish???                        You must be super-fisherman!
+This means the fishing contest is over, and you are the winner!
+I guess you want your price now...              Well, as a reward for your victory in the       fishing contest:                                ... ... ...
+I hire you!
+There are a lot of other types of fish in Hyrule, I want to list them all by area.
+I will reward you each time you bring me 5 new  types of fish.                                  From now on you can consult the list pressing [POISSONS].
+With your current fishing rod, you will unfortunately be able to catch only little fish...
+Be sure to go fishing every where!              Each fish caught give you some energy, did you notice?
+Bring me [v=1] new types of fish for the next reward!
+Here is your reward for the 10 different types of fish you found:
+You got a better fishing rod!!!                 You'll be able to catch fish of regular size.
+Here is your reward for the 15 different types of fish you found:
+Here is your reward for the 20 different types of fish you found:
+You got the better fishing rod!!!               You will be able to catch gigantic fish!
+Here is your reward for the 25 different types of fish you found:
+Here is your reward for having found all the different types of fish in Hyrule:
+YOU ARE FIRED!!!!
+Finally, all the fish existing in Hyrule are listed, my fisherman guidebook is finished...
+Just one more fish to find before the next reward!
+Good morning Link.                              I am the mayor, welcome in the Mabe Village.
+At this time a fishing contest is organized on  the town, everybody speaks about nothing but    this...                                         Is that why you came?
+The fishing contest being over, Mabe Village returns to its usual calmness.
+I am the legendary fisherman!                   I like the blue and shiny of the ocean...
+Why I didn't win the fishing contest?           Well... I'm not interested in that kind of thing.... That's why.
+A blue and shiny gemstone?                      I need it!                                      I trade it for the last thing I hooked!
+The blue gemstone for his fishing, ok ?                                                                       [c=2]YES[c=0]              NO
+The blue gemstone for his fishing, ok ?                                                                       [c=0]YES              [c=2]NO
+He-he! You drive a bargain kid.
+This boot was full of wales when I found it, unusual isn't it?
+You are too nice, but don't worry about me, don't be afraid of defrauding me.
+You traded the blue gemstone for an old boot!   Way to go...
+If you ever find new blue gemstones, it will be a pleasure to do a deal with you!
+Formerly I was a famous fisherman, do you want me to give you some hints?
+[c=2]ABOUT THE TYPES OF FISH[c=0]                         About the areas of fishing                      About the bonus                                 Nothing at all
+About the types of fish                         [c=2]ABOUT THE AREAS OF FISHING[c=0]                      About the bonus                                 Nothing at all
+About the types of fish                         About the areas of fishing                      [c=2]ABOUT THE BOUNS[c=0]                                 Nothing at all
+[c=0]About the types of fish                         About the areas of fishing                      About the bonus                                 [c=2]NOTHING AT ALL
+They say that waters in Hyrule provide a habitat for no less than 30 types of fish, but they all have their own area, you will not find them all at the same place.
+There are in Hyrule a lot of spot to fish, but only 6 distinct areas. To find new fish you will have to go fishing in other places.
+If you find a fish already hooked somewhere else, this means you are in the same fishing area.
+Fishing is not only for fun, a fish hooked will give you energy. The quantity of life earned depends of the fish.
+Tsss... youth these days...
+I spent hours fishing in the lake and could only find 3 different types of fish...
+We had to go fishing at different places to find more than 3 fish?                               If I had known...
+You need help from the drunk guy there?         Unfortunately for you I can't let him go if he doesn't pay.
+You want to pay it off? It's 10 000 Rupees, ok?                                                               [c=2]YES[c=0]              NO
+You want to pay it off? It's 10 000 Rupees, ok?                                                               [c=0]YES              [c=2]NO
+Of course...
+Okay, I got another idea: usually I use a frosty rock to prepare my fresh drinks, but I just finished the last one I heritated from my ancestors...
+If you bring me a new frosty rock, I will consider his debt payed.
+So, you can't find a frosty rock?
+You got a frosty rock? Impressive...
+You give me this frosty rock and I'll forget his debt, ok?                                                     [c=2]YES[c=0]              NO
+You give me this frosty rock and I'll forget his debt, ok?                                                     [c=0]YES              [c=2]NO
+I understand, after all it's nothing of your business.
+Thank you!                                      As promised, the old man can go, he doesn't owe me anything more.
+Let me drink alone! -hiccups- !
+You went to the mine?                           I used to work there...                         But because monsters appeared in, the mine is temporarly closed...
+I would like to help you cross the mine, but the barman doesn't want to let me go if I don't pay. Yet I don't have money anymore, so I can't leave, and I drink to spend the time.
+Someone should really pay off my debt for me... ...                                             -hiccup- !
+You want to know where to find a frosty rock?   Mmm... I heard that a guy arrived in Hyrule City lately, and he is about to open a shop of a new kind...
+Well, I think this guy has got a frosty rock.
+Go and see the guy in the strange shop at Hyrule City, he should have a frosty rock.
+You got a frosty rock???                        Give it to the barman, I promise I will help you with the mine!
+I'm free now... I tought I would have to do the dishes for the rest of the week!                Thank you Link!
+You can go to the mine, I'll meet you there.                                                    -hiccup- !
+Welcome in the saloon, make yourself at home Link!
+While the mine up north is closed, I don't have anything to do but spending my time here...
+Almost all the men in the village work in the mine north of the village.
+This morning monsters appeared inside so the mine had to close.
+Rice, spices and olives are the basis of the barter in Hyrule, you should always have some with you.
+I am the head of the mine, and the most powerful man in the village, so don't try to look down upon me, boy.
+I am the chief of the village... But actually the chief of the mine is much more influent than me, he hired almost all the village's men.
+The bank is under our surveillance. Nothing to report.
+Welcome in the Hyrule bank. I am specialized in currencies.
+You have nothing interesting, come back if you find gold, I'll give you a good price for it.
+You have some gold coins? With the face of a monster on it... Gold Ganon you say?
+It's really ugly, but the gold is reusable, let's see...
+[v=1] Gold Ganon for [v=2] Rupees, ok? [v=3]                                                                  [c=2]YES[c=0]              NO
+[v=1] Gold Ganon for [v=2] Rupees, ok? [v=3]                                                                  [c=0]YES              [c=2]NO
+Your wallet is full, come back later, I'll buy all that off you.
+It's a deal!
+You have Gold Coins? I tought this currency didn't exist anymore...
+I'll give you a good price, let's see...
+[v=1] Gold Coins for [v=2] Rupees, ok? [v=3]                                                                  [c=2]YES[c=0]              NO
+[v=1] Gold Coins for [v=2] Rupees, ok? [v=3]                                                                  [c=0]YES              [c=2]NO
+What do you want to sell me?                    [c=2]- GOLD COINS[c=0]                                    - Gold Ganon                                    - Nothing
+What do you want to sell me?                    - Gold Coins                                    [c=2]- GOLD GANON[c=0]                                    - Nothing
+What do you want to sell me?                    [c=0]- Gold Coins                                    - Gold Ganon                                    [c=2]- NOTHING
+I'm here to build a bridge northerly. I'm sure it would be useful some day.
+The problem is... I don't have tools...         What should I do?
+This hammer looks good...                       It could really help me, will you give it to me for a legendary treasure I found when i was an explorer?
+This hammer for a legendary treasure, ok?                                                                     [c=2]YES[c=0]              NO
+This hammer for a legendary treasure, ok?                                                                     [c=0]YES              [c=2]NO
+Thank you, you can have this:
+I think I'll never finish this bridge...
+You got the Fire Arrows!                        These burning arrows use magic and release an incredible power!
+Looks like I finally got all I need...          I get myself motivated, and I do it!
+Is that a bridge plan?                          I really need that, will you give it to me for a legendary treasure I found when I was an explorer?
+This plan for a legendary treasure, ok?                                                                       [c=2]YES[c=0]              NO
+This plan for a legendary treasure, ok?                                                                       [c=0]YES              [c=2]NO
+Thank you, take this gift in return:
+You got the Ice Arrows!                         These freezing arrows use magic and release an incredible power!
+You've got a saw?                               I can't make a bridge without it, will you give it to me for a legendary treasure I found when I was an explorer?
+This saw for a legendary treasure, ok?                                                                        [c=2]YES[c=0]              NO
+This saw for a legendary treasure, ok?                                                                        [c=0]YES              [c=2]NO
+Thank you, take this in exchange:
+You got the Light Arrows!                       These arrows use a lot of magic and release an ultimate power!
+You've got a nail?                              I guess it may help, will you give it to me for a bauble?
+This nail for a bauble, ok?                                                                                   [c=2]YES[c=0]              NO
+This nail for a bauble, ok?                                                                                   [c=0]YES              [c=2]NO
+Thank you, I give you that in return:
+Hello Link, do you remember me?
+Monsters appeared in Hyrule today, so once again I'll try to list them all, and once again I count on your help.
+Pressing [MONSTERS], you can see the monsters already listed. You just have to kill a monster to add it.
+I'll owe you 10 Gold Coins for each new monster. Come and see me when you have some time to get your money.
+I'll owe you 40 Rupees for each new monster. Come and see me when you have some time to get your money.
+I'll owe you 20 Gold Ganon for each new monster. Come and see me when you have some time to get your money.
+I owe you 1 Gold Coin
+I owe you [v=1] Gold Coins
+I owe you [v=1] Rupees
+I owe you [v=1] Gold Ganon
+Do you want to be paid now?                                                                                   [c=2]YES[c=0]              NO
+Do you want to be paid now?                                                                                   [c=0]YES              [c=2]NO
+Your account is at 0, I gave you everything.
+Come back when you'll have a wallet and we'll talk business.
+You don't have anything interesting, come back if you find some gold or rupees, I'll give you a good price.
+You have some rupees? We haven't used them for ages, but they are still very valuable...
+Let's see...
+[v=1] Rupees for [v=2] Gold Ganon, ok? [v=3]                                                                  [c=2]YES[c=0]              NO
+[v=1] Rupees for [v=2] Gold Ganon, ok? [v=3]                                                                  [c=0]YES              [c=2]NO
+You possess Gold Coins? It's unbelievable that you could find such an ancient money!
+They contain a lot of gold...                   Let's see...
+[v=1] Gold Coins for [v=2] Gold Ganon, ok? [v=3]                                                              [c=2]YES[c=0]              NO
+[v=1] Gold Coins for [v=2] Gold Ganon, ok? [v=3]                                                              [c=0] YES             [c=2]NO
+What do you want to sell me?                    [c=2]- GOLD COINS[c=0]                                    - Rupees                                        - Nothing
+What do you want to sell me?                    - Gold Coins                                    [c=2]- RUPEES[c=0]                                        - Nothing
+What do you want to sell me?                    [c=0]- Gold Coins                                    - Rupees                                        [c=2]- NOTHING
+It's been a long time since I had so much fun!
+One of my ancestors wanted to build a bridge, but in the end he just made the plan...
+I'm from a lineage of incapables, no wonder I suck in every thing I do... On top of that I'm sick, and no one loves me...
+You have a rope?                                Give it to me please, I will give you the heritage of my family, I don't have any descendants anyway...
+This rope for his heritage, ok?                                                                               [c=2]YES[c=0]              NO
+This rope for his heritage, ok?                                                                               [c=0] YES             [c=2]NO
+Well...                                         ...Thank you man...                             ...
+I knew that, nobody have never given anything anyway...
+You traded the rope for a bridge's plan.
+...                                             I would like to be alone just a moment...
+Good day, you must be Link, I was waiting for you.
+I'm a descendant of the 7 Wise Men. Chased by Ganon's minions, I had to run away and hide here.
+Seeing you here brings hope, I will go in the   portal's cave.                                  Take this, I think it might help you.
+You got a pepper!
+Good luck Link!
+Welcome Link, I was waiting for you...
+I guess you have a lot of questions, allow me to answer you.
+We are in Hyrule, but in a time that is nothing for you but a sad future...                     The portal you took allowed you to come here and now, to be the witness of these sad days...
+You want to know what happened? Ganon attacked the castle, stronger than ever, and you were defeated.
+Before her execution, princess Zelda managed to send her plan to the wise men. She thought the theft of the Ocarina was the turning point of the war, so she ordered that the descendants of the 7 wise men give you the Ocarina back whenever you would arrive by the portal.
+Since you are here, in front of me, this means  the day has finally arrived.                    However... the ocarina was never found.
+So we drew up another plan. We are going to send you in the past, the night when the ocarina was stolen, and you will catch the thief red-handed.
+Now, we are only 3 descendants remaining, search and find the two others as well as the Key of Time, and we'll open the portal.
+Take this, it will help you in your researches:
+You got the hookshot!                           Use it to jump over ditches!
+One of them is hidden in a temple, in the middle of the lake.
+The last wise man is hidden nearby the waterfalls.
+The key of time was placed in the Grand Pyramid.
+The wise men are in the cave, the key of time in your possession...                              Very well, meet us at the portal's cave, time has come.
+In the Temple of Time is hidden a song that, played with the ocarina, will bring you back at your time.
+Good luck Link, we are all counting on you.
+10 arrows for 10 Gold Ganon?                                                                                  [c=2]YES[c=0]              NO
+10 arrows for 10 Gold Ganon?                                                                                  [c=0] YES             [c=2]NO
+5 bombs for 15 Gold Ganon?                                                                                    [c=2]YES[c=0]              NO
+5 bombs for 15 Gold Ganon?                                                                                    [c=0] YES             [c=2]NO
+One heart for 4 Gold Ganon?                                                                                   [c=2]YES[c=0]              NO
+One heart for 4 Gold Ganon?                                                                                   [c=0] YES             [c=2]NO
+A little magic jar for 8 Gold Ganon?                                                                          [c=2]YES[c=0]              NO
+A little magic jar for 8 Gold Ganon?                                                                          [c=0] YES             [c=2]NO
+A big magic jar for 16 Gold Ganon?                                                                            [c=2]YES[c=0]              NO
+A big magic jar for 16 Gold Ganon?                                                                            [c=0] YES             [c=2]NO
+One second is one drip of the coffee pot. Let's hurry it up.
+You want to work for me? The true measure of a man is in the amount of work he does. That's what I always say.
+Run on the moving walkway to charge the dynamo, then stand on the button. This will start up the drip coffee maker. Then come to me to receive your money.
+I don't ask you if you're ready, preparation is the last refuge of the weak..
+I never drink more than 17 cups of coffee during a day.                                          But the first one is always the best.
+Blacker than a moonless night, hotter and more  bitter than Hell itself...                      That is coffee.
+Obviously, we'll take another.
+By the way, I wouldn't put salt in my coffee. The two don't go well, after all.
+This coffee here... It's my own special blend. I call it Godot 107. I'm trying to decide wheter to cut down on the acidity or the bitterness... That's the only thing I've got on my mind right now...
+Ha... !                                         My 6th cup of coffee is staring up at me coldly.
+Godot Blend 102...                              ... My personal favorite.
+Ha... ! This blend...                           Godot Blend 107...                              I've decided... It's a little too bitter after all!
+...                                             Aaah, bitter!
+The weak get washed away by the tides of fate,  The strong drink it up.                         Ha... ! It's bitter today, too... Just like my destiny.
+...My 11th cup.                                 I've promised to drink no more than 17 during a day. Which means I'm still good 'til the last drop.
+A single drop of milk is all it takes to destroy the pure black magic in the cup!
+... What bitterness.                            You will learn to appreciate the bitterness when you're older.
+You know what my golden rule is?                Chuck out a bad cup of coffee.                  You can always get another.
+Ha... !                                         Then I'd say that gives me time... to enjoy another cup of pure black magic!
+Two minutes isn't even enough time to brew a good cup o' Joe...
+...Cup number 17. The last cup.                 It seems like the time has come to put an end to this deal.
+I drank my 17 cups, this is a reward
+You still need money? Here's...
+A red potion for 40 Gold Ganon?                                                                               [c=2]YES[c=0]              NO
+A red potion for 40 Gold Ganon?                                                                               [c=0] YES             [c=2]NO
+A green potion for 25 Gold Ganon?                                                                             [c=2]YES[c=0]              NO
+A green potion for 25 Gold Ganon?                                                                             [c=0] YES             [c=2]NO
+My family only knew misfortune for centuries... Even if I would like to help, I have nothing for you.
+I am the most lucky man in the country.
+You don't believe me?                           Take this treasure I found this morning wandering around, I will probably find another one tomorrow!
+You got a precious jewel!
+How strange, giving you this jewel makes me feel like I've settled an old familial debt...
+I am the best pastry chef of the country.
+Unfortunately, I have nothing in stock, you can't find anything sweet around here...
+You have marmelade???                           I thought the last ones were out-of-date since centuries! Give it to me, for my special breakfast stock!
+This marmelade for his stock, ok?                                                                             [c=2]YES[c=0]              NO
+This marmelade for his stock, ok?                                                                             [c=0] YES             [c=2]NO
+I will have my best breakfast since ages!       Here is what I had put aside:
+In that case why did you display it?            Show off...
+You traded the marmelade for a croissant.
+Sooner or later, I guess I will have to find a new job...
+You look even more broke than I am...           You should go to see the guy in the coffe house, he looks for an employee.
+Also, take this, you'll need it:
+You got a wallet able to hold up to 99 Gold Ganon!
+So, how goes your money?
+You don't have anything interesting, come back if you find precious currencies, I will give you a good price.
+These are rupees you say? Pretty curious.
+It seems to be precious, let's see...
+[v=1] Rupees for [v=2] Gold Coins, ok? [v=3]                                                                  [c=2]YES[c=0]              NO
+[v=1] Rupees for [v=2] Gold Coins, ok? [v=3]                                                                  [c=0]YES              [c=2]NO
+[v=1] Gold Ganon for [v=2] Gold Coins, ok? [v=3]                                                              [c=2]YES[c=0]              NO
+[v=1] Gold Ganon for [v=2] Gold Coins, ok? [v=3]                                                              [c=0]YES              [c=2]NO
+What do you want to sell me?                    [c=2]- RUPEES[c=0]                                        - Gold Ganon                                    - Nothing
+What do you want to sell me?                    - Rupees                                        [c=2]- GOLD GANON[c=0]                                    - Nothing
+What do you want to sell me?                    [c=0]- Rupees                                        - Gold Ganon                                    [c=2]- NOTHING
+Hello Link, I was waiting for you.
+I am the leader of the 7 Wise Men, and also the most powerful of them. I saw you in my dreams, as well as a very sad future...
+Your presence here seems to show that I was successful... At least partially...
+I was the one who created the portal to the future, for you to be the witness of my visions.
+I also built the Temple of Time with the others wise men, so that you would travel as you wish across the times.
+From now on it's up to you. You have to find the 7 magic crystals that will open the way to the legendary Goddesses Temple, and be the first to find and take the Triforce!
+Shall his path lead the true heroe to the Triforce.
+Don't judge me on my size, I am a first-class blacksmith!
+But I got admit, I happen to have just arrived here, and I couldn't move all my forge here... So I don't have anything.
+You've carried an anvil with you???             What are you, stupid?
+I can get you rid of it if you want, I need one. I would even give you a little reward for your trouble.
+This anvil for a reward, ok?                                                                                  [c=2]YES[c=0]              NO
+This anvil for a reward, ok?                                                                                  [c=0]YES              [c=2]NO
+Thank you, there, it's a horseshoe I made some time ago:
+I only said that to help you...
+You got a horseshoe!
+With all these things you brought to me, I can open my forge again!
+It's a good hammer you have here...             It may be useful in my forge... Will you give it to me? I will reward you with one of my creations.
+This hammer for a reward, ok?                                                                                 [c=2]YES[c=0]              NO
+This hammer for a reward, ok?                                                                                 [c=0]YES              [c=2]NO
+Thank you, here is one of my most beautiful creations:
+As if you knew what to do with this hammer...
+You got a little bell!
+You have some Gold Dust?                        I will need it to forge new wonderful objects, will you give it to me for a wonderful reward?
+The Gold Dust for a wonderful reward, ok?                                                                     [c=2]YES[c=0]              NO
+The Gold Dust for a wonderful reward, ok?                                                                     [c=0]YES              [c=2]NO
+Thank you, take this magic mirror in return!    It was bewitched by the wise men and got some mysterious powers...
+It was areally good reward though...
+You got the magic mirror!
+You sword is really impressive... But I think I could improve it...
+Do you want me to work on your sword?                                                                         [c=2]YES[c=0]              NO
+Do you want me to work on your sword?                                                                         [c=0]YES              [c=2]NO
+So give me your sword, it won't be long.
+What a pity, your sword really is fascinating...
+You entrusted the Master Sword.
+It won't be long, don't worry.
+It's done, here is your sword:
+The Master Sword was reforge! His power is improved!
+One day, I will forge a sword as beautiful as yours, word of blacksmith!
+10 arrows for 5 Gold Coins?                                                                                   [c=2]YES[c=0]              NO
+10 arrows for 5 Gold Coins?                                                                                   [c=0]YES              [c=2]NO
+5 bombs for 10 Gold Coins?                                                                                    [c=2]YES[c=0]              NO
+5 bombs for 10 Gold Coins?                                                                                    [c=0]YES              [c=2]NO
+One heart for 1 Gold Coins?                                                                                   [c=2]YES[c=0]              NO
+One heart for 1 Gold Coins?                                                                                   [c=0]YES              [c=2]NO
+A little magic jar for 3 Gold Coins?                                                                          [c=2]YES[c=0]              NO
+A little magic jar for 3 Gold Coins?                                                                          [c=0]YES              [c=2]NO
+A big magic jar for 6 Gold Coins?                                                                             [c=2]YES[c=0]              NO
+A big magic jar for 6 Gold Coins?                                                                             [c=0]YES              [c=2]NO
+Hello, I am the chief of the village.           Don't listen to the gossips saying that this village is endangered, and enjoy your time with us.
+A red potion for 15 Gold Coins?                                                                               [c=2]YES[c=0]              NO
+A red potion for 15 Gold Coins?                                                                               [c=0]YES              [c=2]NO
+A green potion for 10 Gold Coins?                                                                             [c=2]YES[c=0]              NO
+A green potion for 10 Gold Coins?                                                                             [c=0]YES              [c=2]NO
+You look pretty moneyless, you don't even have a wallet?                                         Here, take this one:
+You've got a wallet able to hold up to 99 Gold Coins!
+You find the book of Mudora!                    From now on you understand the ancient Hylian!
+Hello, I am one of the 7 wise men, in passing through this town.
+The book of Mudora was bewitched to enable anyone having it to speak our language.
+You must come from far away if you don't speak our language... Keep this book, it will help you.
+As the barman, I know all the gossips...
+Here is one: my favorite color is said to be the yellow...                                       But I didn't tell you anything, ok?
+It's a pretty yellow stone you have here... Will you trade it for my best bottle?
+This yellow gemstone for a bottle, ok?                                                                        [c=2]YES[c=0]              NO
+This yellow gemstone for a bottle, ok?                                                                        [c=0]YES              [c=2]NO
+Yay! It's mine!
+Tsss... no one will give you more for it you know...
+You traded the yellow gemstone for a bottle of wine.
+You want something to drink? It will be free for you.
+Hi man, the name is Ganondorf, if you hear anything about the magic crystals, you come and speak to me, got it?
+I am the head of the hylian knights.            If you don't want any trouble behave yourself, follow Ganondorf's example, he is a good guy.
+This Ganondorf keep treating us to drink...     He really is a good fellow...
+To drink is very well... but when do we eat?
+Don't tell me... This smell... It's a croissant! Give it to me, for my endless friendship!
+This croissant for his friendship, ok?                                                                        [c=2]YES[c=0]              NO
+This croissant for his friendship, ok?                                                                        [c=0]YES              [c=2]NO
+Thank you!!!                                    Take this present in return, it's the symbol of our friendship!
+... You are declaring war to the Hylian         Knight???                                       Are you out of your mind???
+You traded the croissant for a beer.
+Hi pal!                                         Will you drink something with us?
+If you want a hylian knight to disclose a restricted information, you have to treat him a drink. It's our rule.
+You already know all my informations...         Hic!
+I have a lot of restricted informations known only by ourselves (and by Ganondorf). A glass of beer is 1 Gold Coin, do we have a deal?
+An information for 1 Gold Coin, ok?                                                                           [c=2]YES[c=0]              NO
+An information for 1 Gold Coin, ok?                                                                           [c=0]YES              [c=2]NO
+The Hylian Knights were founded in order to protect the temple of the Goddesses... This temple is supposed to hide a powerful relic called the Triforce...
+To open the way to the temple of the Godesses, you have to go in the Holy Land, North of here, and stand on the Triforce symbol with the 7 crystals in your possession.
+The 7 magic crystals are hidden every where in Hyrule... And, keep this as a secret, one of them is kept by the legendary hylian knights!
+Our chief chased him downstairs...
+What a strenght... he beat us so easily...
+He is... downstairs...                          Be careful... ... my friend.
+He is too strong... The chief won't hold out any longer...                                       Help him, I'm begging you...
+Someone ... stop him...
+Do you intend to be on my way too? So en garde!
+I failed...                                     Forgive me master...
+Thank you for your help Link, without you, Ganondorf would have take the crystal...
+The order of the Hylian Knight was founded to protect the access to the Temple of the Goddesses, it was our mission to keep the crystal safe. Without this one, the 6 others are useless.
+Unfortunately, with time, the order became weak. And today, we failed.
+Keep the crystal, you seem much more trustworthy than we are...
+As for Ganondorf... We couldn't have guessed he would betray us... He was almost one of us...
+He was send to the Supermax prison, north of    here...                                         He shouldn't be any trouble now...
+I failed against Ganondorf, but don't underestimate me. I am the man who killed a hundred wolves.
+You didn't kill any wolf??? You are a coward!
+You killed only one wolf??? You are weak!
+You killed only [v=1] wolves? It's not that great...
+You killed [v=1] wolves? Not bad...
+You killed [v=1] wolves? Pretty impressive...
+You killed 100 wolves? As many as I did... it's hard to believe...
+You killed more than a hundred wolves??? Incredible...
+You really deserve this reward:
+It's time for me to go back in the training...
+I will change my hairstyle.
+I will start a diet.
+I won't sell restricted informations anymore.
+I won't spend my days in the tavern.
+I broke my last axe... So I play hangman to kill time, but it's not the same...
+You have an axe for me???                       Give it to me! I trade it for a rope just as effective!
+This axe for a rope, ok?                                                                                      [c=2]YES[c=0]              NO
+This axe for a rope, ok?                                                                                      [c=0]YES              [c=2]NO
+I am so touched...                              That's for you:
+...                                             It should be punishable by death penalty...
+You traded the axe for a rope.
+I can't wait to try this axe!
+Hello, I am the head of this village.
+The Mabe village is like a paradise for tourists, but like a hell for robbers.
+Did you know that famous pirate was captured here when he passed by this town?
+You find a hammer!
+My husband is guard at the prison.              It's a full-time job so I don't see him very often...
+???                                             What do you have here???                        Let me have a look at it!
+Give her the wedding ring, ok?                                                                                [c=2]YES[c=0]              NO
+Give her the wedding ring, ok?                                                                                [c=0]YES              [c=2]NO
+It's my husband's wedding ring!                 Don't tell me he went to see HER again!!!
+...                                             It seems more and more shady...                 Gimme that!
+You traded the wedding ring for nothing.
+Out of my way!
+Don't go in the storeroom, I didn't do the cleaning!
+A famous pirate named Ganon D. Roger was captured in this town a long time ago...
+They say that a descendant of this pirate would live in Hyrule right now...
+You are in the 7 wise men's residence.          This place is devoted to meditation and knowledge.
+Our chief, the most powerful of the 7 wise men, is barely seen here. He prefers to stay meditating in his house at the South of the Village.
+Some years ago, we were 8 wise men. One of us, Agahnim, thought that it was our duty to take the Triforce and to use it for the sake of everyone.
+Our chief squarely refused. He said that such a power should not fall into the hands of men, that the consequences could be desastrous...
+After this quarrel, Agahnim left the order. But lately, he reappeared, endowed with strange powers... We unfortunately do not know what he may have in mind.
+A legendary pirate came in Hyrule long ago. He was captured after a long fighting against the hylian knights of the time.
+The day of his public execution, a man in the crowd asked him where he had hidden his treasure. The pirate explained that it was hidden in 4 temples in Hyrule.
+After this declaration, many men went in search of this treasure but no one ever came back...
+Did you meet a man named Ganondorf?             When he was just a child he almost ended up in the stomach of a wolf, but he was saved by a former member of our order.
+Since then he considers his saviour as his master.
+Our chief asked us to gather our powers in order to create a very special temple East of here. He says that this temple would save the world...
+The moutain North of the village hid a temple. Far end of this temple is hidden an incredible treasure. But... it's far to dangerous to go in.
+I still can't believe you were able to find this treasure...
+WHAT ??? YOU FOUND THE TREASURE OF THE TEMPLE!!!
+Incredible... take this, I want to reward you for this feat!
+It's been along time since HE gave me anything...
+You have a jewel?*It's from HIM, isn't it?      Yes, it can only be from HIM!
+Give the jewel?                                                                                               [c=2]YES[c=0]              NO
+Give the jewel?                                                                                               [c=0]YES              [c=2]NO
+It's so nice of him...                          Could you go to the prison and give him this letter please?
+...                                             I'll tell HIM!
+You traded the jewel for a letter.
+He! He! He!
+I am the chief of the village and er... anyway the wise men are the one in control here...
+We are closed to the public.
+We waited for you for a long time...            Take the time to visit my opera...
+This opera has a long story, take your time to discover it...
+Welcome visitor, allow me to tell you the story of this opera.
+I am the founder of this opera, but formerly I was nothing but a mere thief.
+One day, a burglary went wrong and the hylian knights patrolling near the tavern fell on me. I was punished and sent in prison.
+In prison, I found an old skull under my berth. I used it as an accessory to recite monologues, much to the delight of my cellmate.
+Thus was born my passion for the theatre and then for the opera, in prison.
+Shortly before my release, I made the promise on the old skull to construct the most somptuous of the theatres before my cellmate's release.
+Once free, I went in search of a building land. Until the day when, chased by wolves, I had to take refuge in the Lost Woods.
+That's when I found this glade, at the far end of the forest, in a green setting, protected by the one-thousand-year-old trees...
+I started to built my opera. The plans were quickly made, but without money to pay workers, it seemed an impossible task.
+When I was thinking of giving up, an odd fellow came and brought me back the skull, and reminded me my promise.
+After months of work, the opera was finished. It was the most beautiful opera ever seen in Hyrule.
+Quickly, prestigious artists coming from all countries came to perform here. I had fufilled my dream and kept my promise.
+During the war against Ganon, many smugglers used the chaos to prosper.
+One of them was none other than my old cellmate, newly released, who asked to use the opera as his hideout.
+With the return of the peace, the King of Hyrule wished to end the smuggling. He sent his best soldiers to chase the culprits.
+I was afraid of losing every thing because of my complicity, I asked my old friend to leave the opera, saying that I would hand him over the king if he refused.
+Obliged to leave the opera, the bandits locked me in their old hideout with the employees, and burned it down.
+This is how I died, along with my opera, that was destroyed forever...
+You know my story, don't you have anything to show me?
+I have waited your coming for centuries to settle that old debt...
+Make him settle his debt?                                                                                     [c=2]YES[c=0]              NO
+Make him settle his debt?                                                                                     [c=0]YES              [c=2]NO
+My life was short but exciting. Nothing of it would have been possible without your intervention.
+I wanted to give you this: the saw I used to construct this opera!
+...                                             You must be kidding?
+You traded the IOU for a saw.
+Go now, it is time for us to rest in peace...
+A melody is engraved on the stele:
+You learn the song of soaring!                  Play it outside to teleport!
+You learn the inverted song of time!            Play it outside to go back in time!
+You learn the song of double time!              Play it outside to travel to the future!
+A score is engraved. If you had an instrument you could try to play it.
+I am a part-time guard in this prison.          Outside of the visit hours I'm not allowed to let you pass.
+This letter is for me? It's probably from HER... Give it quickly!
+Give the letter?                                                                                              [c=2]YES[c=0]              NO
+Give the letter?                                                                                              [c=0]YES              [c=2]NO
+...                                             ...                                             ...
+I have to leave my post... it's er... an emergency... You look like a good guy, take my place. Oh and keep that for me:
+It's not for me?                                Too bad...
+You traded the letter for a wedding ring.
+I gotta go!
+I am but a mere innocent arrived here by mistake... You wouldn't have something to help me fly from here?
+A... spoon huh?
+Give the spoon?                                                                                               [c=2]YES[c=0]              NO
+Give the spoon?                                                                                               [c=0]YES              [c=2]NO
+Thank you... ... ...                            There, take this gift as a thanks...            It belonged to my former cellmate...
+Sounds like a wonderful spoon escape possibility just fled...
+You traded the spoon for a skull.
+Well... some work has to be done now...
+I didn't think my mission could fail... The hylian knights aren't very strong, even their chief is getting weaker...
+The explosion came from the room at the right.
+You got a energy core!                          ...                                             It's not that bad...
+The access to the throne room is only allowed to accredited people.
+The access to this part of the castle is reserved to the renovation staff.
+You know the secret phrase?                     I knew that under your look of cute little bunny a Ganon's elite soldier was hiding.
+You can go.
+You got the authorization to go everywhere in   the castle???                                   Well, go through if that's so...
+You came to free me?                            I didn't need your help...
+I wanted to take this castle by force... So I came to challenge Ganon.
+It was a long and terrible fight...             But the throne room guards finally arrested me...
+Such a rotten luck, I really wanted to meet Ganon...
+Since then I heard that there is a secret phrase to give to the guards to pass. You have to tell them this :
+Sorry, but our princess is in another castle!
+Next time, I'll do it.
+!!!                                             Hey, you are...
+A little pink bunny!                            I love pink!
+Make yourself at home little bunny, I entitle you to wander in the castle as you wish.
+I feel like I met you somewhere...              Anyway, you don't know where I could find a good beer?
+Is it a beer you have?                          I take it, you're here for that anyway, aren't you?
+Here, you can have that, as a reward.
+You traded the beer for some nails...
+I think I like you, you're a good boy.          You wouldn't have another beer for me?
+You found the map!!!                                                                            Press [CARTE] to see the dungeon map.
+You found the compass!!!                                                                        The Boss and chests are now indicated on the map.
+You found the Boss Key!!!                                                                       Use it to open his haunt.
+You found a little key.                                                                         Use it to unlock a door.
+                    Level 1 :                                                                                  Temple of Courage
+                    Level 2 :                                                                                   Temple of Wisdom
+                    Level 3 :                                                                                    Temple of Power
+                    Level 4 :                                                                                     Abyss Ruins
+                    Level 5 :                                                                                   Phantom Pyramid
+                 Great Pyramid
+                Temple of Earth
+                 Temple of Air
+                Temple of Water
+                 Temple of Fire
+               Temple of Goddesses
+                   Final Level :                                                                                 Hyrule Castle
+            Second Quest - Level 1 :                                                                                 Casino
+            Second Quest - Level 2 :                                                                              Tower of Gem
+          Second Quest - Final Level :                                                                          Final Destination
+                 Hyrule Castle
+You found a new heart!!!                                                                        Your amount of life increases by one heart!!!
+You found a bow!!!                                                                              Equip it by pressing entry then use it with [OBJECT] to attack from a distance!
+You found the Pendant of Courage!!!
+You found the Pendant of Wisdom!!!
+You found the Pendant of Power!!!
+You found the Power Gloves!!!                                                                   Now you can lift rocks!
+Temple of Courage
+Temple of Wisdom
+Temple of Power
+Abyss Ruins
+Phantom Pyramid
+Great Pyramid
+Temple of Earth
+Temple of Air
+Temple of Water
+Temple of Fire
+Temple of Goddesses
+Hyrule Castle
+Casino
+Tower of Gem
+Final Destination
+Do you want to go back to the dungeon's         entrance?                                                     [c=2]YES[c=0]              NO
+Do you want to go back to the dungeon's         entrance?                                                     [c=0]YES              [c=2]NO
+I give up, you win!                             How could you defeat the Ultimate LOL technique???
+You won't let me get out of it so easily, huh?  The code in the next room is 12086... Now get lost.
+I should have stayed in the family gang...
+You found the lantern!!!                                                                        Now you can shot up flames!
+You found the flippers!!!                                                                       Now you can cross the water!
+???                                             How could you arrive in here?                   My pet was supposed to mount guard!
+...                                             You are Link, you say?                          ...                                             So the time has already come?
+Ganon's minions discovered my existence and destroyed the village I lived in. That's why I came in this temple to hide.
+Continue your quest Link, I will see you again in the portal's cave!
+You found a better tunic!!!                                                                     Your defense raises by one point!
+You found the Key of Time!!!                                                                    Go quickly show it to the wise men!
+You found the Magic Hammer!!!                                                                   Use it to pound the stakes blocking your way!
+You found the Titan's Mitt!!!                                                                   Now you can lift the heaviest rocks!!!
+You found a Yellow Gemstone!                                                                    It's an inestimable treasure!
+Trade item                                      Talk with the good person to trade it.
+You found the Fairy Bow!!!                                                                      Your arrows are now incredibly powerful!!!
+You found a Green Gemstone!                                                                     It's an inestimable treasure!
+You found the Ice Rod!!!                                                                        Now you can freeze your enemies from a distance!!!
+You found a Blue Gemstone!                                                                      It's an inestimable treasure!
+You found the Fire Rod!!!                                                                       You can now shoot up powerful fire balls!!!
+You found a Red Gemstone!                                                                       It's an inestimable treasure!
+You found an incredibly tough shield!!!         Your defense raises with one point!
+Here you are at last.
+Did you really think you could outrun a sorcerer able to teleport?
+I guess i still have to thank you.              To find this temple is no easy. Ganondorf and I spent months without finding even one crystal.
+And the day when finally, we were about to reach one easily you turned up and brought down the   powerful Ganondorf...                           I have to admit I wasn't expecting that...
+However, it seemed obvious that we were working towards the same end, and that you were in advance of us.
+So we decided you would find the temple for us.
+You had fun all this time, but now is our turn.
+It is time for you to disappear.
+What???                                         You couldn't possibly defeat Aghanim???
+...                                             Hope still remains, I can do something...
+Welcome Link.                                   We are Din, Nayru et Farore, the founding Goddesses of Hyrule.
+Your efforts to save Hyrule finally lead you in front of us.
+As you may have undestood already, You cannot change the past. All of your acts had the only effect of preparing the present you come from.
+Ganondorf came to our temple to follow his master, and he finally brought him back to life.
+He wished to be able to travel between life and death, but only the most powerful demons can do that.
+Thanks to his new powers, Ganon was able to bring Aghanim back to life, but his new nature overflew his reason.
+He changed Agahnim into zombi in his pay, proclaimed himself King of Evil and came back to conquer Hyrule.
+The chief of the middle village organized the defense of Hyrule after proclaiming himself King. He had the Master Sword forged and made knights and wise men work together.
+The Hylian Knights were destroyed, but their chief, armed with the Master Sword, beat back Ganon long enough to give the wise men time to seal him forever.
+But you know what happened next. Using Agahnim, Ganon eliminated the wise men's descendents ans broke off the seal.
+With the Master Sword you beat him off several times, but the world of death can't keep him prisoner for long.
+Ganon found the Triforce, but this temple hides some other treasurs...
+Against the Triforce, able to give an illimited power to the one touching it, we created an anti-Triforce.
+They are 3 weapons with an exceptional power. If two of them unite against the Triforce holder, they will call of his wish.
+The Sword of Courage is rightfully yours. We also entrust you with the Bow of Wisdom, give it to the only one able to handle it.
+As for the Trident of Power, we send it to the last chosen one.
+You got the Sword of Courage!!!                 This legendary weapon gives off a tremendous power.
+You got the Bow of Wisdom!!!                    A mysterious power prevents you from using it...
+Time has come Link, we send you back to your era.
+Link! It's Zelda! I'm talking with you by telepathy, you couldn't be reach!
+Ganon is back! He's attacking the castle!       All of the guards have been changed into monsters under his control, be careful!
+The throne room is further North.
+The Princess is not ready to receive you yet.
+However, she instructed me to tell that some items have been stored for you in the storeroom.
+The Princess will be ready to see you in a few minutes.
+You got the authorization to go in the          storeroom?                                      Very well, you can go on.
+The storeroom is further East.
+The castle is under control.
+You found a shield!                             Your defense raises by one point!
+You got a wallet able to hold up to 99 Rupees !
+Princess Zelda is waiting for you.
+Hello Link.
+Er, Link!                                       I'm here!                                       Yoo-hoo!
+Some thing terrible happenned last night, Link...
+The Ocarina of Time you brought back from       Termina...                                      I kept it in a safety vault here in the castle, but it has been stolen!
+I send guards everywhere in Hyrule, so I don't think the thief could make his way any far...
+I would like you to find and bring back the Ocarina. Start your investigation in the safety vault in the basement, I'll meet you there.
+The safety vaults are this way.
+The access to the safety vault is stricly forbidden.
+The Princess instructed you with investigating  the Ocarina theft?                              In that case you can go. There is nothing left to steal anyway...
+I was guarding this door last night. I am absolutely sure no one came through it...
+That's where the Ocarina was kept. The guard heard a big noise. But before he realized it was coming from inside the room, the safe had been cleared out.
+If you see anything suspicious, go in front of it and press [ACTION] to point it out to me.
+It's a torch... What were you expecting for? A ceiling chandelier?
+This chest is the one in which the Ocarina was kept. Until last night...
+This room used to lead out into the sewer...    Before changing it into a safety vault I had the way sealed off. The curtains are here to hide that it wasn't good work...
+It's er... a rubber duck.                       Don't ask me what it's doing here...
+These curtains intrigue you apparently...       Let's see what's behind...
+So that's where the thief came from!            What are you waiting for? Go after him!
+I feel forgotten...                             Here I am, guarding a safety vault empty and wide open...
+You have... er... stolen the ocarina ???        Let's say it's for a good cause...
+TUTORIAL : Press [ACTION] in front of a light object like a jar in order to lift it up. Press a second time to throw it.
+TUTORIAL : Press [ACTION] in front of a chest to open it. You can open a chest only if you are down it.
+                 Hyrule Castle
+This way leads to the prison cells, you have nothing to do there.
+This way leads to a very high safety zone. Even the Hero of Hyrule is not allowed to go in.
+Er... How did you arrive here?
+These stairs lead to the safety vaults.
+The throne room is behind this door.
+The throne room is called the throne room because there is only one throne left...
+The door left-hand leads to the dancehall and the VIP quarters, and the door up leads to the dinig room and the kitchen.
+In the old days I played the piano standing up, but in the course of time, I decided to sit.
+I'm here as a musician, but the dancing nights I prefer to forget the harp and dance.
+I heard that a musical instrument thief came in the castle last night.
+Fortunately, he didn't see my violin.
+A little tonic ?                                                                                              [c=2]YES[c=0]              NO
+A little tonic ?                                                                                              [c=0]YES              [c=2]NO
+Chef in the castle, it's no sinecure...
+They say the best cooks are able to read and cook at the same time. As for me, I can half-do it.
+I never know what to prepare, I have to find an idea quick!
+Waitress in the castle, it's a pretty good job, quiet and well-paying.
+The West wing is only for VIPs. And er... I didn't receive any orders about you... an oversight probably.
+The East wing of the castle is only for the guards. Sorry, but you've got nothing to do there.
+This door leads to the storeroom.
+The library is a place... pretty quiet.
+What an awful story...                          Is the Hyrule Realm really doomed to fall into Ganon's hands?
+What should we do now?                          If only Ganon had never found the Triforce...
+Is that mirror for me?                                                                                        [c=2]YES[c=0]              NO
+Is that mirror for me?                                                                                        [c=0]YES              [c=2]NO
+... You're giving me a mirror??? Do you think I'm the kind of girl who spends her whole day looking at herself???
+Oh well, you can have this, as a thanks.
+...                                             Go away quick if you don't want to end up in a cell.
+You traded the mirror for a spoon!
+You are in a high safety zone, I will ask you to leave.
+You found an extremly tough tunic!!!            Your defense raises by one point!
+Happy to see you at last Link!
+You're telling that this bow is for me and able to defeat Ganon?                                Cool!
+You gave the Bow of Wisdom to the Princess.
+Don't worry about me, I'll be able to make my own way now.
+We have to beat Ganon, you go first, I'll meet  you there.                                      I have to put my make-up on first.
+!!!                                             Ganon regained his human form!                  He is not a demon anymore, he is not able to come back from the dead world, we won!
+???
+Here you are at last Link.                      This time victory will be mine, I perfected my techniques especially to beat you.
+Once again we face each other Link.             I feel like I get out of a long nightmare...
+Agahnim was wrong, the Triforce should have     never been found.
+Listen to me carefully Link, a long long time   ago now, Agahnim disappeared after he left the order of the wisemen.
+The day he came back, he was gifted with very dark power. As a wiseman, he would never have been able to shoot fire ball, his speciality was rabbits...
+I owed too much to Agahnim to put up to him, but I made inquiry while we were looking for the crystals.
+It seems like he got his powers from an entity far more dangerous and powerful than I never could be
+There are still in Hyrule places you didn't explored and enemies you didn't fight. Youre quest is not finished yet...
+You want to know why i'm telling you all of     that?                                           I guess I ain't gonna get out of it that easily, after what I've done...
+If I fail today, someone will have to avenge    Aghanim instead of me.                          But...
+... Will you be able to?
+You have found the Triforce!!!
+Ganon has recovered a human form...             Is he still our enemy?
+Ready for a last duel?
+At the instant when he played the tune with the ocarina, Link was brought back to his area. He ran to the castle to tell his story to the Princess...
+The Ocarina carried Link once again. The Hero of Hyrule arrived in a vast snow-covered field...
+That's how Ganondorf was defeated forever. The    Triforce was once again get back and kept safe in the castle.                                                                                         However, concerned by Ganondorf's last words, Link spent the rest of his life watching over Hyrule.                                                                                                      End of the First Quest.
+This door leads to a secret room.               Get the 9 ranks in the Records screen and come back after having get the second end to penetrate it.
+You may go in, Legendary Hero.
+Welcome in 3T's hidden room!
+I am Vincent, I thought and encoded the game.
+Hi, I am Lobalùz.                               I helped invent the game, made some new graphics, tested the majority of the dungeons, and translated the texts.
+Hello, I am Raiden!                             I took care of the maps.
+SCORES :
+Time :
+Dead [v=1] time
+Dead [v=1] times
+Pieces of hearts: [v=1] / 16
+Power Gems: [v=1] / 200
+Objects : [v=1] / 144
+Barter items: [v=1] / 45
+Fishes: [v=1] / 30
+Enemies: [v=1] / 100
+Congratulations, you completed the game at [v=1] % !
+RANK :
+RANKS :
+- Hero of Time
+- Hyrule's Hero
+- Hero of two worlds
+- Legendary Hero
+- Proud
+- Master Swordsman
+- Legendary Sword Master
+- Perfectionist
+- Fan of Zelda
+- Seasoned player
+- Beginner
+- Marathon Runner of Time
+- Hylian marathon runner
+- Two worlds marathon runner
+- Legendary Marathon Runner
+- Undead
+- Kamikaze
+Welcome to the Casino !
+Welcome dear guest, the entry fee is 10 Golden  Ganon, are you okay with that?                                [c=2]YES[c=0]              NO
+Welcome dear guest, the entry fee is 10 Golden  Ganon, are you okay with that?                                [c=0]YES              [c=2]NO
+Too bad.
+Be back when you have money my friend.
+We are closed for now, come back later.
+Welcome in the family Casino, do you want me to explain you the game rules for 5 Golden Ganon?                [c=2]YES[c=0]              NO
+Welcome in the family Casino, do you want me to explain you the game rules for 5 Golden Ganon?                [c=0]YES              [c=2]NO
+In this casino, enemies won't take you energy but money. Each attack makes you lose a little more life than the last one.
+You don't have a rupee left, you're expeled. We're not interested by broke clients.
+However, if you win the various games in the casino, you will win marvelous prices.
+Strike the enemies to stop them on a mark. Get the 4 different marks and you'll win the price.
+Do you want to try for 10 Golden Ganon?                                                                       [c=2]YES[c=0]              NO
+Do you want to try for 10 Golden Ganon?                                                                       [c=0]YES              [c=2]NO
+You already won this game.
+Congratulation!                                 Here is your price:
+You will probably be more lucky next time.
+Strike the enmies to stop them on a figure. Get a 4, a 2 and a 1 and you'll get the price.
+Talk to me if you fail, you'll just start again with the right numbers you've already found.
+Do you want to complete for 5 Golden Ganon?                                                                   [c=2]YES[c=0]              NO
+Do you want to complete for 5 Golden Ganon?                                                                   [c=0]YES              [c=2]NO
+This is the Casino Great Race's starting line, you've got 12 seconds to reach the finishing line.
+You're losing time there, you know?
+This is the Casino Great Race's finishing line. Go to the starting line if you want to break the record.
+Strike the enemies to stop them on a figure and get more than I do with one die less.
+Chose a figure, eather 1, or 6. I will throw 4 dices, if your figure is in, you win, if not, you pay 10 time the difference with the closest dice.
+Do you want to try?                                                                                           [c=2]YES[c=0]              NO
+Do you want to try?                                                                                           [c=0]YES              [c=2]NO
+Which figure do you chose?                                                                                    [c=2]ONE[c=0]              SIX
+Which figure do you chose?                                                                                    [c=0]ONE              [c=2]SIX
+Strike the enemy to stop them on a figure that will be handed over to a block on the right. The push the blocks so that they arrive at 0 onto the flagstones.
+I sell you a key for a price equal to the sum of your four dices times the amount of mine.
+I sell you a key for [v=1] Golden Ganon, are you okay with that?                                               [c=2]YES[c=0]              NO
+I sell you a key for [v=1] Golden Ganon, are you okay with that?                                               [c=0]YES              [c=2]NO
+The Chest room is at the end of the corridor on the left. Only the best customers may hope to reach it.
+Did you open the chest?                         Then now you should try the Special Room.
+People like you have got nothing to do in a     casino...                                       We are ruined...
+Welcome to the Casino Great Quiz!
+Here I'm the one asking questions, and bad answers are expensive.
+I don't ask you if you want to play, I'm a boss after all.                                      So let's get it started...
+Next question...
+This casino houses a total of 6 different games without this quiz, right?                                     [c=2]RIGHT[c=0]          WRONG
+This casino houses a total of 6 different games without this quiz, right?                                     [c=0]RIGHT          [c=2]WRONG
+Correct! There are 7 games, 1 for the map, 1 for the compass and 5 for the keys.
+No! There are 7 games, 1 for the map, 1 for the compass and 5 for the keys.
+The guy in the cofee house never drinks more    than 16 cofeecups a day, right?                               [c=2]RIGHT[c=0]          WRONG
+The guy in the cofee house never drinks more    than 16 cofeecups a day, right?                               [c=0]RIGHT          [c=2]WRONG
+Correct! He can go up to 17 cups!
+No! He can go up to 17 cups!
+This game contains a total of 150 power gems,   right?                                                        [c=2]RIGHT[c=0]          WRONG
+This game contains a total of 150 power gems,   right?                                                        [c=0]RIGHT          [c=2]WRONG
+Correct! There are 200.
+No! There are 200.
+There are only 7 houses left in the middle      village, is that so?                                          [c=2]RIGHT[c=0]          WRONG
+There are only 7 houses left in the middle      village, is that so?                                          [c=0]RIGHT          [c=2]WRONG
+Correct! The 3 others are destroyed.
+No! There are 10 houses, 3 of them are destroyed, so only 7 are left.
+You died [v=1] times, am I right? [v=2]                                                                       [c=2]RIGHT[c=0]          WRONG
+You died [v=1] times, am I right? [v=2]                                                                       [c=0]RIGHT          [c=2]WRONG
+Correct! You died [v=1] times.
+No! You died [v=1] times.
+14 bad answers are enough to make lose any      player, right?                                                [c=2]RIGHT[c=0]          WRONG
+14 bad answers are enough to make lose any      player, right?                                                [c=0]RIGHT          [c=2]WRONG
+Correct! 14 bad answer make lose minimum 1050 Golden Ganon out of 999 transportable.
+No! 14 bad answer make lose minimum 1050 Golden Ganon out of 999 transportable.
+I'm the coolest boss in the game, right?                                                                      [c=2]RIGHT[c=0]          WRONG
+I'm the coolest boss in the game, right?                                                                      [c=0]RIGHT          [c=2]WRONG
+Ha! Ha! We agree.
+...                                             This one is wrong, on principle...
+Only 3 dungeons in the past are necessary to    finish the game, right?                                       [c=2]RIGHT[c=0]          WRONG
+Only 3 dungeons in the past are necessary to    finish the game, right?                                       [c=0]RIGHT          [c=2]WRONG
+Correct! Temple of the air, temple of fire and the Goddesses Temple.
+No! There are 2 indeed, the temple of the air, temple of fire and the Goddesses Temple.
+More than 4000 Golden Ganon are necessary to get all of the fat fairy's prices, right?                         [c=2]RIGHT[c=0]          WRONG
+More than 4000 Golden Ganon are necessary to get all of the fat fairy's prices, right?                         [c=0]RIGHT          [c=2]WRONG
+Correct! 3798 are enough.
+No! 3798 are enough.
+In Zelda's time, the palace had 80 pillars,     right?                                                        [c=2]RIGHT[c=0]          WRONG
+In Zelda's time, the palace had 80 pillars,     right?                                                        [c=0]RIGHT          [c=2]WRONG
+Correct! There were 80 indeed.
+No! There were actually 80.
+You already answered [v=1] of my questions, is that so?                                                           [c=2]RIGHT[c=0]          WRONG
+You already answered [v=1] of my questions, is that so?                                                           [c=0]RIGHT          [c=2]WRONG
+Correct! But now you did.
+No! But now you did.
+You can find a maximum of 16 pieces of heart in this game, right?                                             [c=2]RIGHT[c=0]          WRONG
+You can find a maximum of 16 pieces of heart in this game, right?                                             [c=0]RIGHT          [c=2]WRONG
+Correct! There are 16 in all.
+No! There are 16 in all.
+A blue potion costs the equivalent of 40 Rupees plus 40 Golden Ganon plus 10 Gold Coins, right?               [c=2]RIGHT[c=0]          WRONG
+A blue potion costs the equivalent of 40 Rupees plus 40 Golden Ganon plus 10 Gold Coins, right?               [c=0]RIGHT          [c=2]WRONG
+Correct! That is 160 Rupees.
+No! This equals 160 Rupees, so the price of a blue potion.
+In the mine, the trolley's track could change   with 2 levers, right?                                         [c=2]RIGHT[c=0]          WRONG
+In the mine, the trolley's track could change   with 2 levers, right?                                         [c=0]RIGHT          [c=2]WRONG
+Correct! Only one.
+No! Only one.
+You had to find 3 different kinds of fish to win the angling contest, right?                                   [c=2]RIGHT[c=0]          WRONG
+You had to find 3 different kinds of fish to win the angling contest, right?                                   [c=0]RIGHT          [c=2]WRONG
+Correct! You needed 5.
+No! You needed 5.
+Only the Master Sword is able to throw back the projectiles, right?                                           [c=2]RIGHT[c=0]          WRONG
+Only the Master Sword is able to throw back the projectiles, right?                                           [c=0]RIGHT          [c=2]WRONG
+Correct! Your current sword can do that too.
+No! Your current sword can do that too.
+Zelda is taller than you, true?                                                                               [c=2]RIGHT[c=0]          WRONG
+Zelda is taller than you, true?                                                                               [c=0]RIGHT          [c=2]WRONG
+Correct! You are a pixel more.
+No! You are a pixel more.
+The dungeon 3 has 3 floors, right?                                                                            [c=2]RIGHT[c=0]          WRONG
+The dungeon 3 has 3 floors, right?                                                                            [c=0]RIGHT          [c=2]WRONG
+Correct! And one only for the boss.
+No! 2 floors plus 1 for the boss, so 3.
+Link's demonic incarnation is a pink bunny,     right?                                                        [c=2]RIGHT[c=0]          WRONG
+Link's demonic incarnation is a pink bunny,     right?                                                        [c=0]RIGHT          [c=2]WRONG
+Correct! It's Oni Link.
+No! It's Oni Link.
+Tingle should never had existed, right?                                                                       [c=2]RIGHT[c=0]          WRONG
+Tingle should never had existed, right?                                                                       [c=0]RIGHT          [c=2]WRONG
+Er... we're wandering from the point there, but I'll say it's okay.
+...                                             To me, he shouldn't have.
+You want to give me Golden Ganon, right?                                                                      [c=2]RIGHT[c=0]          WRONG
+You want to give me Golden Ganon, right?                                                                      [c=0]RIGHT          [c=2]WRONG
+Correct! Alas...
+Thanks!
+Snakes' bites leave you half a heart no matter  your life and defense, right?                                 [c=2]RIGHT[c=0]          WRONG
+Snakes' bites leave you half a heart no matter  your life and defense, right?                                 [c=0]RIGHT          [c=2]WRONG
+Correct! If you had only half a heart left, the bite leaves you nothing.
+No! If you had only half a heart left, the bite leaves you nothing.
+Link's property has 77 grass tuft, right?                                                                     [c=2]RIGHT[c=0]          WRONG
+Link's property has 77 grass tuft, right?                                                                     [c=0]RIGHT          [c=2]WRONG
+Correct! Happy to see I'm not the only who have counted them!
+No! Do you realize I know your property better than you do???
+2 to the power of 12 is smaller than the cube   root of 7, is that so?                                        [c=2]RIGHT[c=0]          WRONG
+2 to the power of 12 is smaller than the cube   root of 7, is that so?                                        [c=0]RIGHT          [c=2]WRONG
+Correct! Well, I think.
+No! I think it's the other way around.
+It is possible to finish the game moving only in moonwalk, right?                                              [c=2]RIGHT[c=0]          WRONG
+It is possible to finish the game moving only in moonwalk, right?                                              [c=0]RIGHT          [c=2]WRONG
+Correct! But you can try if you want.
+No! Well, you shall try...
+It's in the past when you can win the most money by killing an enemy, right?                                   [c=2]RIGHT[c=0]          WRONG
+It's in the past when you can win the most money by killing an enemy, right?                                   [c=0]RIGHT          [c=2]WRONG
+Correct! It's in the present, with red Rupees.
+No! It's in the present, with red Rupees.
+Your sword can defeat any opponent, exept a     boss, in less that 6 blows, right?                            [c=2]RIGHT[c=0]          WRONG
+Your sword can defeat any opponent, exept a     boss, in less that 6 blows, right?                            [c=0]RIGHT          [c=2]WRONG
+Correct! There are enemies that can't be killed with the sword.
+No! There are enemies that can't be killed with the sword.
+The puzzle in the desert had 6 stones, didn't   it?                                                           [c=2]RIGHT[c=0]          WRONG
+The puzzle in the desert had 6 stones, didn't   it?                                                           [c=0]RIGHT          [c=2]WRONG
+Correct! And I never could find the order...
+No! You cheated to solve it, I'm sure...
+You played more than [v=1] hours, right? [v=2]                                                                [c=2]RIGHT[c=0]          WRONG
+You played more than [v=1] hours, right? [v=2]                                                                [c=0]RIGHT          [c=2]WRONG
+Correct! It goes by fast, doesn't it?
+No! It goes by fast, doesn't it?
+The hens in the past are more patient than the  ones in the present, right?                                   [c=2]RIGHT[c=0]          WRONG
+The hens in the past are more patient than the  ones in the present, right?                                   [c=0]RIGHT          [c=2]WRONG
+Correct! You know your stuff...
+No! You'll just have to check...
+It was possible to catch 4 different fishes in  the Lake Hylia, right?                                        [c=2]RIGHT[c=0]          WRONG
+It was possible to catch 4 different fishes in  the Lake Hylia, right?                                        [c=0]RIGHT          [c=2]WRONG
+Correct! There were 6 different species.
+No! There were 6 different species, so it was possible to find 4.
+Santa Claus exists, is that true?                                                                             [c=2]RIGHT[c=0]          WRONG
+Santa Claus exists, is that true?                                                                             [c=0]RIGHT          [c=2]WRONG
+Correct! And you met him once.
+No! You met him once.
+In the past, the mountains had a total of 16    stones, right?                                                [c=2]RIGHT[c=0]          WRONG
+In the past, the mountains had a total of 16    stones, right?                                                [c=0]RIGHT          [c=2]WRONG
+Correct! There were 15 only, obviously.
+No! There were 15 only, obviously.
+There is a total of 42 carpets in this Casino,  right?                                                        [c=2]RIGHT[c=0]          WRONG
+There is a total of 42 carpets in this Casino,  right?                                                        [c=0]RIGHT          [c=2]WRONG
+Correct! There are 44.
+No! There are 44.
+Power gems can be swaped for 5 different type of items, right?                                                 [c=2]RIGHT[c=0]          WRONG
+Power gems can be swaped for 5 different type of items, right?                                                 [c=0]RIGHT          [c=2]WRONG
+Correct! I see you did not forget the frosty rock.
+No! You probably forgot the frosty rock.
+The green tunic gives you but one point of      defense, right?                                               [c=2]RIGHT[c=0]          WRONG
+The green tunic gives you but one point of      defense, right?                                               [c=0]RIGHT          [c=2]WRONG
+Correct! The green tunic is your first one and gives no point of defense.
+No! The green tunic is your first one and gives no point of defense.
+There were 5 mirrors in Zelda's bedroom, right?                                                               [c=2]RIGHT[c=0]          WRONG
+There were 5 mirrors in Zelda's bedroom, right?                                                               [c=0]RIGHT          [c=2]WRONG
+Correct! You gave her the fifth one actually.
+No! In fact you gave her the fifth one.
+The Pyramid in the past had 85 rooms, right?                                                                  [c=2]RIGHT[c=0]          WRONG
+The Pyramid in the past had 85 rooms, right?                                                                  [c=0]RIGHT          [c=2]WRONG
+Correct! 84 only.
+No! 84 only.
+The fire arrows are strongest than the ice ones, right?                                                        [c=2]RIGHT[c=0]          WRONG
+The fire arrows are strongest than the ice ones, right?                                                        [c=0]RIGHT          [c=2]WRONG
+Correct! The fire arrows have a strength of 10, the ice ones have 7.
+No! The fire arrows have a strength of 10, the ice ones have 7.
+Bombs cause as many damage as hammer blows,     right?                                                        [c=2]RIGHT[c=0]          WRONG
+Bombs cause as many damage as hammer blows,     right?                                                        [c=0]RIGHT          [c=2]WRONG
+Correct! Bombs have a strength of 5, the hammer of 3.
+No! Bombs have a strength of 5, the hammer of 3.
+What??? You defeated me???                                                                                    [c=2]RIGHT[c=0]          RIGHT
+What??? You defeated me???                                                                                    [c=0]RIGHT          [c=2]RIGHT
+You have found the Shield of the Goddesses!!!   Now your life comes back constantly!!!
+On this stone is written the story of Hyrule in ancient Hylian:
+After the Goddesses Din, Nayru and Farore created Hyrule, an evil entity with an unequaled power came to occupy this land.
+Despite of their great powers, the Goddesses had to accept that they could never destroy this creature.
+...                                             The continuation of the story is not written here. Maybe on another stone?
+You have found the Tunic of the Goddesses!!!    Now your magic comes back constantly!!!
+On this stone is written the story of Hyrule in ancient Hylian:
+Din, Nayru and Farore could not resolve to do nothing, and they challenged the evil entity.
+After a long and hopeless fight, they had to find a compromise and they managed to scatter the entity's power.
+However, in order to do so, they had to create devilish creatures holding fragments of the entity's power.
+What was left of the evil entity is locked in a human form, and shall not be set free as long as all the devilish creatures are not defeated.
+Welcome among us, do you want me to explain you how does this play work?                                      [c=2]YES[c=0]              NO
+Welcome among us, do you want me to explain you how does this play work?                                      [c=0]YES              [c=2]NO
+Enemies in this dungeon are very particular, each of their attack will make you lose twice more than the previous blow.
+Be extremly carefull, 7 blows will be enough to kill you.
+Plus, the number of enemy you kill, as for the number of type of enemy, are counted. A certain amount is needed to open some doors.
+Good luck Link, whatever happens everything end here.
+Eliminateat least 30 enemies of 4 various types and I will open the door.
+Good luck Link.
+You have defeated enough enemies, I shall open...
+Eliminate at least 60 enemies of 10 various types and I will open the door.
+Eliminate at least 20 enemies de 3 various types and I will open the door.
+Eliminate at least 99 enemies of 12 various types and I will open the door.
+Eliminate at least 30 enemies of 12 various types and I will open the door.
+Eliminate at least 40 enemies of various 6 types and I will open the door.
+Eliminate at least 50 enemies of 7 various types and I will open the door.
+You have found the Mask of Oni Link !!!         Use [ONILINK] to transform yourself and become incredibly powerful.
+Congratulations Link! You've defeated every single type of enemy... It's incredible...
+I owe you a lot, do you want to be paid now?
+I'm finally able to take back my original form, be ready to take a lot!                         Farewell, Hero of Hyrule!
+Hurry Link! Use the Sword of the Godesses to finish him off definitely!
+Not on me, goofy...
+Congratulations Link, let's go home now.
+Justice has been done. My Master is finally avenged.
+Out of my way!
+What the hell are you doing?
+Let me explain you the reason of our presence in the entity with no name's dungeon.
+After your departure from the Castle that followed my victory upon Ganon, Ganondorf gave me back the Triforce and told me his story.
+We quickly came to the conclusion that the man of the monster's encyclopedia was highly suspicious, so when we learned from a guard that you had gone to see him, we decided to come to your help.
+As we thought, only the power of the 3 Weapons of the Goddesses unified and used by the 3 Chosen ones could destroyed this plague forever.
+As for Ganondorf, he has nothing to see now with the monster we knew, there is no darkness in him anymore, and he is trustworthy.
+From now on Hyrule is in peace, for good. Monsters will never reappear again, Evil is definitely defeated.
+So tell me Link, what are you gonna do of your days off?
+Hyrule was saved and every threat dispeled. After long adventures, the three heroes had accomplished their destiny.                                                                                      The three Goddesses came back in Hyrule to        congratulate them, and then left again, taking the Triforce with them.                                                                                 The powerful Ganondorf became quickly the new chief of the guards and spent the rest of his days protecting the realm against enemies that never came.
+Princess Zelda was celebrated accross the entire  country and far more away as being the sovereign  that had brought peace on the world.              Link prefered to fly away from celebrity, he disappeared, and no one ever saw him in Hyrule again.
+HELP 1/2
+HELP 2/2
+Back to game: F1                 Next : Right
+Back to game: F1              Previous : Left
+Sword strike:
+Charged attack:                Hold the sword
+Open / Talk / Lift :
+Use selected object:                        
+Selection item menu:
+Run:
+Look around:
+Fish encyclopedia:
+Barter bag:
+Monsters' encyclopedia:
+Map  (outdoor or dungeons):
+Save / Quit:
+Oni-Link Transformation:
+Teleportation (Oni-Link):
+HELP
+Back to game: F1
+MONSTERS 1
+MONSTERS 2
+MONSTERS 3
+MONSTERS 4
+MONSTERS 5
+MONSTERS 6
+MONSTERS 7
+MONSTERS 8
+MONSTERS 9
+MONSTERS 10
+MONSTERS 11
+MONSTERS 12
+Game designer / Developer:
+Vincent Jouillat
+Illustrations:
+Solène Jouillat
+Hyrule's map:
+Adrien Baptis
+Graphisms :
+Solène Jouillat
+Lucie Pénalver (Lobalùz)
+Testers:
+Alexandre Chevalier
+Jade Rohart
+Raphaël Remaut
+Thanks:
+to Nintendo for creating the Zelda license
+to zeldaroth.fr forum's community
+for their continuous support!
+Isn't that enough for you?                      ... ... ...                                     How about this in this case:
+Well, the legend had to admit that Link was super strong...                                                                                           After putting an end to the eternal threat of     Ganon, helping out the goddesses by defeating the nameless entity, here the lord of terror who was  passing by was taken expensive too...                                                               Honestly well done, you are good!                                                                   End of the last quest.
+                   Last Quest:                                                                                  Temple of Too Much
+Temple of Too Much
+I didn't expect you to complete this level...   Congratulations!
+But this time it's really finished, well done!
+I was placed there to encourage you...          Courage!
