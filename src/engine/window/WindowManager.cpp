@@ -38,7 +38,7 @@ int WindowManager::init()
 			printf("Could not load SDL : %s\n", SDL_GetError());
 			return -1;
 		}
-		atexit(SDL_Quit);
+		//atexit(SDL_Quit);
 	}
 	return 0;
 }
@@ -58,6 +58,8 @@ int WindowManager::createWindow(string title, string iconName, bool full)
 								  SDL_WINDOW_SHOWN | SDL_WINDOW_RESIZABLE | SDL_WINDOW_FULLSCREEN_DESKTOP);
 
 		renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED | SDL_RENDERER_PRESENTVSYNC);
+		SDL_RenderSetLogicalSize(renderer, 960, 720);  // 4:3 соотношение
+		SDL_SetHint(SDL_HINT_RENDER_SCALE_QUALITY, "0");  // Линейная фильтрация
 
 		screen = SDL_CreateTexture(renderer, SDL_PIXELFORMAT_RGBA8888, SDL_TEXTUREACCESS_TARGET, GAME_SIZE_W, GAME_SIZE_H);
 		SDL_SetRenderTarget(renderer, screen);
