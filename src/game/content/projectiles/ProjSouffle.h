@@ -13,19 +13,19 @@
 
 #include "../types/Projectile.h"
 
-class ProjSouffle : public Projectile {
-    public :
-        ProjSouffle(int x, int y);
-        ~ProjSouffle();
+class ProjSouffle : public Projectile
+{
+public:
+    ProjSouffle(int x, int y);
+    ~ProjSouffle();
 
-        void projLoop();
-        void draw(int offsetX, int offsetY);
+    void projLoop();
+    void draw(int offsetX, int offsetY);
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-    private :
-
-        int dy;
+private:
+    int dy;
 };
 
-#endif  // ProjSouffle.h
+#endif // ProjSouffle.h

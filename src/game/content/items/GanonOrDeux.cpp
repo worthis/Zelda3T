@@ -4,7 +4,8 @@
 #include "../../../engine/window/WindowManager.h"
 #include "../../../engine/audio/AudioManager.h"
 
-GanonOrDeux::GanonOrDeux(int i, int j) {
+GanonOrDeux::GanonOrDeux(int i, int j)
+{
 
     x = i;
     y = j - 10;
@@ -23,15 +24,20 @@ GanonOrDeux::GanonOrDeux(int i, int j) {
     box.setH(12);
 }
 
-GanonOrDeux::~GanonOrDeux() {
+GanonOrDeux::~GanonOrDeux()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void GanonOrDeux::loop() {
-    if (animMax > 0 && chrono.getElapsedTime() >= vanim) {
+void GanonOrDeux::loop()
+{
+    if (animMax > 0 && chrono.getElapsedTime() >= vanim)
+    {
         anim++;
-        if (anim > animMax) {
-            if (!ready) {
+        if (anim > animMax)
+        {
+            if (!ready)
+            {
                 ready = true;
                 animMax = 0;
             }
@@ -41,29 +47,40 @@ void GanonOrDeux::loop() {
     }
 }
 
-void GanonOrDeux::draw(int offsetX, int offsetY) {
-    if (!alive) {
+void GanonOrDeux::draw(int offsetX, int offsetY)
+{
+    if (!alive)
+    {
         return;
     }
 
     int dstX = x - offsetX;
     int dstY = y - offsetY;
 
-    if (ready) {
+    if (ready)
+    {
         dstY += 10;
-    } else {
-        if (anim <= 10) dstY += anim;
-        else if (anim <= 14) dstY += 10 - (anim - 10);
-        else if (anim <= 18) dstY += 6 + (anim - 14);
-        else dstY += 10;
+    }
+    else
+    {
+        if (anim <= 10)
+            dstY += anim;
+        else if (anim <= 14)
+            dstY += 10 - (anim - 10);
+        else if (anim <= 18)
+            dstY += 6 + (anim - 14);
+        else
+            dstY += 10;
     }
 
     WindowManager::getInstance()->draw(image, 24, 3, 6, 4, dstX + 5, y - offsetY + 22);
     WindowManager::getInstance()->draw(image, 160, 80, 16, 16, dstX, dstY);
 }
 
-void GanonOrDeux::action() {
-    if (!ready) return;
+void GanonOrDeux::action()
+{
+    if (!ready)
+        return;
     AudioManager::getInstance()->playSound(TS_RUPEE);
     getLink()->getStatus()->updateGanonOr(2);
     alive = false;

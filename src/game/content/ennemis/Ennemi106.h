@@ -17,43 +17,43 @@
 
 class Map;
 
-class Ennemi106 : public Ennemi {
-    public :
-        Ennemi106(int x, int y);
-        ~Ennemi106();
+class Ennemi106 : public Ennemi
+{
+public:
+    Ennemi106(int x, int y);
+    ~Ennemi106();
 
-        void ennLoop();
-        void draw(int offsetX, int offsetY);
+    void ennLoop();
+    void draw(int offsetX, int offsetY);
 
-        int getX();
-        int getY();
+    int getX();
+    int getY();
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
+    bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
 
-        void reset();
-        bool isResetable();
+    void reset();
+    bool isResetable();
 
-        void pousseX(int dx);
+    void pousseX(int dx);
 
-    private :
+private:
+    void snipe(int dx, int dy);
 
-        void snipe(int dx, int dy);
+    int anim;
+    int animMax;
+    int vanim;
 
-        int anim;
-        int animMax;
-        int vanim;
+    int step;
 
-        int step;
+    WImage *image;
 
-        WImage* image;
+    Chrono chrono;
 
-        Chrono chrono;
+    BoundingBox box;
 
-        BoundingBox box;
-
-        int cooldown;
+    int cooldown;
 };
 
-#endif  // Ennemi106.h
+#endif // Ennemi106.h

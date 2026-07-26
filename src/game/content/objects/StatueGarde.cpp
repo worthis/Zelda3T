@@ -3,7 +3,8 @@
 #include "../../../engine/resources/ResourceManager.h"
 #include "../../../engine/window/WindowManager.h"
 
-StatueGarde::StatueGarde(int i, int j) {
+StatueGarde::StatueGarde(int i, int j)
+{
     x = i;
     y = j;
 
@@ -19,10 +20,12 @@ StatueGarde::StatueGarde(int i, int j) {
     box.setH(16);
 }
 
-StatueGarde::~StatueGarde() {
+StatueGarde::~StatueGarde()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void StatueGarde::draw(int offsetX, int offsetY) {
+void StatueGarde::draw(int offsetX, int offsetY)
+{
     WindowManager::getInstance()->draw(image, 0, 0, width, height, x - offsetX, y - offsetY);
 }

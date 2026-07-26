@@ -13,19 +13,19 @@
 
 #include "../types/Item.h"
 
-class GemmeForce : public Item {
-    public :
-        GemmeForce(int x, int y, int id, bool withAnim);
-        ~GemmeForce();
+class GemmeForce : public Item
+{
+public:
+    GemmeForce(int x, int y, int id, bool withAnim);
+    ~GemmeForce();
 
-        void loop();
-        void draw(int offsetX, int offsetY);
+    void loop();
+    void draw(int offsetX, int offsetY);
 
-        void action();
+    void action();
 
-    private :
-
-        int id;
+private:
+    int id;
 };
 
-#endif  // GemmeForce.h
+#endif // GemmeForce.h

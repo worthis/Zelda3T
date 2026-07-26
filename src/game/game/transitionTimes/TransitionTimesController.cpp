@@ -1,23 +1,29 @@
 #include "TransitionTimesController.h"
 
-TransitionTimesController::TransitionTimesController() {
+TransitionTimesController::TransitionTimesController()
+{
 }
 
-TransitionTimesController::~TransitionTimesController() {
+TransitionTimesController::~TransitionTimesController()
+{
 }
 
-void TransitionTimesController::launch() {
+void TransitionTimesController::launch()
+{
     transitionTimes.init();
 }
 
-void TransitionTimesController::loop() {
+void TransitionTimesController::loop()
+{
     transitionTimes.loop();
 }
 
-void TransitionTimesController::draw() {
+void TransitionTimesController::draw()
+{
     transitionTimes.draw();
 }
 
-void TransitionTimesController::setSens(int s) {
+void TransitionTimesController::setSens(int s)
+{
     transitionTimes.setSens(s);
 }

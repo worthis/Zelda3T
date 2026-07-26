@@ -13,20 +13,20 @@
 
 #include "../../../engine/resources/WImage.h"
 
-class Generic {
-    public :
-        Generic();
-        ~Generic();
+class Generic
+{
+public:
+    Generic();
+    ~Generic();
 
-        void draw();
+    void draw();
 
-        void setId(int id);
+    void setId(int id);
 
-    private :
+private:
+    WImage *image;
 
-        WImage* image;
-
-        int id;
+    int id;
 };
 
-#endif  // Generic.h
+#endif // Generic.h

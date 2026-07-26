@@ -3,7 +3,8 @@
 #include "../../../engine/resources/ResourceManager.h"
 #include "../../../engine/window/WindowManager.h"
 
-Planches::Planches(int i, int j) {
+Planches::Planches(int i, int j)
+{
     x = i;
     y = j;
     persistent = true;
@@ -23,20 +24,24 @@ Planches::Planches(int i, int j) {
     box.setH(16);
 }
 
-Planches::~Planches() {
+Planches::~Planches()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void Planches::draw(int offsetX, int offsetY) {
-    if (!alive) {
+void Planches::draw(int offsetX, int offsetY)
+{
+    if (!alive)
+    {
         return;
     }
     WindowManager::getInstance()->draw(image, 176, 112, 48, 16, x - offsetX, y - offsetY);
 }
 
-void Planches::action() {
+void Planches::action()
+{
     getLink()->trouveObjet(TI_PLANCHES);
     alive = false;
 }
 
-bool Planches::isPickable() {return false;}
+bool Planches::isPickable() { return false; }

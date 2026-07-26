@@ -17,47 +17,46 @@
 
 class Map;
 
-class Ennemi097 : public Ennemi {
-    public :
-        Ennemi097(int x, int y);
-        ~Ennemi097();
+class Ennemi097 : public Ennemi
+{
+public:
+    Ennemi097(int x, int y);
+    ~Ennemi097();
 
-        void ennLoop();
-        void draw(int offsetX, int offsetY);
+    void ennLoop();
+    void draw(int offsetX, int offsetY);
 
-        int getX();
-        int getY();
+    int getX();
+    int getY();
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        void reset();
-        bool isResetable();
+    void reset();
+    bool isResetable();
 
-        bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
+    bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
 
-    protected :
+protected:
+    void afterFall();
+    void giveItem(int x, int y);
 
-        void afterFall();
-        void giveItem(int x, int y);
+private:
+    void moveX(int dx);
+    void moveY(int dy);
 
-    private :
+    int anim;
+    int animMax;
+    int vanim;
 
-        void moveX(int dx);
-        void moveY(int dy);
+    int step;
+    int elan;
+    int colere;
 
-        int anim;
-        int animMax;
-        int vanim;
+    WImage *image;
 
-        int step;
-        int elan;
-        int colere;
+    Chrono chrono;
 
-        WImage* image;
-
-        Chrono chrono;
-
-        BoundingBox box;
+    BoundingBox box;
 };
 
-#endif  // Ennemi097.h
+#endif // Ennemi097.h

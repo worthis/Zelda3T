@@ -10,7 +10,8 @@
 
 #include "../helper/ProjectileHelper.h"
 
-Ennemi131::Ennemi131(int i, int j) : cooldown(96) {
+Ennemi131::Ennemi131(int i, int j) : cooldown(96)
+{
     image = ResourceManager::getInstance()->loadImage("data/images/ennemis/ennemi131.png", true);
 
     type = 131;
@@ -23,7 +24,7 @@ Ennemi131::Ennemi131(int i, int j) : cooldown(96) {
     height = 24;
 
     box.setX(x);
-    box.setY(y+8);
+    box.setY(y + 8);
     box.setW(16);
     box.setH(16);
 
@@ -38,59 +39,82 @@ Ennemi131::Ennemi131(int i, int j) : cooldown(96) {
     forceEnn = 1;
 }
 
-Ennemi131::~Ennemi131() {
+Ennemi131::~Ennemi131()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void Ennemi131::reset() {
+void Ennemi131::reset()
+{
     Ennemi::reset();
     direction = startDir;
     cooldown = 96;
     checkPosition();
 }
 
-void Ennemi131::ennLoop() {
+void Ennemi131::ennLoop()
+{
 
-    if (cooldown) cooldown--;
+    if (cooldown)
+        cooldown--;
 
     // retrieve target position ( = link ^^)
-    Link* link = getLink();
+    Link *link = getLink();
 
     int dstX = link->getX() + 8;
     int dstY = link->getY() + 24;
 
     int dist = abs(x + width / 2 - dstX) + abs(y + height - dstY);
-    if (dist <= maxDist) {
+    if (dist <= maxDist)
+    {
 
         int srcX = x + 8;
         int srcY = y + 24;
 
-        if (cooldown <= 96) {
-            if (abs(dstX - srcX) > abs(dstY - srcY)) {
+        if (cooldown <= 96)
+        {
+            if (abs(dstX - srcX) > abs(dstY - srcY))
+            {
                 direction = (dstX > srcX) ? E : W;
-            } else {
+            }
+            else
+            {
                 direction = (dstY > srcY) ? S : N;
             }
         }
 
-        if (cooldown == 96 || cooldown == 64 || cooldown == 32 || cooldown == 0) {
-            if (cooldown > 0) {
-                switch(direction) {
-                    case N : ProjectileHelper::getInstance()->addProjectile(TP_ARC_MAGIQUE, x, y, N, true); break;
-                    case S : ProjectileHelper::getInstance()->addProjectile(TP_ARC_MAGIQUE, x, y + 16, S, true); break;
-                    case W : ProjectileHelper::getInstance()->addProjectile(TP_ARC_MAGIQUE, x - 8, y + 8, W, true); break;
-                    case E : ProjectileHelper::getInstance()->addProjectile(TP_ARC_MAGIQUE, x + 16, y + 8, E, true); break;
+        if (cooldown == 96 || cooldown == 64 || cooldown == 32 || cooldown == 0)
+        {
+            if (cooldown > 0)
+            {
+                switch (direction)
+                {
+                case N:
+                    ProjectileHelper::getInstance()->addProjectile(TP_ARC_MAGIQUE, x, y, N, true);
+                    break;
+                case S:
+                    ProjectileHelper::getInstance()->addProjectile(TP_ARC_MAGIQUE, x, y + 16, S, true);
+                    break;
+                case W:
+                    ProjectileHelper::getInstance()->addProjectile(TP_ARC_MAGIQUE, x - 8, y + 8, W, true);
+                    break;
+                case E:
+                    ProjectileHelper::getInstance()->addProjectile(TP_ARC_MAGIQUE, x + 16, y + 8, E, true);
+                    break;
                 }
                 AudioManager::getInstance()->playSound(TS_MAGIC);
             }
-            if (!cooldown) cooldown = 160;
+            if (!cooldown)
+                cooldown = 160;
         }
         testDegatOnLink(getBoundingBox(), direction, forceEnn, TA_PHYSIC, TE_EXPONENTIEL);
     }
 }
 
-void Ennemi131::draw(int offsetX, int offsetY) {
-    if (!alive) {
+void Ennemi131::draw(int offsetX, int offsetY)
+{
+    if (!alive)
+    {
         return;
     }
 
@@ -100,18 +124,22 @@ void Ennemi131::draw(int offsetX, int offsetY) {
     WindowManager::getInstance()->draw(image, direction * width, (cooldown <= 96) ? 0 : 24, width, height, dstX, dstY);
 }
 
-int Ennemi131::getX() {
+int Ennemi131::getX()
+{
     return x;
 }
 
-int Ennemi131::getY() {
+int Ennemi131::getY()
+{
     return y;
 }
 
-BoundingBox* Ennemi131::getBoundingBox() {
+BoundingBox *Ennemi131::getBoundingBox()
+{
     return &box;
 }
 
-bool Ennemi131::hasEffect(TypeAttack type, TypeEffect effect, Direction dir) {
+bool Ennemi131::hasEffect(TypeAttack type, TypeEffect effect, Direction dir)
+{
     return type == TA_MAGIC && effect == TE_EXPONENTIEL;
 }

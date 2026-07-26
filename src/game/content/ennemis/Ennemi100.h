@@ -15,31 +15,31 @@
 
 #include "../types/Ennemi.h"
 
-class Ennemi100 : public Ennemi {
-    public :
-        Ennemi100(int x, int y);
-        ~Ennemi100();
+class Ennemi100 : public Ennemi
+{
+public:
+    Ennemi100(int x, int y);
+    ~Ennemi100();
 
-        void ennLoop();
-        void draw(int offsetX, int offsetY);
+    void ennLoop();
+    void draw(int offsetX, int offsetY);
 
-        int getX();
-        int getY();
+    int getX();
+    int getY();
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        void reset();
-        bool isResetable();
+    void reset();
+    bool isResetable();
 
-        bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
+    bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
 
-        bool isToAvoid(Collision c);
+    bool isToAvoid(Collision c);
 
-    private :
+private:
+    WImage *image;
 
-        WImage* image;
-
-        BoundingBox box;
+    BoundingBox box;
 };
 
-#endif  // Ennemi100.h
+#endif // Ennemi100.h

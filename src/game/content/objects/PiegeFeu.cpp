@@ -8,7 +8,8 @@
 
 #include "../helper/ProjectileHelper.h"
 
-PiegeFeu::PiegeFeu(int i, int j, bool AF) : anim(0), animMax(16), vanim(120), autoFire(AF) {
+PiegeFeu::PiegeFeu(int i, int j, bool AF) : anim(0), animMax(16), vanim(120), autoFire(AF)
+{
     x = i;
     y = j;
 
@@ -26,35 +27,44 @@ PiegeFeu::PiegeFeu(int i, int j, bool AF) : anim(0), animMax(16), vanim(120), au
     chrono.reset();
 }
 
-PiegeFeu::~PiegeFeu() {
+PiegeFeu::~PiegeFeu()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void PiegeFeu::loop() {
-    if (chrono.getElapsedTime() >= vanim) {
+void PiegeFeu::loop()
+{
+    if (chrono.getElapsedTime() >= vanim)
+    {
         anim++;
-        if (anim > animMax) {
+        if (anim > animMax)
+        {
             anim = 0;
-            if (autoFire) snipe();
+            if (autoFire)
+                snipe();
         }
         chrono.reset();
     }
 }
 
-void PiegeFeu::draw(int offsetX, int offsetY) {
+void PiegeFeu::draw(int offsetX, int offsetY)
+{
     WindowManager::getInstance()->draw(image, 0, 0, 16, 16, x - offsetX, y - offsetY);
 }
 
-void PiegeFeu::snipe() {
-    Link* link = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getLink();
+void PiegeFeu::snipe()
+{
+    Link *link = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getLink();
     snipeInternal(link->getX() + 8, link->getY() + 24, true);
 }
 
-void PiegeFeu::snipeEnnemi(int i, int j) {
+void PiegeFeu::snipeEnnemi(int i, int j)
+{
     snipeInternal(i, j, false);
 }
 
-void PiegeFeu::snipeInternal(int dstX, int dstY, bool onLink) {
+void PiegeFeu::snipeInternal(int dstX, int dstY, bool onLink)
+{
     // throw proj and play sound
     double anglx = 0;
     double angly = 0;
@@ -66,21 +76,36 @@ void PiegeFeu::snipeInternal(int dstX, int dstY, bool onLink) {
     double coef1 = 0;
     double coef2 = 0;
 
-    if ((destx-origx) == 0) {anglx=0; angly=12;}
-    else if ((desty-origy) == 0) {anglx=12; angly=0;}
-    else {
-        coef1=((double)(desty-origy))/((double)(destx-origx));
-        coef2=((double)(destx-origx))/((double)(desty-origy));
-        anglx=(sqrt(12/(1+(coef1*coef1))));
-        angly=(sqrt(12/(1+(coef2*coef2))));
+    if ((destx - origx) == 0)
+    {
+        anglx = 0;
+        angly = 12;
     }
-    if (destx - origx < 0) anglx = -anglx;
-    if (desty - origy < 0) angly = -angly;
+    else if ((desty - origy) == 0)
+    {
+        anglx = 12;
+        angly = 0;
+    }
+    else
+    {
+        coef1 = ((double)(desty - origy)) / ((double)(destx - origx));
+        coef2 = ((double)(destx - origx)) / ((double)(desty - origy));
+        anglx = (sqrt(12 / (1 + (coef1 * coef1))));
+        angly = (sqrt(12 / (1 + (coef2 * coef2))));
+    }
+    if (destx - origx < 0)
+        anglx = -anglx;
+    if (desty - origy < 0)
+        angly = -angly;
 
-    if (anglx>4) anglx=4;
-    if (angly>4) angly=4;
-    if (anglx<-4) anglx=-4;
-    if (angly<-4) angly=-4;
+    if (anglx > 4)
+        anglx = 4;
+    if (angly > 4)
+        angly = 4;
+    if (anglx < -4)
+        anglx = -4;
+    if (angly < -4)
+        angly = -4;
 
     ProjectileHelper::getInstance()->addProjectile(TP_BOULE_FEU, origx, origy, anglx, angly, getBoundingBox(), !onLink);
     AudioManager::getInstance()->playSound(TS_THROW);

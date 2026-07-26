@@ -13,28 +13,28 @@
 
 #include "../types/Projectile.h"
 
-class ProjFinal : public Projectile {
-    public :
-        ProjFinal(int x, int y, double dx, double dy);
-        ~ProjFinal();
+class ProjFinal : public Projectile
+{
+public:
+    ProjFinal(int x, int y, double dx, double dy);
+    ~ProjFinal();
 
-        void projLoop();
-        void draw(int offsetX, int offsetY);
+    void projLoop();
+    void draw(int offsetX, int offsetY);
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        int getX();
-        int getY();
-        int getDown();
+    int getX();
+    int getY();
+    int getDown();
 
-    private :
-
-        int speed;
-        double dx;
-        double dy;
-        int force;
-        double longX;
-        double longY;
+private:
+    int speed;
+    double dx;
+    double dy;
+    int force;
+    double longX;
+    double longY;
 };
 
-#endif  // ProjFinal.h
+#endif // ProjFinal.h

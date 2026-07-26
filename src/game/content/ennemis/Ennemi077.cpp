@@ -12,7 +12,8 @@
 
 #include "../effects/FumeeBlanche.h"
 
-Ennemi077::Ennemi077(int i, int j) : anim(0), animMax(1), vanim(180) {
+Ennemi077::Ennemi077(int i, int j) : anim(0), animMax(1), vanim(180)
+{
     image = ResourceManager::getInstance()->loadImage("data/images/ennemis/ennemi77.png", true);
     chrono.reset();
 
@@ -25,8 +26,8 @@ Ennemi077::Ennemi077(int i, int j) : anim(0), animMax(1), vanim(180) {
     width = 42;
     height = 30;
 
-    box.setX(x+13);
-    box.setY(y+12);
+    box.setX(x + 13);
+    box.setY(y + 12);
     box.setW(16);
     box.setH(16);
 
@@ -47,11 +48,13 @@ Ennemi077::Ennemi077(int i, int j) : anim(0), animMax(1), vanim(180) {
     forceEnn = 12;
 }
 
-Ennemi077::~Ennemi077() {
+Ennemi077::~Ennemi077()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void Ennemi077::reset() {
+void Ennemi077::reset()
+{
     Ennemi::reset();
     chrono.reset();
     x = startX;
@@ -61,40 +64,51 @@ void Ennemi077::reset() {
     checkPosition();
 }
 
-void Ennemi077::ennLoop() {
+void Ennemi077::ennLoop()
+{
 
     // retrieve target position ( = link ^^)
-    Link* link = getLink();
+    Link *link = getLink();
 
     int dstX = link->getX() + 8;
     int dstY = link->getY() + 24;
 
     int dist = abs(x + width / 2 - dstX) + abs(y + height - dstY);
-    if (dist <= maxDist) {
-        for (int i = 0; i < 2 ; i++) {
+    if (dist <= maxDist)
+    {
+        for (int i = 0; i < 2; i++)
+        {
             pair<int, int> dir = AStar::getInstance()->resolvePath(this, dstX, dstY, direction);
 
             move(dir.first, dir.second);
 
-            if (link->getBoundingBox()->intersect(getBoundingBox())) {
+            if (link->getBoundingBox()->intersect(getBoundingBox()))
+            {
                 testDegatOnLink(&box, direction, forceEnn, TA_PHYSIC, TE_NORMAL);
             }
         }
-    } else {
+    }
+    else
+    {
         idle = true;
     }
 
-    if (chrono.getElapsedTime() >= vanim) {
-        if (!gel) anim++;
-        if (anim > animMax) {
+    if (chrono.getElapsedTime() >= vanim)
+    {
+        if (!gel)
+            anim++;
+        if (anim > animMax)
+        {
             anim = 0;
         }
         chrono.reset();
     }
 }
 
-void Ennemi077::draw(int offsetX, int offsetY) {
-    if (!alive) {
+void Ennemi077::draw(int offsetX, int offsetY)
+{
+    if (!alive)
+    {
         return;
     }
 
@@ -104,24 +118,29 @@ void Ennemi077::draw(int offsetX, int offsetY) {
     WindowManager::getInstance()->draw(image, direction * width, anim * height, width, height, dstX, dstY);
 }
 
-int Ennemi077::getX() {
+int Ennemi077::getX()
+{
     return x;
 }
 
-int Ennemi077::getY() {
+int Ennemi077::getY()
+{
     return y;
 }
 
-BoundingBox* Ennemi077::getBoundingBox() {
+BoundingBox *Ennemi077::getBoundingBox()
+{
     box.setX(x + 13);
     box.setY(y + 12);
     return &box;
 }
 
-void Ennemi077::giveItem(int i, int j) {
-    Scene* scene = MainController::getInstance()->getGameController()->getSceneController()->getScene();
+void Ennemi077::giveItem(int i, int j)
+{
+    Scene *scene = MainController::getInstance()->getGameController()->getSceneController()->getScene();
     int nbLoups = scene->getCoffre(0, 1);
-    if (nbLoups < 101) {
+    if (nbLoups < 101)
+    {
         scene->setCoffre(0, 1, ++nbLoups);
     }
     Ennemi::giveItem(i, j);

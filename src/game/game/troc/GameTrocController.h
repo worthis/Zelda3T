@@ -16,21 +16,22 @@
 
 #include "Troc.h"
 
-class GameTrocController {
-    public :
-        GameTrocController();
-        ~GameTrocController();
+class GameTrocController
+{
+public:
+    GameTrocController();
+    ~GameTrocController();
 
-        void launch();
+    void launch();
 
-        void handleActions(Action* action);
-        void loop();
-        void draw();
+    void handleActions(Action *action);
+    void loop();
+    void draw();
 
-        Troc* getTroc();
+    Troc *getTroc();
 
-    private :
-        Troc troc;
+private:
+    Troc troc;
 };
 
-#endif  // GameTrocController.h
+#endif // GameTrocController.h

@@ -15,20 +15,20 @@
 
 #include "Fish.h"
 
-class FishController {
-    public :
-        FishController();
-        ~FishController();
+class FishController
+{
+public:
+    FishController();
+    ~FishController();
 
-        void launch();
+    void launch();
 
-        void handleActions(Action* action);
-        void loop();
-        void draw();
+    void handleActions(Action *action);
+    void loop();
+    void draw();
 
-    private :
-        Fish fish;
+private:
+    Fish fish;
 };
 
-#endif  // FishController.h
-
+#endif // FishController.h

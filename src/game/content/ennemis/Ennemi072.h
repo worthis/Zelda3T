@@ -17,41 +17,41 @@
 
 #include "../types/Ennemi.h"
 
-class Ennemi072 : public Ennemi {
-    public :
-        Ennemi072(int x, int y);
-        ~Ennemi072();
+class Ennemi072 : public Ennemi
+{
+public:
+    Ennemi072(int x, int y);
+    ~Ennemi072();
 
-        void ennLoop();
-        void draw(int offsetX, int offsetY);
+    void ennLoop();
+    void draw(int offsetX, int offsetY);
 
-        int getX();
-        int getY();
+    int getX();
+    int getY();
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        void reset();
-        bool isResetable();
+    void reset();
+    bool isResetable();
 
-        bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
+    bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
 
-        void pousseX(int dx);
-        void pousseY(int dy);
+    void pousseX(int dx);
+    void pousseY(int dy);
 
-    private :
+private:
+    int anim;
+    int animMax;
+    int vanim;
 
-        int anim;
-        int animMax;
-        int vanim;
+    int cooldown;
+    bool jump;
 
-        int cooldown;
-        bool jump;
+    WImage *image;
 
-        WImage* image;
+    Chrono chrono;
 
-        Chrono chrono;
-
-        BoundingBox box;
+    BoundingBox box;
 };
 
-#endif  // Ennemi072.h
+#endif // Ennemi072.h

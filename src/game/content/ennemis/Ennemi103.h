@@ -17,47 +17,46 @@
 
 class Map;
 
-class Ennemi103 : public Ennemi {
-    public :
-        Ennemi103(int x, int y);
-        ~Ennemi103();
+class Ennemi103 : public Ennemi
+{
+public:
+    Ennemi103(int x, int y);
+    ~Ennemi103();
 
-        void ennLoop();
-        void draw(int offsetX, int offsetY);
-        void drawEncyclopedie();
+    void ennLoop();
+    void draw(int offsetX, int offsetY);
+    void drawEncyclopedie();
 
-        int getX();
-        int getY();
+    int getX();
+    int getY();
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        void reset();
-        bool isResetable();
+    void reset();
+    bool isResetable();
 
-        bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
+    bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
 
-    protected :
+protected:
+    void giveItem(int x, int y);
 
-        void giveItem(int x, int y);
+private:
+    void moveX(int dx);
+    void moveY(int dy);
 
-    private :
+    int anim;
+    int animMax;
+    int vanim;
 
-        void moveX(int dx);
-        void moveY(int dy);
+    WImage *image;
 
-        int anim;
-        int animMax;
-        int vanim;
+    Chrono chrono;
 
-        WImage* image;
+    BoundingBox box;
 
-        Chrono chrono;
-
-        BoundingBox box;
-
-        int cooldown;
-        int step; // 0 hidden, 1 shoot, 2 go away, 3 come back, 4 blind, 5 attack, 6 attacking
-        int alpha;
+    int cooldown;
+    int step; // 0 hidden, 1 shoot, 2 go away, 3 come back, 4 blind, 5 attack, 6 attacking
+    int alpha;
 };
 
-#endif  // Ennemi103.h
+#endif // Ennemi103.h

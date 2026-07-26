@@ -14,37 +14,37 @@
 #include "../../content/CommonGame.h"
 #include "../../content/scene/Map.h"
 
-class TransitionTimes {
-    public :
-        TransitionTimes();
-        ~TransitionTimes();
+class TransitionTimes
+{
+public:
+    TransitionTimes();
+    ~TransitionTimes();
 
-        void loop();
-        void draw();
+    void loop();
+    void draw();
 
-        void init();
-        void setSens(int s);
+    void init();
+    void setSens(int s);
 
-    private :
-        int getSecondMapId(int mapId);
+private:
+    int getSecondMapId(int mapId);
 
-        Map* mapDestination;
-        BoundingBox* box;
+    Map *mapDestination;
+    BoundingBox *box;
 
-        WImage* imageJurassique;
-        WImage* imageApocalypse;
+    WImage *imageJurassique;
+    WImage *imageApocalypse;
 
-        WImage* filterForest[3];
-        WImage* filterRain[3];
-        WImage* filterSnow[3];
-        WImage* filterSky[3];
+    WImage *filterForest[3];
+    WImage *filterRain[3];
+    WImage *filterSnow[3];
+    WImage *filterSky[3];
 
-        WImage* imageDestination;
-        int alpha;
-        bool reset;
-        int sens;
-        int destinationId;
-
+    WImage *imageDestination;
+    int alpha;
+    bool reset;
+    int sens;
+    int destinationId;
 };
 
-#endif  // TransitionTimes.h
+#endif // TransitionTimes.h

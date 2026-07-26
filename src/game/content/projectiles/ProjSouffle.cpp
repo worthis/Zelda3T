@@ -1,6 +1,5 @@
 #include "ProjSouffle.h"
 
-
 #include "../../../engine/resources/ResourceManager.h"
 #include "../../../engine/window/WindowManager.h"
 #include "../../../engine/audio/AudioManager.h"
@@ -9,7 +8,8 @@
 
 #include "../../MainController.h"
 
-ProjSouffle::ProjSouffle(int i, int j) {
+ProjSouffle::ProjSouffle(int i, int j)
+{
     x = i;
     y = j;
 
@@ -30,30 +30,39 @@ ProjSouffle::ProjSouffle(int i, int j) {
     chrono.reset();
 }
 
-ProjSouffle::~ProjSouffle() {
+ProjSouffle::~ProjSouffle()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void ProjSouffle::projLoop() {
-    if (!alive) {
+void ProjSouffle::projLoop()
+{
+    if (!alive)
+    {
         return;
     }
 
-    Scene* scene = MainController::getInstance()->getGameController()->getSceneController()->getScene();
+    Scene *scene = MainController::getInstance()->getGameController()->getSceneController()->getScene();
 
-    if (scene->checkCollisions(getBoundingBox(), (Collisionable*)this, false)) {
+    if (scene->checkCollisions(getBoundingBox(), (Collisionable *)this, false))
+    {
         y += dy;
 
-        if (getBoundingBox()->intersect(scene->getLink()->getBoundingBox())) {
+        if (getBoundingBox()->intersect(scene->getLink()->getBoundingBox()))
+        {
             scene->getLink()->pousseY(1);
         }
-    } else {
+    }
+    else
+    {
         alive = false;
     }
 }
 
-void ProjSouffle::draw(int offsetX, int offsetY) {
-    if (!alive) {
+void ProjSouffle::draw(int offsetX, int offsetY)
+{
+    if (!alive)
+    {
         return;
     }
 
@@ -63,7 +72,8 @@ void ProjSouffle::draw(int offsetX, int offsetY) {
     WindowManager::getInstance()->draw(image, 0, 0, width, height, dstX, dstY);
 }
 
-BoundingBox* ProjSouffle::getBoundingBox() {
+BoundingBox *ProjSouffle::getBoundingBox()
+{
     box.setX(x);
     box.setY(y);
     return &box;

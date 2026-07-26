@@ -4,7 +4,8 @@
 #include "../../../engine/window/WindowManager.h"
 #include "../../../engine/audio/AudioManager.h"
 
-PieceOrDeux::PieceOrDeux(int i, int j) {
+PieceOrDeux::PieceOrDeux(int i, int j)
+{
 
     x = i;
     y = j - 10;
@@ -23,15 +24,20 @@ PieceOrDeux::PieceOrDeux(int i, int j) {
     box.setH(12);
 }
 
-PieceOrDeux::~PieceOrDeux() {
+PieceOrDeux::~PieceOrDeux()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void PieceOrDeux::loop() {
-    if (animMax > 0 && chrono.getElapsedTime() >= vanim) {
+void PieceOrDeux::loop()
+{
+    if (animMax > 0 && chrono.getElapsedTime() >= vanim)
+    {
         anim++;
-        if (anim > animMax) {
-            if (!ready) {
+        if (anim > animMax)
+        {
+            if (!ready)
+            {
                 ready = true;
                 animMax = 0;
             }
@@ -41,29 +47,40 @@ void PieceOrDeux::loop() {
     }
 }
 
-void PieceOrDeux::draw(int offsetX, int offsetY) {
-    if (!alive) {
+void PieceOrDeux::draw(int offsetX, int offsetY)
+{
+    if (!alive)
+    {
         return;
     }
 
     int dstX = x - offsetX;
     int dstY = y - offsetY;
 
-    if (ready) {
+    if (ready)
+    {
         dstY += 10;
-    } else {
-        if (anim <= 10) dstY += anim;
-        else if (anim <= 14) dstY += 10 - (anim - 10);
-        else if (anim <= 18) dstY += 6 + (anim - 14);
-        else dstY += 10;
+    }
+    else
+    {
+        if (anim <= 10)
+            dstY += anim;
+        else if (anim <= 14)
+            dstY += 10 - (anim - 10);
+        else if (anim <= 18)
+            dstY += 6 + (anim - 14);
+        else
+            dstY += 10;
     }
 
     WindowManager::getInstance()->draw(image, 24, 3, 6, 4, dstX + 5, y - offsetY + 22);
     WindowManager::getInstance()->draw(image, 176, 80, 16, 16, dstX, dstY);
 }
 
-void PieceOrDeux::action() {
-    if (!ready) return;
+void PieceOrDeux::action()
+{
+    if (!ready)
+        return;
     AudioManager::getInstance()->playSound(TS_RUPEE);
     getLink()->getStatus()->updatePieceOr(2);
     alive = false;

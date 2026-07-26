@@ -17,50 +17,49 @@
 
 #include "../types/Ennemi.h"
 
-class Ennemi089 : public Ennemi {
-    public :
-        Ennemi089(int x, int y, int a = 0, bool ko = false);
-        ~Ennemi089();
+class Ennemi089 : public Ennemi
+{
+public:
+    Ennemi089(int x, int y, int a = 0, bool ko = false);
+    ~Ennemi089();
 
-        void ennLoop();
-        void draw(int offsetX, int offsetY);
+    void ennLoop();
+    void draw(int offsetX, int offsetY);
 
-        int getX();
-        int getY();
+    int getX();
+    int getY();
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        void reset();
-        bool isResetable();
+    void reset();
+    bool isResetable();
 
-        bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
+    bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
 
-        void setDirection(Direction dir);
+    void setDirection(Direction dir);
 
-    protected :
+protected:
+    void afterHit();
 
-        void afterHit();
+    void giveItem(int x, int y);
 
-        void giveItem(int x, int y);
+    bool canDie(TypeEffect effect);
 
-        bool canDie(TypeEffect effect);
+private:
+    int anim;
+    int animMax;
+    int vanim;
 
-    private :
+    int animSword;
+    bool isKo;
+    int speed;
+    int weapon;
 
-        int anim;
-        int animMax;
-        int vanim;
+    WImage *image;
 
-        int animSword;
-        bool isKo;
-        int speed;
-        int weapon;
+    Chrono chrono;
 
-        WImage* image;
-
-        Chrono chrono;
-
-        BoundingBox box;
+    BoundingBox box;
 };
 
-#endif  // Ennemi089.h
+#endif // Ennemi089.h

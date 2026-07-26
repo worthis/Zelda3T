@@ -17,50 +17,49 @@
 
 #include "../types/Ennemi.h"
 
-class Ennemi109 : public Ennemi {
-    public :
-        Ennemi109(int x, int y);
-        ~Ennemi109();
+class Ennemi109 : public Ennemi
+{
+public:
+    Ennemi109(int x, int y);
+    ~Ennemi109();
 
-        void ennLoop();
-        void draw(int offsetX, int offsetY);
-        void drawEncyclopedie();
+    void ennLoop();
+    void draw(int offsetX, int offsetY);
+    void drawEncyclopedie();
 
-        int getX();
-        int getY();
+    int getX();
+    int getY();
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        void reset();
-        bool isResetable();
+    void reset();
+    bool isResetable();
 
-        bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
+    bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
 
-        bool isToAvoid(Collision c);
+    bool isToAvoid(Collision c);
 
-    protected :
+protected:
+    void giveItem(int x, int y);
 
-        void giveItem(int x, int y);
+private:
+    void snipe();
+    void snipeInternal(int dstX, int dstY);
 
-    private :
+    void moveX(int dx);
 
-        void snipe();
-        void snipeInternal(int dstX, int dstY);
+    int anim;
+    int animMax;
+    int vanim;
 
-        void moveX(int dx);
+    int step;
+    int cooldown;
 
-        int anim;
-        int animMax;
-        int vanim;
+    WImage *image;
 
-        int step;
-        int cooldown;
+    Chrono chrono;
 
-        WImage* image;
-
-        Chrono chrono;
-
-        BoundingBox box;
+    BoundingBox box;
 };
 
-#endif  // Ennemi109.h
+#endif // Ennemi109.h

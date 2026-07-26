@@ -12,7 +12,8 @@
 
 #include "../effects/Plouf.h"
 
-Ennemi010::Ennemi010(int i, int j) : cooldown(63) {
+Ennemi010::Ennemi010(int i, int j) : cooldown(63)
+{
     image = ResourceManager::getInstance()->loadImage("data/images/ennemis/ennemi10.png", true);
 
     type = 10;
@@ -46,11 +47,13 @@ Ennemi010::Ennemi010(int i, int j) : cooldown(63) {
     forceEnn = 2;
 }
 
-Ennemi010::~Ennemi010() {
+Ennemi010::~Ennemi010()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void Ennemi010::reset() {
+void Ennemi010::reset()
+{
     Ennemi::reset();
     x = startX;
     y = startY;
@@ -59,19 +62,23 @@ void Ennemi010::reset() {
     checkPosition();
 }
 
-void Ennemi010::ennLoop() {
+void Ennemi010::ennLoop()
+{
 
-    if (cooldown) cooldown--;
+    if (cooldown)
+        cooldown--;
 
     // retrieve target position ( = link ^^)
-    Link* link = getLink();
+    Link *link = getLink();
 
     int dstX = link->getX() + 8;
     int dstY = link->getY() + 24;
 
     int dist = abs(x + width / 2 - dstX) + abs(y + height - dstY);
-    if (dist <= maxDist) {
-        if (!cooldown) {
+    if (dist <= maxDist)
+    {
+        if (!cooldown)
+        {
             // throw proj and play sound
             double anglx = 0;
             double angly = 0;
@@ -83,21 +90,36 @@ void Ennemi010::ennLoop() {
             double coef1 = 0;
             double coef2 = 0;
 
-            if ((destx-origx) == 0) {anglx=0; angly=12;}
-            else if ((desty-origy) == 0) {anglx=12; angly=0;}
-            else {
-                coef1=((double)(desty-origy))/((double)(destx-origx));
-                coef2=((double)(destx-origx))/((double)(desty-origy));
-                anglx=(sqrt(12/(1+(coef1*coef1))));
-                angly=(sqrt(12/(1+(coef2*coef2))));
+            if ((destx - origx) == 0)
+            {
+                anglx = 0;
+                angly = 12;
             }
-            if (destx - origx < 0) anglx = -anglx;
-            if (desty - origy < 0) angly = -angly;
+            else if ((desty - origy) == 0)
+            {
+                anglx = 12;
+                angly = 0;
+            }
+            else
+            {
+                coef1 = ((double)(desty - origy)) / ((double)(destx - origx));
+                coef2 = ((double)(destx - origx)) / ((double)(desty - origy));
+                anglx = (sqrt(12 / (1 + (coef1 * coef1))));
+                angly = (sqrt(12 / (1 + (coef2 * coef2))));
+            }
+            if (destx - origx < 0)
+                anglx = -anglx;
+            if (desty - origy < 0)
+                angly = -angly;
 
-            if (anglx>4) anglx=4;
-            if (angly>4) angly=4;
-            if (anglx<-4) anglx=-4;
-            if (angly<-4) angly=-4;
+            if (anglx > 4)
+                anglx = 4;
+            if (angly > 4)
+                angly = 4;
+            if (anglx < -4)
+                anglx = -4;
+            if (angly < -4)
+                angly = -4;
 
             ProjectileHelper::getInstance()->addProjectile(TP_BOULE_FEU, x + 8, y + 8, anglx, angly);
             AudioManager::getInstance()->playSound(TS_THROW);
@@ -107,8 +129,10 @@ void Ennemi010::ennLoop() {
     }
 }
 
-void Ennemi010::draw(int offsetX, int offsetY) {
-    if (!alive) {
+void Ennemi010::draw(int offsetX, int offsetY)
+{
+    if (!alive)
+    {
         return;
     }
 
@@ -118,34 +142,43 @@ void Ennemi010::draw(int offsetX, int offsetY) {
     WindowManager::getInstance()->draw(image, (cooldown == 0 || cooldown < 64) ? 0 : 16, 0, width, height, dstX, dstY);
 }
 
-int Ennemi010::getX() {
+int Ennemi010::getX()
+{
     return x;
 }
 
-int Ennemi010::getY() {
+int Ennemi010::getY()
+{
     return y;
 }
 
-BoundingBox* Ennemi010::getBoundingBox() {
+BoundingBox *Ennemi010::getBoundingBox()
+{
     box.setX(x);
     box.setY(y);
     return &box;
 }
 
-void Ennemi010::cachette(bool cache, bool withAnim) {
+void Ennemi010::cachette(bool cache, bool withAnim)
+{
     bool wasAlive = alive;
-    if (cache) {
+    if (cache)
+    {
         alive = false;
-    } else {
+    }
+    else
+    {
         reset();
         cooldown = 1;
     }
-    if (withAnim && wasAlive) {
+    if (withAnim && wasAlive)
+    {
         AudioManager::getInstance()->playSound(TS_PLOUF);
-        MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap()->addEffect(new Plouf(x, y+8));
+        MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap()->addEffect(new Plouf(x, y + 8));
     }
 }
 
-bool Ennemi010::isToAvoid(Collision c) {
+bool Ennemi010::isToAvoid(Collision c)
+{
     return c != EAU_PROF;
 }

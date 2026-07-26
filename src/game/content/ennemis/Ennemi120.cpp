@@ -12,7 +12,8 @@
 
 #include "../helper/ProjectileHelper.h"
 
-Ennemi120::Ennemi120(int i, int j) : anim(0), animMax(9), vanim(180) {
+Ennemi120::Ennemi120(int i, int j) : anim(0), animMax(9), vanim(180)
+{
     image = ResourceManager::getInstance()->loadImage("data/images/ennemis/ennemi120.png", true);
 
     type = 120;
@@ -47,11 +48,13 @@ Ennemi120::Ennemi120(int i, int j) : anim(0), animMax(9), vanim(180) {
     forceEnn = 20;
 }
 
-Ennemi120::~Ennemi120() {
+Ennemi120::~Ennemi120()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void Ennemi120::reset() {
+void Ennemi120::reset()
+{
     Ennemi::reset();
     chrono.reset();
     x = startX;
@@ -63,33 +66,47 @@ void Ennemi120::reset() {
     checkPosition();
 }
 
-bool Ennemi120::isResetable() {
+bool Ennemi120::isResetable()
+{
     return alive;
 }
 
-void Ennemi120::ennLoop() {
+void Ennemi120::ennLoop()
+{
 
     testDegatOnLink(getBoundingBox(), direction, forceEnn, TA_PHYSIC, TE_NORMAL);
 
-    if (chrono.getElapsedTime() >= vanim) {
-        if (!gel) anim++;
-        if (anim > animMax) {
+    if (chrono.getElapsedTime() >= vanim)
+    {
+        if (!gel)
+            anim++;
+        if (anim > animMax)
+        {
             anim = 0;
-            if (getLink()->getStatus()->getLife() > 0) {
+            if (getLink()->getStatus()->getLife() > 0)
+            {
                 step = (int)((float)rand() / RAND_MAX * (3));
                 animMax = 9;
-            } else {
+            }
+            else
+            {
                 animMax = 3;
             }
         }
 
-        if (anim == 8) {
-            if (step == 1) {
+        if (anim == 8)
+        {
+            if (step == 1)
+            {
                 snipe();
-            } else if (step == 2) {
+            }
+            else if (step == 2)
+            {
                 ProjectileHelper::getInstance()->addProjectile(TP_ECLAIR, x + 16, y + 24, S);
                 AudioManager::getInstance()->playSound(TS_MAGIC);
-            } else {
+            }
+            else
+            {
                 ProjectileHelper::getInstance()->addProjectile(TP_BOULE_ULTIME, x + 16, y + 24, getLink());
                 AudioManager::getInstance()->playSound(TS_THROW);
             }
@@ -98,8 +115,10 @@ void Ennemi120::ennLoop() {
     }
 }
 
-void Ennemi120::draw(int offsetX, int offsetY) {
-    if (!alive) {
+void Ennemi120::draw(int offsetX, int offsetY)
+{
+    if (!alive)
+    {
         return;
     }
 
@@ -111,10 +130,11 @@ void Ennemi120::draw(int offsetX, int offsetY) {
     WindowManager::getInstance()->draw(image, anim2 * width, 0, width, height, dstX, dstY);
 }
 
-void Ennemi120::snipe() {
+void Ennemi120::snipe()
+{
 
     // throw proj and play sound
-    Link* link = getLink();
+    Link *link = getLink();
 
     int dstX = link->getX() + 8;
     int dstY = link->getY() + 24;
@@ -129,47 +149,67 @@ void Ennemi120::snipe() {
     double coef1 = 0;
     double coef2 = 0;
 
-    if ((destx-origx) == 0) {anglx=0; angly=12;}
-    else if ((desty-origy) == 0) {anglx=12; angly=0;}
-    else {
-        coef1=((double)(desty-origy))/((double)(destx-origx));
-        coef2=((double)(destx-origx))/((double)(desty-origy));
-        anglx=(sqrt(12/(1+(coef1*coef1))));
-        angly=(sqrt(12/(1+(coef2*coef2))));
+    if ((destx - origx) == 0)
+    {
+        anglx = 0;
+        angly = 12;
     }
-    if (destx - origx < 0) anglx = -anglx;
-    if (desty - origy < 0) angly = -angly;
+    else if ((desty - origy) == 0)
+    {
+        anglx = 12;
+        angly = 0;
+    }
+    else
+    {
+        coef1 = ((double)(desty - origy)) / ((double)(destx - origx));
+        coef2 = ((double)(destx - origx)) / ((double)(desty - origy));
+        anglx = (sqrt(12 / (1 + (coef1 * coef1))));
+        angly = (sqrt(12 / (1 + (coef2 * coef2))));
+    }
+    if (destx - origx < 0)
+        anglx = -anglx;
+    if (desty - origy < 0)
+        angly = -angly;
 
-    if (anglx>4) anglx=4;
-    if (angly>4) angly=4;
-    if (anglx<-4) anglx=-4;
-    if (angly<-4) angly=-4;
+    if (anglx > 4)
+        anglx = 4;
+    if (angly > 4)
+        angly = 4;
+    if (anglx < -4)
+        anglx = -4;
+    if (angly < -4)
+        angly = -4;
 
     ProjectileHelper::getInstance()->addProjectile(TP_LAPIN, origx, origy, anglx, angly);
     AudioManager::getInstance()->playSound(TS_MAGIC);
 }
 
-int Ennemi120::getX() {
+int Ennemi120::getX()
+{
     return x;
 }
 
-int Ennemi120::getY() {
+int Ennemi120::getY()
+{
     return y;
 }
 
-BoundingBox* Ennemi120::getBoundingBox() {
+BoundingBox *Ennemi120::getBoundingBox()
+{
     box.setX(x);
     box.setY(y);
     return &box;
 }
 
-bool Ennemi120::hasEffect(TypeAttack type, TypeEffect effect, Direction dir) {
+bool Ennemi120::hasEffect(TypeAttack type, TypeEffect effect, Direction dir)
+{
     return type == TA_MAGIC && effect == TE_NORMAL;
 }
 
-void Ennemi120::giveItem(int x, int y) {
+void Ennemi120::giveItem(int x, int y)
+{
     AudioManager::getInstance()->playSound(TS_KILLENNEMY);
-    Map* map = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap();
+    Map *map = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap();
     map->addEffect(new FumeeBlanche(x, y));
     map->addItem(ItemHelper::getInstance()->createItem(TI_COEUR, x, y, 10));
 }

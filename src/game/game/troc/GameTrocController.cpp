@@ -1,26 +1,33 @@
 #include "GameTrocController.h"
 
-GameTrocController::GameTrocController() {
+GameTrocController::GameTrocController()
+{
 }
 
-GameTrocController::~GameTrocController() {
+GameTrocController::~GameTrocController()
+{
 }
 
-void GameTrocController::launch() {
+void GameTrocController::launch()
+{
     troc.init();
 }
 
-void GameTrocController::handleActions(Action* action) {
+void GameTrocController::handleActions(Action *action)
+{
     troc.handleActions(action);
 }
 
-void GameTrocController::loop() {
+void GameTrocController::loop()
+{
 }
 
-void GameTrocController::draw() {
+void GameTrocController::draw()
+{
     troc.draw();
 }
 
-Troc* GameTrocController::getTroc() {
+Troc *GameTrocController::getTroc()
+{
     return &troc;
 }

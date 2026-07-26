@@ -14,19 +14,19 @@
 #include "../types/Portable.h"
 #include "../scene/Map.h"
 
-class TasDePierres : public Portable {
-    public :
-        TasDePierres(int x, int y, int id);
-        ~TasDePierres();
+class TasDePierres : public Portable
+{
+public:
+    TasDePierres(int x, int y, int id);
+    ~TasDePierres();
 
-        void portLoop();
-        void draw(int offsetX, int offsetY);
+    void portLoop();
+    void draw(int offsetX, int offsetY);
 
-        Portable* getPierre();
+    Portable *getPierre();
 
-    private :
-
-        int type;
+private:
+    int type;
 };
 
-#endif  // TasDePierres.h
+#endif // TasDePierres.h

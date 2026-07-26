@@ -3,7 +3,8 @@
 #include "../../../engine/resources/ResourceManager.h"
 #include "../../../engine/window/WindowManager.h"
 
-CleTemps::CleTemps(int i, int j) {
+CleTemps::CleTemps(int i, int j)
+{
     x = i;
     y = j;
     persistent = true;
@@ -23,12 +24,15 @@ CleTemps::CleTemps(int i, int j) {
     box.setH(16);
 }
 
-CleTemps::~CleTemps() {
+CleTemps::~CleTemps()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void CleTemps::draw(int offsetX, int offsetY) {
-    if (!alive) {
+void CleTemps::draw(int offsetX, int offsetY)
+{
+    if (!alive)
+    {
         return;
     }
     int dstX = x - offsetX;
@@ -36,11 +40,13 @@ void CleTemps::draw(int offsetX, int offsetY) {
     WindowManager::getInstance()->draw(image, 240, 176, 16, 16, dstX, dstY);
 }
 
-void CleTemps::action() {
+void CleTemps::action()
+{
     getLink()->trouveObjet(TI_CLE_TEMPS);
     alive = false;
 }
 
-bool CleTemps::isPickable() {
+bool CleTemps::isPickable()
+{
     return false;
 }

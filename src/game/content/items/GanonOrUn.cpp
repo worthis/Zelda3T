@@ -4,7 +4,8 @@
 #include "../../../engine/window/WindowManager.h"
 #include "../../../engine/audio/AudioManager.h"
 
-GanonOrUn::GanonOrUn(int i, int j) {
+GanonOrUn::GanonOrUn(int i, int j)
+{
 
     x = i;
     y = j - 10;
@@ -23,15 +24,20 @@ GanonOrUn::GanonOrUn(int i, int j) {
     box.setH(12);
 }
 
-GanonOrUn::~GanonOrUn() {
+GanonOrUn::~GanonOrUn()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void GanonOrUn::loop() {
-    if (animMax > 0 && chrono.getElapsedTime() >= vanim) {
+void GanonOrUn::loop()
+{
+    if (animMax > 0 && chrono.getElapsedTime() >= vanim)
+    {
         anim++;
-        if (anim > animMax) {
-            if (!ready) {
+        if (anim > animMax)
+        {
+            if (!ready)
+            {
                 ready = true;
                 animMax = 0;
             }
@@ -41,29 +47,40 @@ void GanonOrUn::loop() {
     }
 }
 
-void GanonOrUn::draw(int offsetX, int offsetY) {
-    if (!alive) {
+void GanonOrUn::draw(int offsetX, int offsetY)
+{
+    if (!alive)
+    {
         return;
     }
 
     int dstX = x - offsetX;
     int dstY = y - offsetY;
 
-    if (ready) {
+    if (ready)
+    {
         dstY += 10;
-    } else {
-        if (anim <= 10) dstY += anim;
-        else if (anim <= 14) dstY += 10 - (anim - 10);
-        else if (anim <= 18) dstY += 6 + (anim - 14);
-        else dstY += 10;
+    }
+    else
+    {
+        if (anim <= 10)
+            dstY += anim;
+        else if (anim <= 14)
+            dstY += 10 - (anim - 10);
+        else if (anim <= 18)
+            dstY += 6 + (anim - 14);
+        else
+            dstY += 10;
     }
 
     WindowManager::getInstance()->draw(image, 24, 3, 6, 4, dstX + 5, y - offsetY + 22);
     WindowManager::getInstance()->draw(image, 160, 64, 16, 16, dstX, dstY);
 }
 
-void GanonOrUn::action() {
-    if (!ready) return;
+void GanonOrUn::action()
+{
+    if (!ready)
+        return;
     AudioManager::getInstance()->playSound(TS_RUPEE);
     getLink()->getStatus()->updateGanonOr(1);
     alive = false;

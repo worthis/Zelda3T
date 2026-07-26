@@ -1,23 +1,29 @@
 #include "CreditsController.h"
 
-CreditsController::CreditsController() {
+CreditsController::CreditsController()
+{
 }
 
-CreditsController::~CreditsController() {
+CreditsController::~CreditsController()
+{
 }
 
-void CreditsController::launch(int id) {
+void CreditsController::launch(int id)
+{
     credits.init(id);
 }
 
-void CreditsController::handleActions(Action* action) {
+void CreditsController::handleActions(Action *action)
+{
     credits.handleActions(action);
 }
 
-void CreditsController::loop() {
+void CreditsController::loop()
+{
     credits.loop();
 }
 
-void CreditsController::draw() {
+void CreditsController::draw()
+{
     credits.draw();
 }

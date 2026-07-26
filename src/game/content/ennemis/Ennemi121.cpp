@@ -5,7 +5,8 @@
 
 #include "../../MainController.h"
 
-Ennemi121::Ennemi121(int i, int j) : anim(0), animMax(1), vanim(180) {
+Ennemi121::Ennemi121(int i, int j) : anim(0), animMax(1), vanim(180)
+{
     image = ResourceManager::getInstance()->loadImage("data/images/ennemis/ennemi121.png", true);
     chrono.reset();
 
@@ -38,11 +39,13 @@ Ennemi121::Ennemi121(int i, int j) : anim(0), animMax(1), vanim(180) {
     forceEnn = 1;
 }
 
-Ennemi121::~Ennemi121() {
+Ennemi121::~Ennemi121()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void Ennemi121::reset() {
+void Ennemi121::reset()
+{
     Ennemi::reset();
     chrono.reset();
     x = startX;
@@ -52,39 +55,67 @@ void Ennemi121::reset() {
     checkPosition();
 }
 
-void Ennemi121::ennLoop() {
+void Ennemi121::ennLoop()
+{
 
     // move
     int randomValue = (int)((float)rand() / RAND_MAX * (100));
-    switch (randomValue) {
-        case 1 : moveX(-1);direction=W; break;
-        case 2 : moveX(1); direction=E; break;
-        case 3 : moveY(-1);direction=N; break;
-        case 4 : moveY(1); direction=S; break;
-        default :
-            if (randomValue < 10) break;
-            switch (direction) {
-                case N : moveY(-1); break;
-                case S : moveY(1); break;
-                case W : moveX(-1); break;
-                case E : moveX(1); break;
-            }
+    switch (randomValue)
+    {
+    case 1:
+        moveX(-1);
+        direction = W;
+        break;
+    case 2:
+        moveX(1);
+        direction = E;
+        break;
+    case 3:
+        moveY(-1);
+        direction = N;
+        break;
+    case 4:
+        moveY(1);
+        direction = S;
+        break;
+    default:
+        if (randomValue < 10)
             break;
+        switch (direction)
+        {
+        case N:
+            moveY(-1);
+            break;
+        case S:
+            moveY(1);
+            break;
+        case W:
+            moveX(-1);
+            break;
+        case E:
+            moveX(1);
+            break;
+        }
+        break;
     }
 
     testDegatOnLink(getBoundingBox(), direction, forceEnn, TA_PHYSIC, TE_NORMAL);
 
-    if (chrono.getElapsedTime() >= vanim) {
+    if (chrono.getElapsedTime() >= vanim)
+    {
         anim++;
-        if (anim > animMax) {
+        if (anim > animMax)
+        {
             anim = 0;
         }
         chrono.reset();
     }
 }
 
-void Ennemi121::draw(int offsetX, int offsetY) {
-    if (!alive) {
+void Ennemi121::draw(int offsetX, int offsetY)
+{
+    if (!alive)
+    {
         return;
     }
 
@@ -93,46 +124,55 @@ void Ennemi121::draw(int offsetX, int offsetY) {
     WindowManager::getInstance()->draw(image, direction * width, anim * height, 16, 16, dstX, dstY);
 }
 
-int Ennemi121::getX() {
+int Ennemi121::getX()
+{
     return x;
 }
 
-int Ennemi121::getY() {
+int Ennemi121::getY()
+{
     return y;
 }
 
-BoundingBox* Ennemi121::getBoundingBox() {
+BoundingBox *Ennemi121::getBoundingBox()
+{
     box.setX(x);
     box.setY(y);
     return &box;
 }
 
-void Ennemi121::moveX(int dx) {
-    Map* map = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap();
+void Ennemi121::moveX(int dx)
+{
+    Map *map = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap();
 
     int oldX = x;
 
-    BoundingBox* bb = getBoundingBox();
+    BoundingBox *bb = getBoundingBox();
     bb->setX(x + dx);
 
-    if (map->checkCollisions(bb, this, true, false, true, false)) {
+    if (map->checkCollisions(bb, this, true, false, true, false))
+    {
         x += dx;
     }
 
-    if (x != oldX) checkPosition();
+    if (x != oldX)
+        checkPosition();
 }
 
-void Ennemi121::moveY(int dy) {
-    Map* map = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap();
+void Ennemi121::moveY(int dy)
+{
+    Map *map = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap();
 
     int oldY = y;
 
-    BoundingBox* bb = getBoundingBox();
+    BoundingBox *bb = getBoundingBox();
     bb->setY(y + dy);
 
-    if (map->checkCollisions(bb, this, false, false, true, false)) {
+    if (map->checkCollisions(bb, this, false, false, true, false))
+    {
         y += dy;
     }
 
-    if (y != oldY) checkPosition();
+    if (y != oldY)
+        checkPosition();
 }

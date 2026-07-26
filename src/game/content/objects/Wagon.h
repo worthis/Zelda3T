@@ -14,29 +14,29 @@
 #include "../types/Object.h"
 #include "../link/Link.h"
 
-class Wagon : public Object {
-    public :
-        Wagon(int x, int y, Direction dir);
-        ~Wagon();
+class Wagon : public Object
+{
+public:
+    Wagon(int x, int y, Direction dir);
+    ~Wagon();
 
-        void loop();
+    void loop();
 
-        void draw(int offsetX, int offsetY);
-        bool action(Direction dir);
+    void draw(int offsetX, int offsetY);
+    bool action(Direction dir);
 
-        int getDown();
+    int getDown();
 
-    private :
+private:
+    void moveN();
+    void moveS();
+    void moveW();
+    void moveE();
 
-        void moveN();
-        void moveS();
-        void moveW();
-        void moveE();
+    Direction direction;
+    bool running;
 
-        Direction direction;
-        bool running;
-
-        Link* link;
+    Link *link;
 };
 
-#endif  // Wagon.h
+#endif // Wagon.h

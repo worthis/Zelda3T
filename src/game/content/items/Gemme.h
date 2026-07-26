@@ -13,21 +13,21 @@
 
 #include "../types/Item.h"
 
-class Gemme : public Item {
-    public :
-        Gemme(int x, int y, int id);
-        ~Gemme();
+class Gemme : public Item
+{
+public:
+    Gemme(int x, int y, int id);
+    ~Gemme();
 
-        void loop();
-        void draw(int offsetX, int offsetY);
+    void loop();
+    void draw(int offsetX, int offsetY);
 
-        void action();
+    void action();
 
-        bool isPickable();
+    bool isPickable();
 
-    private :
-
-        int id;
+private:
+    int id;
 };
 
-#endif  // Gemme.h
+#endif // Gemme.h

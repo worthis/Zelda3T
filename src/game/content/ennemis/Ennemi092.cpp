@@ -10,7 +10,8 @@
 
 #include "../helper/ProjectileHelper.h"
 
-Ennemi092::Ennemi092(int i, int j) : anim(0), animMax(1), vanim(180) {
+Ennemi092::Ennemi092(int i, int j) : anim(0), animMax(1), vanim(180)
+{
     image = ResourceManager::getInstance()->loadImage("data/images/ennemis/ennemi92.png", true);
     chrono.reset();
 
@@ -46,11 +47,13 @@ Ennemi092::Ennemi092(int i, int j) : anim(0), animMax(1), vanim(180) {
     forceEnn = 4;
 }
 
-Ennemi092::~Ennemi092() {
+Ennemi092::~Ennemi092()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void Ennemi092::reset() {
+void Ennemi092::reset()
+{
     Ennemi::reset();
     chrono.reset();
     x = startX;
@@ -63,38 +66,63 @@ void Ennemi092::reset() {
     checkPosition();
 }
 
-bool Ennemi092::isResetable() {
+bool Ennemi092::isResetable()
+{
     return alive;
 }
 
-void Ennemi092::ennLoop() {
+void Ennemi092::ennLoop()
+{
 
-    if (step == 0) {
+    if (step == 0)
+    {
         // move
         int randomValue = (int)((float)rand() / RAND_MAX * (50));
-        switch (randomValue) {
-            case 1 : case 3 : moveX(-1);direction=W; break;
-            case 2 : case 4 : moveX(1); direction=E; break;
-            default :
-                if (randomValue < 10) break;
-                switch (direction) {
-                    case N : case W : moveX(-1); break;
-                    case S : case E : moveX(1); break;
-                    default : break;
-                }
+        switch (randomValue)
+        {
+        case 1:
+        case 3:
+            moveX(-1);
+            direction = W;
+            break;
+        case 2:
+        case 4:
+            moveX(1);
+            direction = E;
+            break;
+        default:
+            if (randomValue < 10)
                 break;
+            switch (direction)
+            {
+            case N:
+            case W:
+                moveX(-1);
+                break;
+            case S:
+            case E:
+                moveX(1);
+                break;
+            default:
+                break;
+            }
+            break;
         }
     }
     testDegatOnLink(getBoundingBox(), direction, forceEnn, TA_PHYSIC, TE_NORMAL);
 
-    if (chrono.getElapsedTime() >= vanim) {
+    if (chrono.getElapsedTime() >= vanim)
+    {
         anim++;
-        if (anim > animMax) {
+        if (anim > animMax)
+        {
             anim = 0;
         }
-        if (step == 0) {
+        if (step == 0)
+        {
             cooldown++;
-            if (cooldown >= 10 - ((maxLife - life)/5)) {
+            if (cooldown >= 10 - ((maxLife - life) / 5))
+            {
                 snipe();
                 cooldown = 0;
             }
@@ -103,8 +131,10 @@ void Ennemi092::ennLoop() {
     }
 }
 
-void Ennemi092::draw(int offsetX, int offsetY) {
-    if (!alive) {
+void Ennemi092::draw(int offsetX, int offsetY)
+{
+    if (!alive)
+    {
         return;
     }
 
@@ -114,48 +144,57 @@ void Ennemi092::draw(int offsetX, int offsetY) {
     WindowManager::getInstance()->draw(image, anim * width, 0, width, height, dstX, dstY);
 }
 
-void Ennemi092::moveX(int dx) {
+void Ennemi092::moveX(int dx)
+{
 
     int oldX = x;
 
-    BoundingBox* bb = getBoundingBox();
+    BoundingBox *bb = getBoundingBox();
     bb->setX(x + 12 + dx);
 
-    Map* map = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap();
-    if (map->checkCollisions(bb, this, true, false, true, false)) {
+    Map *map = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap();
+    if (map->checkCollisions(bb, this, true, false, true, false))
+    {
         x += dx;
     }
 
-    if (x != oldX) checkPosition();
+    if (x != oldX)
+        checkPosition();
 }
 
-int Ennemi092::getX() {
+int Ennemi092::getX()
+{
     return x;
 }
 
-int Ennemi092::getY() {
+int Ennemi092::getY()
+{
     return y;
 }
 
-BoundingBox* Ennemi092::getBoundingBox() {
+BoundingBox *Ennemi092::getBoundingBox()
+{
     box.setX(x + 12);
     box.setY(y);
     return &box;
 }
 
-void Ennemi092::giveItem(int i, int j) {
+void Ennemi092::giveItem(int i, int j)
+{
     Ennemi::giveItem(i, j);
-    Map* map = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap();
-    if (map->getId() != 156) {
+    Map *map = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap();
+    if (map->getId() != 156)
+    {
         AudioManager::getInstance()->playMusic(20);
         map->addItem(ItemHelper::getInstance()->createItem(TI_COEUR, 350 * 16, 24 * 16 + 8, 0));
     }
 }
 
-void Ennemi092::snipe() {
+void Ennemi092::snipe()
+{
 
     // throw proj and play sound
-    Link* link = getLink();
+    Link *link = getLink();
 
     int dstX = link->getX() + 8;
     int dstY = link->getY() + 24;
@@ -171,26 +210,42 @@ void Ennemi092::snipe() {
     double coef1 = 0;
     double coef2 = 0;
 
-    if ((destx-origx) == 0) {anglx=0; angly=12;}
-    else if ((desty-origy) == 0) {anglx=12; angly=0;}
-    else {
-        coef1=((double)(desty-origy))/((double)(destx-origx));
-        coef2=((double)(destx-origx))/((double)(desty-origy));
-        anglx=(sqrt(12/(1+(coef1*coef1))));
-        angly=(sqrt(12/(1+(coef2*coef2))));
+    if ((destx - origx) == 0)
+    {
+        anglx = 0;
+        angly = 12;
     }
-    if (destx - origx < 0) anglx = -anglx;
-    if (desty - origy < 0) angly = -angly;
+    else if ((desty - origy) == 0)
+    {
+        anglx = 12;
+        angly = 0;
+    }
+    else
+    {
+        coef1 = ((double)(desty - origy)) / ((double)(destx - origx));
+        coef2 = ((double)(destx - origx)) / ((double)(desty - origy));
+        anglx = (sqrt(12 / (1 + (coef1 * coef1))));
+        angly = (sqrt(12 / (1 + (coef2 * coef2))));
+    }
+    if (destx - origx < 0)
+        anglx = -anglx;
+    if (desty - origy < 0)
+        angly = -angly;
 
-    if (anglx>4) anglx=4;
-    if (angly>4) angly=4;
-    if (anglx<-4) anglx=-4;
-    if (angly<-4) angly=-4;
+    if (anglx > 4)
+        anglx = 4;
+    if (angly > 4)
+        angly = 4;
+    if (anglx < -4)
+        anglx = -4;
+    if (angly < -4)
+        angly = -4;
 
     ProjectileHelper::getInstance()->addProjectile(TP_BOULE_FEU, origx, origy, anglx, angly);
     AudioManager::getInstance()->playSound(TS_THROW);
 }
 
-bool Ennemi092::isToAvoid(Collision c) {
+bool Ennemi092::isToAvoid(Collision c)
+{
     return false;
 }

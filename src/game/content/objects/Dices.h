@@ -19,54 +19,54 @@
 
 #include "../../../engine/util/time/Chrono.h"
 
-class Dices : public Object {
-    public :
-        Dices(int x, int y, bool signes = true, bool moving = false, bool actif = false, Map* map = 0, Caisse* caisse = 0);
-        ~Dices();
+class Dices : public Object
+{
+public:
+    Dices(int x, int y, bool signes = true, bool moving = false, bool actif = false, Map *map = 0, Caisse *caisse = 0);
+    ~Dices();
 
-        void loop();
+    void loop();
 
-        void draw(int offsetX, int offsetY);
+    void draw(int offsetX, int offsetY);
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        void underAttack(Direction dir, int force, TypeAttack type, TypeEffect effect);
+    void underAttack(Direction dir, int force, TypeAttack type, TypeEffect effect);
 
-        bool isResetable();
-        void reset();
+    bool isResetable();
+    void reset();
 
-        bool isActif();
-        int getValue();
+    bool isActif();
+    int getValue();
 
-        void activer(bool moving);
-        void stopper();
+    void activer(bool moving);
+    void stopper();
 
-    private :
+private:
+    void moveX(int dx);
+    void moveY(int dy);
 
-        void moveX(int dx);
-        void moveY(int dy);
+    Direction direction;
 
-        Direction direction;
+    int anim;
+    int animMax;
+    int vanim;
 
-        int anim;
-        int animMax;
-        int vanim;
+    Chrono chrono;
 
-        Chrono chrono;
+    int x0;
+    int y0;
+    Direction dir0;
+    bool randomMove0;
+    bool actif0;
 
-        int x0;
-        int y0;
-        Direction dir0;
-        bool randomMove0;
-        bool actif0;
+    int force;
+    bool signes;
+    bool randomMove;
+    bool actif;
+    int value;
 
-        int force;
-        bool signes;
-        bool randomMove;
-        bool actif;
-        int value;
-
-        Caisse* caisse;
+    Caisse *caisse;
 };
 
-#endif  // Dices.h
+#endif // Dices.h

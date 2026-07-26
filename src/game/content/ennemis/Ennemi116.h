@@ -15,42 +15,42 @@
 
 #include "../types/Ennemi.h"
 
-class Ennemi116 : public Ennemi {
-    public :
-        Ennemi116(int x, int y);
-        ~Ennemi116();
+class Ennemi116 : public Ennemi
+{
+public:
+    Ennemi116(int x, int y);
+    ~Ennemi116();
 
-        void ennLoop();
-        void draw(int offsetX, int offsetY);
+    void ennLoop();
+    void draw(int offsetX, int offsetY);
 
-        int getX();
-        int getY();
+    int getX();
+    int getY();
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        void reset();
-        bool isResetable();
+    void reset();
+    bool isResetable();
 
-        bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
+    bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
 
-        bool isToAvoid(Collision c);
+    bool isToAvoid(Collision c);
 
-    private :
+private:
+    void snipe();
 
-        void snipe();
+    int step; // -1 not started, 0 hidden, 1 coming, 2 closing, 3 waiting, 4 shooting
 
-        int step; // -1 not started, 0 hidden, 1 coming, 2 closing, 3 waiting, 4 shooting
+    int anim;
+    int animMax;
+    int vanim;
+    int special;
 
-        int anim;
-        int animMax;
-        int vanim;
-        int special;
+    WImage *image;
 
-        WImage* image;
+    BoundingBox box;
 
-        BoundingBox box;
-
-        Chrono chrono;
+    Chrono chrono;
 };
 
-#endif  // Ennemi116.h
+#endif // Ennemi116.h

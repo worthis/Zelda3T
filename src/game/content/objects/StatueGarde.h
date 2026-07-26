@@ -13,12 +13,13 @@
 
 #include "../types/Object.h"
 
-class StatueGarde : public Object {
-    public :
-        StatueGarde(int x, int y);
-        ~StatueGarde();
+class StatueGarde : public Object
+{
+public:
+    StatueGarde(int x, int y);
+    ~StatueGarde();
 
-        void draw(int offsetX, int offsetY);
+    void draw(int offsetX, int offsetY);
 };
 
-#endif  // StatueGarde.h
+#endif // StatueGarde.h

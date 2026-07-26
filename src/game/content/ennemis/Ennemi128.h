@@ -17,41 +17,40 @@
 
 #include "../types/Ennemi.h"
 
-class Ennemi128 : public Ennemi {
-    public :
-        Ennemi128(int x, int y);
-        ~Ennemi128();
+class Ennemi128 : public Ennemi
+{
+public:
+    Ennemi128(int x, int y);
+    ~Ennemi128();
 
-        void ennLoop();
-        void draw(int offsetX, int offsetY);
+    void ennLoop();
+    void draw(int offsetX, int offsetY);
 
-        int getX();
-        int getY();
+    int getX();
+    int getY();
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        void reset();
-        bool isResetable();
+    void reset();
+    bool isResetable();
 
-    protected :
+protected:
+    void giveItem(int x, int y);
 
-        void giveItem(int x, int y);
+private:
+    void snipe(int origx, int origy);
 
-    private :
+    int anim;
+    int animMax;
+    int vanim;
 
-        void snipe(int origx, int origy);
+    int step; // 0 normal, 1 souffle, 2 glace
 
-        int anim;
-        int animMax;
-        int vanim;
+    WImage *image;
 
-        int step; // 0 normal, 1 souffle, 2 glace
+    Chrono chrono;
 
-        WImage* image;
-
-        Chrono chrono;
-
-        BoundingBox box;
+    BoundingBox box;
 };
 
-#endif  // Ennemi128.h
+#endif // Ennemi128.h

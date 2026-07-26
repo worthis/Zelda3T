@@ -15,41 +15,41 @@
 
 #include "../../../engine/util/time/Chrono.h"
 
-class PiegeFlamme : public Object {
-    public :
-        PiegeFlamme(int x, int y, bool randomMove = true);
-        ~PiegeFlamme();
+class PiegeFlamme : public Object
+{
+public:
+    PiegeFlamme(int x, int y, bool randomMove = true);
+    ~PiegeFlamme();
 
-        void loop();
+    void loop();
 
-        void draw(int offsetX, int offsetY);
+    void draw(int offsetX, int offsetY);
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        void underAttack(Direction dir, int force, TypeAttack type, TypeEffect effect);
+    void underAttack(Direction dir, int force, TypeAttack type, TypeEffect effect);
 
-        bool isResetable();
-        void reset();
+    bool isResetable();
+    void reset();
 
-    private :
+private:
+    void moveX(int dx);
+    void moveY(int dy);
 
-        void moveX(int dx);
-        void moveY(int dy);
+    Direction direction;
 
-        Direction direction;
+    int anim;
+    int animMax;
+    int vanim;
 
-        int anim;
-        int animMax;
-        int vanim;
+    Chrono chrono;
 
-        Chrono chrono;
+    int x0;
+    int y0;
+    Direction dir0;
 
-        int x0;
-        int y0;
-        Direction dir0;
-
-        int force;
-        bool randomMove;
+    int force;
+    bool randomMove;
 };
 
-#endif  // PiegeFlamme.h
+#endif // PiegeFlamme.h

@@ -22,30 +22,30 @@
 
 #include "../../content/link/Inventory.h"
 
-class Troc {
-    public :
-        Troc();
-        ~Troc();
+class Troc
+{
+public:
+    Troc();
+    ~Troc();
 
-        void init();
+    void init();
 
-        void handleActions(Action* action);
-        void draw();
+    void handleActions(Action *action);
+    void draw();
 
-    private :
+private:
+    void drawTitre();
 
-        void drawTitre();
+    void drawObjects();
 
-        void drawObjects();
+    void drawCadre(int x, int y, int w, int h);
 
-        void drawCadre(int x, int y, int w, int h);
+    WImage *imageMenu;
+    WImage *imageItems;
 
-        WImage* imageMenu;
-        WImage* imageItems;
+    Inventory *inventory;
 
-        Inventory* inventory;
-
-        Text* texts[28];
+    Text *texts[28];
 };
 
-#endif  // Troc.h
+#endif // Troc.h

@@ -19,40 +19,40 @@
 
 #include "../../content/CommonGame.h"
 
-class MapOverworld {
-    public :
-        MapOverworld();
-        ~MapOverworld();
+class MapOverworld
+{
+public:
+    MapOverworld();
+    ~MapOverworld();
 
-        void handleActions(Action* action);
-        void loop();
-        void draw();
+    void handleActions(Action *action);
+    void loop();
+    void draw();
 
-        void launch();
+    void launch();
 
-    private :
+private:
+    int getOffsetXForMap(int mapId);
+    int getOffsetYForMap(int mapId);
 
-        int getOffsetXForMap(int mapId);
-        int getOffsetYForMap(int mapId);
+    int anim;
+    int animMax;
+    int vanim;
 
-        int anim;
-        int animMax;
-        int vanim;
+    bool started;
 
-        bool started;
+    int xLink;
+    int yLink;
+    int imageMapId;
+    bool lapin;
 
-        int xLink;
-        int yLink;
-        int imageMapId;
-        bool lapin;
+    int offsetForme;
+    int offsetSkin;
 
-        int offsetForme;
-        int offsetSkin;
+    WImage *imageMap[8];
+    WImage *imageLink;
 
-        WImage* imageMap[8];
-        WImage* imageLink;
-
-        Chrono chrono;
+    Chrono chrono;
 };
 
-#endif  // MapOverworld.h
+#endif // MapOverworld.h

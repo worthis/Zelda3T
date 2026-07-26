@@ -17,38 +17,38 @@
 
 class Map;
 
-class Ennemi076 : public Ennemi {
-    public :
-        Ennemi076(int x, int y);
-        ~Ennemi076();
+class Ennemi076 : public Ennemi
+{
+public:
+    Ennemi076(int x, int y);
+    ~Ennemi076();
 
-        void ennLoop();
-        void draw(int offsetX, int offsetY);
+    void ennLoop();
+    void draw(int offsetX, int offsetY);
 
-        int getX();
-        int getY();
+    int getX();
+    int getY();
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        void reset();
-        bool isResetable();
+    void reset();
+    bool isResetable();
 
-    private :
+private:
+    void moveX(int dx);
+    void moveY(int dy);
 
-        void moveX(int dx);
-        void moveY(int dy);
+    int anim;
+    int animMax;
+    int vanim;
 
-        int anim;
-        int animMax;
-        int vanim;
+    WImage *image;
 
-        WImage* image;
+    Chrono chrono;
 
-        Chrono chrono;
+    BoundingBox box;
 
-        BoundingBox box;
-
-        int cooldown;
+    int cooldown;
 };
 
-#endif  // Ennemi076.h
+#endif // Ennemi076.h

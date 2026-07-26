@@ -25,120 +25,126 @@
 #include "../../content/scene/AnimationInGame.h"
 #include "../../content/link/Link.h"
 
-enum SceneStep {SCENE_MAIN, SCENE_TRANSITION_LIVE, SCENE_ONLY_LINK, SCENE_TRANSITION_BETWEEN_TWO_MAPS};
-
-class Scene {
-    public :
-        Scene();
-        ~Scene();
-
-        void init(Save* sv);
-
-        void saveData();
-
-        void handleActions(Action* action);
-        void loop();
-        void draw();
-
-        void fixCameraBounds();
-
-        bool checkCollisions(BoundingBox* box, Collisionable* object, bool checkEnnemis, bool ignoreNotIdle = false,
-                             bool withAvoid = false, bool onlyBox = false, bool checkObjects = true,
-                             int safeX = 0, int safeY = 0, int safeW = -1, int safeH = -1, bool checkDanger = false);
-        bool checkCollisionsWithLink(BoundingBox* box);
-
-        bool testDegatOnLink(BoundingBox* box, Direction dir, int force, TypeAttack type, TypeEffect effect);
-        bool testDegat(BoundingBox* box, Direction dir, int force, TypeAttack type, TypeEffect effect, bool onEnnemis = true, bool onObjects = true);
-        void testTransition();
-
-        Map* getMap();
-        Link* getLink();
-        Metronome* getMetronome();
-        Camera* getCamera();
-        Hud* getHud();
-        AnimationInGame* getAnimationInGame();
-
-        Avancement getAvancement();
-        void setAvancement(Avancement av);
-
-        void setStep(SceneStep s);
-        void setMap(Map* map);
-
-        bool permuteBlocs(int step); // 0 = orange up - blue down
-
-        int getCoffre(int i, int j);
-        void setCoffre(int i, int j, int val);
-
-        int getRooms(int d, int i, int j);
-        void setRooms(int d, int i, int j, int val);
-
-        int getMonsters(int i);
-        void setMonsters(int i, int val = 1);
-
-        int getTotalMonsters();
-        int getMonstersSolde();
-        void payForMonsters();
-
-        int getPoissons(int i);
-        void setPoissons(int i, int val = 1);
-
-        int getTotalPoissons();
-
-        int nbGemmeForce(); // 1 if ok, 2 if missing on close map, 0 if missing on the current map
-
-        int getFiltreForest2();
-
-        void instantTeleport(int dstMap, int dstX, int dstY, Direction dstDir);
-
-    private :
-
-        int nbGemmeForce(int mapId); // gems to find for the asked map
-
-        SceneStep step;
-
-        Save* save;
-        Map* map;
-        Camera camera;
-        Metronome* metronome;
-        Link* link;
-        Hud* hud;
-        AnimationInGame animation;
-
-        Avancement avancement;
-
-        bool boxOnLink;
-
-        CircularTransition transition;
-
-        int coffres[NB_COFFRES][COFFRES_MAX_SIZE];
-
-        int rooms[NB_DONJON][MAX_ROOMS_X][MAX_ROOMS_Y];
-
-        int monsters[NB_MONSTERS];
-
-        int poissons[NB_POISSONS];
-
-        WImage* filterForest[3];
-        WImage* filterRain[3];
-        WImage* filterSky[3];
-        WImage* filterSnow[3];
-        WImage* filterNight;
-
-        WImage* planeAndUfo;
-        WImage* lightning;
-        WImage* godnesses;
-
-        bool displayPlane;
-        bool displayUfo;
-        bool displayLightning1;
-        bool displayLightning2;
-
-        int planeX;
-        int lightning1X;
-        int lightning2X;
-        int lightning1Duration;
-        int lightning2Duration;
-        int filtreForest2;
+enum SceneStep
+{
+    SCENE_MAIN,
+    SCENE_TRANSITION_LIVE,
+    SCENE_ONLY_LINK,
+    SCENE_TRANSITION_BETWEEN_TWO_MAPS
 };
 
-#endif  // Scene.h
+class Scene
+{
+public:
+    Scene();
+    ~Scene();
+
+    void init(Save *sv);
+
+    void saveData();
+
+    void handleActions(Action *action);
+    void loop();
+    void draw();
+
+    void fixCameraBounds();
+
+    bool checkCollisions(BoundingBox *box, Collisionable *object, bool checkEnnemis, bool ignoreNotIdle = false,
+                         bool withAvoid = false, bool onlyBox = false, bool checkObjects = true,
+                         int safeX = 0, int safeY = 0, int safeW = -1, int safeH = -1, bool checkDanger = false);
+    bool checkCollisionsWithLink(BoundingBox *box);
+
+    bool testDegatOnLink(BoundingBox *box, Direction dir, int force, TypeAttack type, TypeEffect effect);
+    bool testDegat(BoundingBox *box, Direction dir, int force, TypeAttack type, TypeEffect effect, bool onEnnemis = true, bool onObjects = true);
+    void testTransition();
+
+    Map *getMap();
+    Link *getLink();
+    Metronome *getMetronome();
+    Camera *getCamera();
+    Hud *getHud();
+    AnimationInGame *getAnimationInGame();
+
+    Avancement getAvancement();
+    void setAvancement(Avancement av);
+
+    void setStep(SceneStep s);
+    void setMap(Map *map);
+
+    bool permuteBlocs(int step); // 0 = orange up - blue down
+
+    int getCoffre(int i, int j);
+    void setCoffre(int i, int j, int val);
+
+    int getRooms(int d, int i, int j);
+    void setRooms(int d, int i, int j, int val);
+
+    int getMonsters(int i);
+    void setMonsters(int i, int val = 1);
+
+    int getTotalMonsters();
+    int getMonstersSolde();
+    void payForMonsters();
+
+    int getPoissons(int i);
+    void setPoissons(int i, int val = 1);
+
+    int getTotalPoissons();
+
+    int nbGemmeForce(); // 1 if ok, 2 if missing on close map, 0 if missing on the current map
+
+    int getFiltreForest2();
+
+    void instantTeleport(int dstMap, int dstX, int dstY, Direction dstDir);
+
+private:
+    int nbGemmeForce(int mapId); // gems to find for the asked map
+
+    SceneStep step;
+
+    Save *save;
+    Map *map;
+    Camera camera;
+    Metronome *metronome;
+    Link *link;
+    Hud *hud;
+    AnimationInGame animation;
+
+    Avancement avancement;
+
+    bool boxOnLink;
+
+    CircularTransition transition;
+
+    int coffres[NB_COFFRES][COFFRES_MAX_SIZE];
+
+    int rooms[NB_DONJON][MAX_ROOMS_X][MAX_ROOMS_Y];
+
+    int monsters[NB_MONSTERS];
+
+    int poissons[NB_POISSONS];
+
+    WImage *filterForest[3];
+    WImage *filterRain[3];
+    WImage *filterSky[3];
+    WImage *filterSnow[3];
+    WImage *filterNight;
+
+    WImage *planeAndUfo;
+    WImage *lightning;
+    WImage *godnesses;
+
+    bool displayPlane;
+    bool displayUfo;
+    bool displayLightning1;
+    bool displayLightning2;
+
+    int planeX;
+    int lightning1X;
+    int lightning2X;
+    int lightning1Duration;
+    int lightning2Duration;
+    int filtreForest2;
+};
+
+#endif // Scene.h

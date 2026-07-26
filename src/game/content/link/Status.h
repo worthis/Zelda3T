@@ -17,114 +17,114 @@
 
 #include "../../Save.h"
 
-class Status {
-    public :
-        Status(Save* save);
-        ~Status();
+class Status
+{
+public:
+    Status(Save *save);
+    ~Status();
 
-        void saveData(Save* save);
+    void saveData(Save *save);
 
-        void loop();
+    void loop();
 
-        int getLife();
-        int getMaxLife();
-        int getMagic();
-        int getMaxMagic();
-        int getRupees();
-        int getMaxRupees();
-        int getGanonOr();
-        int getMaxGanonOr();
-        int getPieceOr();
-        int getMaxPieceOr();
-        int getArrows();
-        int getMaxArrows();
-        int getBombs();
-        int getMaxBombs();
-        bool isOniLink();
+    int getLife();
+    int getMaxLife();
+    int getMagic();
+    int getMaxMagic();
+    int getRupees();
+    int getMaxRupees();
+    int getGanonOr();
+    int getMaxGanonOr();
+    int getPieceOr();
+    int getMaxPieceOr();
+    int getArrows();
+    int getMaxArrows();
+    int getBombs();
+    int getMaxBombs();
+    bool isOniLink();
 
-        void setLife(int i);
-        void setMaxLife(int i);
-        void setMagic(int i);
-        void setMaxMagic(int i);
-        void setRupees(int i);
-        void setMaxRupees(int i);
-        void setGanonOr(int i);
-        void setMaxGanonOr(int i);
-        void setPieceOr(int i);
-        void setMaxPieceOr(int i);
-        void setArrows(int i);
-        void setMaxArrows(int i);
-        void setBombs(int i);
-        void setMaxBombs(int i);
-        void setOniLink(bool b);
+    void setLife(int i);
+    void setMaxLife(int i);
+    void setMagic(int i);
+    void setMaxMagic(int i);
+    void setRupees(int i);
+    void setMaxRupees(int i);
+    void setGanonOr(int i);
+    void setMaxGanonOr(int i);
+    void setPieceOr(int i);
+    void setMaxPieceOr(int i);
+    void setArrows(int i);
+    void setMaxArrows(int i);
+    void setBombs(int i);
+    void setMaxBombs(int i);
+    void setOniLink(bool b);
 
-        void updateLife(int i);
-        void updateRupees(int i);
-        void updateGanonOr(int i);
-        void updatePieceOr(int i);
-        void updateMagic(int i);
+    void updateLife(int i);
+    void updateRupees(int i);
+    void updateGanonOr(int i);
+    void updatePieceOr(int i);
+    void updateMagic(int i);
 
-        int getVirtualLife();
-        int getVirtualRupees();
-        int getVirtualGanonOr();
-        int getVirtualPieceOr();
-        int getVirtualMagic();
+    int getVirtualLife();
+    int getVirtualRupees();
+    int getVirtualGanonOr();
+    int getVirtualPieceOr();
+    int getVirtualMagic();
 
-        void setInvincible();
-        bool isInvincible();
+    void setInvincible();
+    bool isInvincible();
 
-        void increaseDeaths();
-        int getNbDeaths();
+    void increaseDeaths();
+    int getNbDeaths();
 
-        int getMaxWeight();
+    int getMaxWeight();
 
-        void updateGel(int value);
-        void resetGel();
-        int getGel();
-        int getMaxGel();
+    void updateGel(int value);
+    void resetGel();
+    int getGel();
+    int getMaxGel();
 
-        void updateIvre(int value);
-        void resetIvre();
-        int getIvre();
-        int getMaxIvre();
+    void updateIvre(int value);
+    void resetIvre();
+    int getIvre();
+    int getMaxIvre();
 
-    private :
+private:
+    void loadFromSave(Save *save);
 
-        void loadFromSave(Save* save);
+    Chrono chrono;
 
-        Chrono chrono;
+    int life;
+    int maxLife;
+    int magic;
+    int maxMagic;
+    int rupees;
+    int maxRupees;
+    int ganonOr;
+    int maxGanonOr;
+    int pieceOr;
+    int maxPieceOr;
+    int arrows;
+    int maxArrows;
+    int bombs;
+    int maxBombs;
+    bool oniLink; // transformï¿½
 
-        int life;
-        int maxLife;
-        int magic;
-        int maxMagic;
-        int rupees;
-        int maxRupees;
-        int ganonOr;
-        int maxGanonOr;
-        int pieceOr;
-        int maxPieceOr;
-        int arrows;
-        int maxArrows;
-        int bombs;
-        int maxBombs;
-        bool oniLink;      //transformé
+    int lifeToAdd;
+    int magicToAdd;
+    int rupeesToAdd;
+    int ganonOrToAdd;
+    int pieceOrToAdd;
 
-        int lifeToAdd;
-        int magicToAdd;
-        int rupeesToAdd;
-        int ganonOrToAdd;
-        int pieceOrToAdd;
+    int invincible;
 
-        int invincible;
+    int deaths;
 
-        int deaths;
+    int gel;
+    int maxGel;
 
-        int gel;
-        int maxGel;
-
-        int ivre;
-        int maxIvre;
+    int ivre;
+    int maxIvre;
 };
 
-#endif  // Status.h
+#endif // Status.h

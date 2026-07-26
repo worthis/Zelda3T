@@ -15,32 +15,32 @@
 
 #include "../types/Ennemi.h"
 
-class Ennemi010 : public Ennemi {
-    public :
-        Ennemi010(int x, int y);
-        ~Ennemi010();
+class Ennemi010 : public Ennemi
+{
+public:
+    Ennemi010(int x, int y);
+    ~Ennemi010();
 
-        void ennLoop();
-        void draw(int offsetX, int offsetY);
+    void ennLoop();
+    void draw(int offsetX, int offsetY);
 
-        int getX();
-        int getY();
+    int getX();
+    int getY();
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        void reset();
+    void reset();
 
-        void cachette(bool cache = true, bool withAnim = false);
+    void cachette(bool cache = true, bool withAnim = false);
 
-        bool isToAvoid(Collision c);
+    bool isToAvoid(Collision c);
 
-    private :
+private:
+    int cooldown;
 
-        int cooldown;
+    WImage *image;
 
-        WImage* image;
-
-        BoundingBox box;
+    BoundingBox box;
 };
 
-#endif  // Ennemi010.h
+#endif // Ennemi010.h

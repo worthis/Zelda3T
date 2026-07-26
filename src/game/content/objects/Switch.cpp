@@ -6,7 +6,8 @@
 
 #include "../../MainController.h"
 
-Switch::Switch(int i, int j) : left(true), invul(0) {
+Switch::Switch(int i, int j) : left(true), invul(0)
+{
     x = i;
     y = j;
 
@@ -24,41 +25,50 @@ Switch::Switch(int i, int j) : left(true), invul(0) {
     attackable = true;
 }
 
-Switch::~Switch() {
+Switch::~Switch()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void Switch::loop() {
-    if (invul) {
+void Switch::loop()
+{
+    if (invul)
+    {
         invul--;
-        if (!invul) attackable = true;
+        if (!invul)
+            attackable = true;
     }
 }
 
-void Switch::draw(int offsetX, int offsetY) {
+void Switch::draw(int offsetX, int offsetY)
+{
     WindowManager::getInstance()->draw(image, left ? 0 : 16, 0, 16, 16, x - offsetX, y - offsetY);
 }
 
-void Switch::underAttack(Direction dir, int force, TypeAttack type, TypeEffect effect) {
-    if (MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap()->getId() == 90) {
+void Switch::underAttack(Direction dir, int force, TypeAttack type, TypeEffect effect)
+{
+    if (MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap()->getId() == 90)
+    {
         return;
     }
-    //if (type == TA_SWORD || type == TA_SWORD_HOLD) {
-        AudioManager::getInstance()->playSound(TS_HITENNEMY);
-        attackable = false;
-        invul = 24;
-        MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap()->activateInter(x, y);
-        left = !left;
+    // if (type == TA_SWORD || type == TA_SWORD_HOLD) {
+    AudioManager::getInstance()->playSound(TS_HITENNEMY);
+    attackable = false;
+    invul = 24;
+    MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap()->activateInter(x, y);
+    left = !left;
     //}
 }
 
-void Switch::setLeft(bool l) {
+void Switch::setLeft(bool l)
+{
     left = l;
     attackable = false;
     invul = 32;
 }
 
-void Switch::switchLeft() {
+void Switch::switchLeft()
+{
     MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap()->activateInter(x, y);
     setLeft(!left);
 }

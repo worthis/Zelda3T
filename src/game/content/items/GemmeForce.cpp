@@ -3,7 +3,8 @@
 #include "../../../engine/resources/ResourceManager.h"
 #include "../../../engine/window/WindowManager.h"
 
-GemmeForce::GemmeForce(int i, int j, int num, bool withAnim) : id(num) {
+GemmeForce::GemmeForce(int i, int j, int num, bool withAnim) : id(num)
+{
 
     x = i;
     y = j - 10;
@@ -24,15 +25,20 @@ GemmeForce::GemmeForce(int i, int j, int num, bool withAnim) : id(num) {
     ready = !withAnim;
 }
 
-GemmeForce::~GemmeForce() {
+GemmeForce::~GemmeForce()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void GemmeForce::loop() {
-    if (!ready) {
-        if (chrono.getElapsedTime() >= vanim) {
+void GemmeForce::loop()
+{
+    if (!ready)
+    {
+        if (chrono.getElapsedTime() >= vanim)
+        {
             anim++;
-            if (anim > animMax) {
+            if (anim > animMax)
+            {
                 ready = true;
             }
             chrono.reset();
@@ -40,8 +46,10 @@ void GemmeForce::loop() {
     }
 }
 
-void GemmeForce::draw(int offsetX, int offsetY) {
-    if (!alive) {
+void GemmeForce::draw(int offsetX, int offsetY)
+{
+    if (!alive)
+    {
         return;
     }
 
@@ -49,22 +57,30 @@ void GemmeForce::draw(int offsetX, int offsetY) {
     int dstY = y - offsetY;
     int srcX = 16;
 
-
-    if (ready) {
+    if (ready)
+    {
         dstY += 10;
-    } else {
-        if (anim <= 10) dstY += anim;
-        else if (anim <= 14) dstY += 10 - (anim - 10);
-        else if (anim <= 18) dstY += 6 + (anim - 14);
-        else dstY += 10;
+    }
+    else
+    {
+        if (anim <= 10)
+            dstY += anim;
+        else if (anim <= 14)
+            dstY += 10 - (anim - 10);
+        else if (anim <= 18)
+            dstY += 6 + (anim - 14);
+        else
+            dstY += 10;
     }
 
     WindowManager::getInstance()->draw(image, 24, 3, 6, 4, dstX + 5, y - offsetY + 22);
     WindowManager::getInstance()->draw(image, srcX, 63, 16, 16, dstX, dstY);
 }
 
-void GemmeForce::action() {
-    if (!ready) return;
+void GemmeForce::action()
+{
+    if (!ready)
+        return;
     getLink()->trouveObjet(TI_GEMME_FORCE, id);
     alive = false;
 }

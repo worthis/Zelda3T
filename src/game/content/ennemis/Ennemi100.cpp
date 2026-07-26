@@ -12,7 +12,8 @@
 
 #include "../effects/Plouf.h"
 
-Ennemi100::Ennemi100(int i, int j) {
+Ennemi100::Ennemi100(int i, int j)
+{
     image = ResourceManager::getInstance()->loadImage("data/images/ennemis/ennemi100.png", true);
 
     type = 100;
@@ -44,24 +45,30 @@ Ennemi100::Ennemi100(int i, int j) {
     forceEnn = 4;
 }
 
-Ennemi100::~Ennemi100() {
+Ennemi100::~Ennemi100()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-bool Ennemi100::isResetable() {
+bool Ennemi100::isResetable()
+{
     return alive;
 }
 
-void Ennemi100::reset() {
+void Ennemi100::reset()
+{
     Ennemi::reset();
 }
 
-void Ennemi100::ennLoop() {
+void Ennemi100::ennLoop()
+{
     testDegatOnLink(getBoundingBox(), direction, forceEnn, TA_PHYSIC, TE_NORMAL);
 }
 
-void Ennemi100::draw(int offsetX, int offsetY) {
-    if (!alive) {
+void Ennemi100::draw(int offsetX, int offsetY)
+{
+    if (!alive)
+    {
         return;
     }
 
@@ -70,24 +77,29 @@ void Ennemi100::draw(int offsetX, int offsetY) {
     WindowManager::getInstance()->draw(image, 0, 0, width, height, dstX, dstY);
 }
 
-int Ennemi100::getX() {
+int Ennemi100::getX()
+{
     return x;
 }
 
-int Ennemi100::getY() {
+int Ennemi100::getY()
+{
     return y;
 }
 
-BoundingBox* Ennemi100::getBoundingBox() {
+BoundingBox *Ennemi100::getBoundingBox()
+{
     box.setX(x);
     box.setY(y);
     return &box;
 }
 
-bool Ennemi100::hasEffect(TypeAttack type, TypeEffect effect, Direction dir) {
+bool Ennemi100::hasEffect(TypeAttack type, TypeEffect effect, Direction dir)
+{
     return false;
 }
 
-bool Ennemi100::isToAvoid(Collision c) {
+bool Ennemi100::isToAvoid(Collision c)
+{
     return c != EAU_PROF;
 }

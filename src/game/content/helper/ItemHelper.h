@@ -13,24 +13,25 @@
 
 #include "../types/Item.h"
 
-class ItemHelper {
-    public :
-        static ItemHelper* getInstance();
+class ItemHelper
+{
+public:
+    static ItemHelper *getInstance();
 
-        Item* createItem(TypeItem type, int x, int y, int id = -1, bool withAnim = true);
+    Item *createItem(TypeItem type, int x, int y, int id = -1, bool withAnim = true);
 
-        void drawItem(TypeItem type, int x, int y);
+    void drawItem(TypeItem type, int x, int y);
 
-        TypeItem getFish(Equipment e, int mapId);
+    TypeItem getFish(Equipment e, int mapId);
 
-        void close();
+    void close();
 
-    private :
-        ItemHelper();
-        ~ItemHelper();
-        static ItemHelper instance;
+private:
+    ItemHelper();
+    ~ItemHelper();
+    static ItemHelper instance;
 
-        WImage* image;
+    WImage *image;
 };
 
-#endif  // ItemHelper.h
+#endif // ItemHelper.h

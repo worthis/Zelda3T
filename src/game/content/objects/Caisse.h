@@ -13,39 +13,38 @@
 
 #include "../types/Poussable.h"
 
-class Caisse : public Poussable {
-    public :
-        Caisse(int x, int y, int id = 0, int nb = -1, bool p = false);
-        ~Caisse();
+class Caisse : public Poussable
+{
+public:
+    Caisse(int x, int y, int id = 0, int nb = -1, bool p = false);
+    ~Caisse();
 
-        void loop();
-        void draw(int offsetX, int offsetY);
+    void loop();
+    void draw(int offsetX, int offsetY);
 
-        void pousse(Direction d, int v = 1);
-        int getDown();
+    void pousse(Direction d, int v = 1);
+    int getDown();
 
-        bool isResetable();
-        void reset();
+    bool isResetable();
+    void reset();
 
-        int getNbMoves();
+    int getNbMoves();
 
-        void underAttack(Direction dir, int force, TypeAttack type, TypeEffect effect);
+    void underAttack(Direction dir, int force, TypeAttack type, TypeEffect effect);
 
-        void setNbMoves(int nbMoves);
+    void setNbMoves(int nbMoves);
 
-    private :
+private:
+    WImage *chiffres;
 
-        WImage* chiffres;
+    int x0;
+    int y0;
 
-        int x0;
-        int y0;
+    int type;
+    int nbMoves;
+    int nbMovesDebut;
 
-        int type;
-        int nbMoves;
-        int nbMovesDebut;
-
-        bool persist;
-
+    bool persist;
 };
 
-#endif  // Caisse.h
+#endif // Caisse.h

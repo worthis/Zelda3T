@@ -17,34 +17,34 @@
 
 #include "../types/Ennemi.h"
 
-class Ennemi130 : public Ennemi {
-    public :
-        Ennemi130(int x, int y);
-        ~Ennemi130();
+class Ennemi130 : public Ennemi
+{
+public:
+    Ennemi130(int x, int y);
+    ~Ennemi130();
 
-        void ennLoop();
-        void draw(int offsetX, int offsetY);
+    void ennLoop();
+    void draw(int offsetX, int offsetY);
 
-        int getX();
-        int getY();
+    int getX();
+    int getY();
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        void reset();
+    void reset();
 
-    private :
+private:
+    int anim;
+    int animMax;
+    int vanim;
 
-        int anim;
-        int animMax;
-        int vanim;
+    int cooldown;
 
-        int cooldown;
+    WImage *image;
 
-        WImage* image;
+    Chrono chrono;
 
-        Chrono chrono;
-
-        BoundingBox box;
+    BoundingBox box;
 };
 
-#endif  // Ennemi130.h
+#endif // Ennemi130.h

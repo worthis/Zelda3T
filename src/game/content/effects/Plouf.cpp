@@ -7,7 +7,8 @@
 
 #include "../../MainController.h"
 
-Plouf::Plouf(int x, int y) : x(x), y(y), anim(0), animMax(3), vanim(40) {
+Plouf::Plouf(int x, int y) : x(x), y(y), anim(0), animMax(3), vanim(40)
+{
     image = ResourceManager::getInstance()->loadImage("data/images/effects/plouf.png", true);
     chrono.reset();
 
@@ -16,12 +17,14 @@ Plouf::Plouf(int x, int y) : x(x), y(y), anim(0), animMax(3), vanim(40) {
     height = 16;
 }
 
-Plouf::~Plouf() {
+Plouf::~Plouf()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void Plouf::loop() {
-    Scene* scene = MainController::getInstance()->getGameController()->getSceneController()->getScene();
+void Plouf::loop()
+{
+    Scene *scene = MainController::getInstance()->getGameController()->getSceneController()->getScene();
 
     BoundingBox boxW(x - anim * 4 - 8, y, 16, 16);
     scene->getMap()->testDegat(&boxW, W, 0, TA_PHYSIC, TE_EAU, false);
@@ -29,17 +32,21 @@ void Plouf::loop() {
     BoundingBox boxE(x + anim * 4 + 8, y, 16, 16);
     scene->getMap()->testDegat(&boxE, E, 0, TA_PHYSIC, TE_EAU, false);
 
-    if (chrono.getElapsedTime() >= vanim) {
+    if (chrono.getElapsedTime() >= vanim)
+    {
         anim++;
-        if (anim > animMax) {
+        if (anim > animMax)
+        {
             alive = false;
         }
         chrono.reset();
     }
 }
 
-void Plouf::draw(int offsetX, int offsetY) {
-    if (!alive) {
+void Plouf::draw(int offsetX, int offsetY)
+{
+    if (!alive)
+    {
         return;
     }
 
@@ -50,5 +57,5 @@ void Plouf::draw(int offsetX, int offsetY) {
     WindowManager::getInstance()->draw(image, 16, 0, 16, 16, dstX + anim * 4 + 8, dstY);
 }
 
-int Plouf::getX() {return x - 20;}
-int Plouf::getY() {return y;}
+int Plouf::getX() { return x - 20; }
+int Plouf::getY() { return y; }

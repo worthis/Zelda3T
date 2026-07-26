@@ -15,32 +15,31 @@
 #include "../../../engine/texts/Text.h"
 #include "../../keys/Action.h"
 
+class Fish
+{
+public:
+    Fish();
+    ~Fish();
 
-class Fish {
-    public :
-        Fish();
-        ~Fish();
+    void init();
 
-        void init();
+    void handleActions(Action *action);
+    void draw();
 
-        void handleActions(Action* action);
-        void draw();
+private:
+    void cadre(int x, int y, int w, int h, int type);
 
-    private :
+    void fish(int x, int y, int type);
 
-        void cadre(int x, int y, int w, int h, int type);
+    int getNextPageFrom(int page);
+    int getPreviousPageFrom(int page);
+    bool isPageEmpty(int page);
 
-        void fish(int x, int y, int type);
+    int page;
 
-        int getNextPageFrom(int page);
-        int getPreviousPageFrom(int page);
-        bool isPageEmpty(int page);
+    WImage *image;
 
-        int page;
-
-        WImage* image;
-
-        Text* texts[37];
+    Text *texts[37];
 };
 
-#endif  // Fish.h
+#endif // Fish.h

@@ -15,17 +15,17 @@
 
 #include "Generic.h"
 
-class GenericController {
-    public :
-        GenericController();
-        ~GenericController();
+class GenericController
+{
+public:
+    GenericController();
+    ~GenericController();
 
-        void draw();
-        void setId(int i);
+    void draw();
+    void setId(int i);
 
-    private :
-
-        Generic generic;
+private:
+    Generic generic;
 };
 
-#endif  // GenericController.h
+#endif // GenericController.h

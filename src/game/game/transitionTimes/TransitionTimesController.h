@@ -15,20 +15,20 @@
 
 #include "TransitionTimes.h"
 
-class TransitionTimesController {
-    public :
-        TransitionTimesController();
-        ~TransitionTimesController();
+class TransitionTimesController
+{
+public:
+    TransitionTimesController();
+    ~TransitionTimesController();
 
-        void launch();
+    void launch();
 
-        void loop();
-        void draw();
-        void setSens(int s);
+    void loop();
+    void draw();
+    void setSens(int s);
 
-    private :
-
-        TransitionTimes transitionTimes;
+private:
+    TransitionTimes transitionTimes;
 };
 
-#endif  // TransitionTimesController.h
+#endif // TransitionTimesController.h

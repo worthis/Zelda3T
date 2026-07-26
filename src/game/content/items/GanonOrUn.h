@@ -13,16 +13,16 @@
 
 #include "../types/Item.h"
 
-class GanonOrUn : public Item {
-    public :
-        GanonOrUn(int x, int y);
-        ~GanonOrUn();
+class GanonOrUn : public Item
+{
+public:
+    GanonOrUn(int x, int y);
+    ~GanonOrUn();
 
-        void loop();
-        void draw(int offsetX, int offsetY);
+    void loop();
+    void draw(int offsetX, int offsetY);
 
-        void action();
-
+    void action();
 };
 
-#endif  // GanonOrUn.h
+#endif // GanonOrUn.h

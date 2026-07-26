@@ -21,31 +21,31 @@
 
 #include "../types/Effect.h"
 
-class Naufrage : public Effect {
-    public :
-        Naufrage(int x, int y);
-        ~Naufrage();
+class Naufrage : public Effect
+{
+public:
+    Naufrage(int x, int y);
+    ~Naufrage();
 
-        void loop();
-        void draw(int offsetX, int offsetY);
+    void loop();
+    void draw(int offsetX, int offsetY);
 
-        int getX();
-        int getY();
+    int getX();
+    int getY();
 
-    private :
+private:
+    int x;
+    int y;
 
-        int x;
-        int y;
+    int anim;
+    int animMax;
+    int vanim;
 
-        int anim;
-        int animMax;
-        int vanim;
+    int step;
 
-        int step;
+    WImage *image;
 
-        WImage* image;
-
-        Chrono chrono;
+    Chrono chrono;
 };
 
-#endif  // Naufrage.h
+#endif // Naufrage.h

@@ -15,43 +15,43 @@
 
 #include "../types/Ennemi.h"
 
-class Ennemi098 : public Ennemi {
-    public :
-        Ennemi098(int x, int y);
-        ~Ennemi098();
+class Ennemi098 : public Ennemi
+{
+public:
+    Ennemi098(int x, int y);
+    ~Ennemi098();
 
-        void ennLoop();
-        void draw(int offsetX, int offsetY);
-        void drawEncyclopedie();
+    void ennLoop();
+    void draw(int offsetX, int offsetY);
+    void drawEncyclopedie();
 
-        int getX();
-        int getY();
+    int getX();
+    int getY();
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        void reset();
-        bool isResetable();
+    void reset();
+    bool isResetable();
 
-        bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
+    bool hasEffect(TypeAttack type, TypeEffect effect, Direction dir);
 
-        bool isToAvoid(Collision c);
+    bool isToAvoid(Collision c);
 
-    private :
+private:
+    void snipe();
 
-        void snipe();
+    int step; // 0 hidden, 1 tourbillon, 2 idle, 3 shoot, 4 tourbillon
 
-        int step; // 0 hidden, 1 tourbillon, 2 idle, 3 shoot, 4 tourbillon
+    int anim;
+    int animMax;
+    int vanim;
+    int special;
 
-        int anim;
-        int animMax;
-        int vanim;
-        int special;
+    WImage *image;
 
-        WImage* image;
+    BoundingBox box;
 
-        BoundingBox box;
-
-        Chrono chrono;
+    Chrono chrono;
 };
 
-#endif  // Ennemi098.h
+#endif // Ennemi098.h

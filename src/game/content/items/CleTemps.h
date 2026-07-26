@@ -13,16 +13,17 @@
 
 #include "../types/Item.h"
 
-class CleTemps : public Item {
-    public :
-        CleTemps(int x, int y);
-        ~CleTemps();
+class CleTemps : public Item
+{
+public:
+    CleTemps(int x, int y);
+    ~CleTemps();
 
-        void draw(int offsetX, int offsetY);
+    void draw(int offsetX, int offsetY);
 
-        void action();
+    void action();
 
-        bool isPickable();
+    bool isPickable();
 };
 
-#endif  // CleTemps.h
+#endif // CleTemps.h

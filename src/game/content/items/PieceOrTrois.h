@@ -13,16 +13,16 @@
 
 #include "../types/Item.h"
 
-class PieceOrTrois : public Item {
-    public :
-        PieceOrTrois(int x, int y);
-        ~PieceOrTrois();
+class PieceOrTrois : public Item
+{
+public:
+    PieceOrTrois(int x, int y);
+    ~PieceOrTrois();
 
-        void loop();
-        void draw(int offsetX, int offsetY);
+    void loop();
+    void draw(int offsetX, int offsetY);
 
-        void action();
-
+    void action();
 };
 
-#endif  // PieceOrTrois.h
+#endif // PieceOrTrois.h

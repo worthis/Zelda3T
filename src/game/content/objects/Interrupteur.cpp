@@ -5,7 +5,8 @@
 
 #include "../../MainController.h"
 
-Interrupteur::Interrupteur(int i, int j, int id, bool down, Map* mp, bool us) : type(id), used(down), map(mp), usable(us) {
+Interrupteur::Interrupteur(int i, int j, int id, bool down, Map *mp, bool us) : type(id), used(down), map(mp), usable(us)
+{
     x = i;
     y = j;
 
@@ -22,54 +23,64 @@ Interrupteur::Interrupteur(int i, int j, int id, bool down, Map* mp, bool us) : 
     wasUsable = usable;
 
     // init map with motif and collisions
-    if (usable) {
+    if (usable)
+    {
         displayOnMap();
     }
-
 }
 
-Interrupteur::~Interrupteur() {
+Interrupteur::~Interrupteur()
+{
 }
 
-void Interrupteur::loop() {
-    if (used || !usable) {
+void Interrupteur::loop()
+{
+    if (used || !usable)
+    {
         return;
     }
 
     BoundingBox bb(x + 4, y + 4, 8, 8);
-    Link* link = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getLink();
+    Link *link = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getLink();
 
-    if (!used && usable && (!map->checkCollisions(&bb, this, false, false, false, false, true)
-        || bb.intersect(link->getBoundingBox()))) {
+    if (!used && usable && (!map->checkCollisions(&bb, this, false, false, false, false, true) || bb.intersect(link->getBoundingBox())))
+    {
         used = true;
         map->activateInter(x, y);
         map->setSol(x, y, 2546, PIERRE);
     }
 }
 
-void Interrupteur::draw(int offsetX, int offsetY) {
+void Interrupteur::draw(int offsetX, int offsetY)
+{
 }
 
-bool Interrupteur::isResetable() {
+bool Interrupteur::isResetable()
+{
     return !wasUsable;
 }
 
-void Interrupteur::reset() {
+void Interrupteur::reset()
+{
     usable = wasUsable;
 }
 
-void Interrupteur::displayOnMap() {
+void Interrupteur::displayOnMap()
+{
     usable = true;
     map->setSol(x, y, used ? 2546 : 2545, PIERRE);
 }
 
-void Interrupteur::setUsed(bool b) {
+void Interrupteur::setUsed(bool b)
+{
     used = b;
-    if (map->getSol(x, y) == 2545 || map->getSol(x, y) == 2546) {
+    if (map->getSol(x, y) == 2545 || map->getSol(x, y) == 2546)
+    {
         map->setSol(x, y, used ? 2546 : 2545, PIERRE);
     }
 }
 
-bool Interrupteur::isUsed() {
+bool Interrupteur::isUsed()
+{
     return used;
 }

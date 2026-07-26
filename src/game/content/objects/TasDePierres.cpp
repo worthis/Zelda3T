@@ -10,7 +10,8 @@
 
 #include "../../MainController.h"
 
-TasDePierres::TasDePierres(int i, int j, int id) : type(id) {
+TasDePierres::TasDePierres(int i, int j, int id) : type(id)
+{
     x = i;
     y = j;
 
@@ -28,18 +29,22 @@ TasDePierres::TasDePierres(int i, int j, int id) : type(id) {
     box.setH(height);
 }
 
-TasDePierres::~TasDePierres() {
+TasDePierres::~TasDePierres()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void TasDePierres::portLoop() {
+void TasDePierres::portLoop()
+{
     // nothing to do
 }
 
-void TasDePierres::draw(int offsetX, int offsetY) {
+void TasDePierres::draw(int offsetX, int offsetY)
+{
     WindowManager::getInstance()->draw(image, 0, type * 32, 32, 32, x - offsetX, y - offsetY);
 }
 
-Portable* TasDePierres::getPierre() {
-    return new Pierre(x+8, y+8, type+7, MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap(), false);
+Portable *TasDePierres::getPierre()
+{
+    return new Pierre(x + 8, y + 8, type + 7, MainController::getInstance()->getGameController()->getSceneController()->getScene()->getMap(), false);
 }

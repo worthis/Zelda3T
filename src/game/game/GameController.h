@@ -15,7 +15,6 @@
 #include "../../engine/window/Event.h"
 #include "../../engine/renderer/SimpleTransition.h"
 
-
 #include "scene/SceneController.h"
 #include "menu/GameMenuController.h"
 #include "textes/TextController.h"
@@ -33,74 +32,90 @@
 
 #include "../Save.h"
 
-enum GameStep {GAME_MAIN, GAME_MENU, GAME_TEXT, GAME_SWITCH_MAP, GAME_SWITCH_ROOM, GAME_SWITCH_TIME,
-    GAME_TELEPORT, GAME_OCARINA, GAME_MAP, GAME_HELP, GAME_MONSTERS, GAME_FISH, GAME_TROC, GAME_GENERIC};
-
-class GameController {
-    public :
-        GameController();
-        ~GameController();
-
-        void launch();
-
-        void handleEvents(Event* event);
-        void loop();
-        void draw();
-
-        void setSave(Save* sv);
-
-        void saveData(bool endGame = false);
-
-        void setStep(GameStep newStep);
-
-        SceneController* getSceneController();
-        GameMenuController* getGameMenuController();
-        TextController* getTextController();
-        TeleportController* getTeleportController();
-        OcarinaController* getOcarinaController();
-        MapController* getMapController();
-        TransitionTimesController* getTransitionTimesController();
-
-        void displayText(int id);
-        void displayGeneric(int id);
-        void hideGeneric();
-        void displayMap(int mapId, bool withTp = false);
-        void hideMap();
-
-        int getTime();
-        Save* getSave();
-
-        bool isTransitionRoom();
-        bool isTeleport();
-
-    private :
-        SceneController scene;
-        GameMenuController menu;
-        TextController text;
-        TransitionMapsController transitionMaps;
-        TransitionRoomsController transitionRooms;
-        TransitionTimesController transitionTimes;
-        TeleportController teleport;
-        OcarinaController ocarina;
-        MapController map;
-        HelpController help;
-        MonstersController monsters;
-        FishController fish;
-        GameTrocController troc;
-        GenericController generic;
-
-        GameStep step;
-        GameStep nextStep;
-
-        SimpleTransition transition;
-
-        Save* save;
-
-        Chrono chrono;
-
-        bool needLoad;
-
-        int timeOffset;
+enum GameStep
+{
+    GAME_MAIN,
+    GAME_MENU,
+    GAME_TEXT,
+    GAME_SWITCH_MAP,
+    GAME_SWITCH_ROOM,
+    GAME_SWITCH_TIME,
+    GAME_TELEPORT,
+    GAME_OCARINA,
+    GAME_MAP,
+    GAME_HELP,
+    GAME_MONSTERS,
+    GAME_FISH,
+    GAME_TROC,
+    GAME_GENERIC
 };
 
-#endif  // GameController.h
+class GameController
+{
+public:
+    GameController();
+    ~GameController();
+
+    void launch();
+
+    void handleEvents(Event *event);
+    void loop();
+    void draw();
+
+    void setSave(Save *sv);
+
+    void saveData(bool endGame = false);
+
+    void setStep(GameStep newStep);
+
+    SceneController *getSceneController();
+    GameMenuController *getGameMenuController();
+    TextController *getTextController();
+    TeleportController *getTeleportController();
+    OcarinaController *getOcarinaController();
+    MapController *getMapController();
+    TransitionTimesController *getTransitionTimesController();
+
+    void displayText(int id);
+    void displayGeneric(int id);
+    void hideGeneric();
+    void displayMap(int mapId, bool withTp = false);
+    void hideMap();
+
+    int getTime();
+    Save *getSave();
+
+    bool isTransitionRoom();
+    bool isTeleport();
+
+private:
+    SceneController scene;
+    GameMenuController menu;
+    TextController text;
+    TransitionMapsController transitionMaps;
+    TransitionRoomsController transitionRooms;
+    TransitionTimesController transitionTimes;
+    TeleportController teleport;
+    OcarinaController ocarina;
+    MapController map;
+    HelpController help;
+    MonstersController monsters;
+    FishController fish;
+    GameTrocController troc;
+    GenericController generic;
+
+    GameStep step;
+    GameStep nextStep;
+
+    SimpleTransition transition;
+
+    Save *save;
+
+    Chrono chrono;
+
+    bool needLoad;
+
+    int timeOffset;
+};
+
+#endif // GameController.h

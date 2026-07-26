@@ -8,7 +8,8 @@
 
 #include "../helper/ProjectileHelper.h"
 
-PiegeUltime::PiegeUltime(int i, int j, bool AF) : anim(0), animMax(16), vanim(120), autoFire(AF), enable(true) {
+PiegeUltime::PiegeUltime(int i, int j, bool AF) : anim(0), animMax(16), vanim(120), autoFire(AF), enable(true)
+{
     x = i;
     y = j;
 
@@ -26,36 +27,45 @@ PiegeUltime::PiegeUltime(int i, int j, bool AF) : anim(0), animMax(16), vanim(12
     chrono.reset();
 }
 
-PiegeUltime::~PiegeUltime() {
+PiegeUltime::~PiegeUltime()
+{
     ResourceManager::getInstance()->free(image);
 }
 
-void PiegeUltime::loop() {
-    if (!enable) {
+void PiegeUltime::loop()
+{
+    if (!enable)
+    {
         return;
     }
-    if (chrono.getElapsedTime() >= vanim) {
+    if (chrono.getElapsedTime() >= vanim)
+    {
         anim++;
-        if (anim > animMax) {
+        if (anim > animMax)
+        {
             anim = 0;
-            if (autoFire) snipe();
+            if (autoFire)
+                snipe();
         }
         chrono.reset();
     }
 }
 
-void PiegeUltime::draw(int offsetX, int offsetY) {
+void PiegeUltime::draw(int offsetX, int offsetY)
+{
     WindowManager::getInstance()->draw(image, 0, 0, 16, 16, x - offsetX, y - offsetY);
 }
 
-void PiegeUltime::snipe() {
-    Link* link = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getLink();
+void PiegeUltime::snipe()
+{
+    Link *link = MainController::getInstance()->getGameController()->getSceneController()->getScene()->getLink();
     int origx = x + 8;
     int origy = y + 8;
     ProjectileHelper::getInstance()->addProjectile(TP_BOULE_ULTIME, origx, origy, link, false, getBoundingBox());
     AudioManager::getInstance()->playSound(TS_THROW);
 }
 
-void PiegeUltime::disable() {
+void PiegeUltime::disable()
+{
     enable = false;
 }

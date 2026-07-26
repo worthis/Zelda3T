@@ -13,21 +13,20 @@
 
 #include "../types/Item.h"
 
-class Planches : public Item {
-    public :
-        Planches(int x, int y);
-        ~Planches();
+class Planches : public Item
+{
+public:
+    Planches(int x, int y);
+    ~Planches();
 
-        void draw(int offsetX, int offsetY);
+    void draw(int offsetX, int offsetY);
 
-        void action();
+    void action();
 
-        bool isPickable();
+    bool isPickable();
 
-    private :
-
-        int id;
-
+private:
+    int id;
 };
 
-#endif  // Planches.h
+#endif // Planches.h

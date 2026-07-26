@@ -15,27 +15,28 @@
 
 #include "../../../engine/util/time/Chrono.h"
 
-class PiegeFlammeVerte : public Object {
-    public :
-        PiegeFlammeVerte(int x, int y);
-        ~PiegeFlammeVerte();
+class PiegeFlammeVerte : public Object
+{
+public:
+    PiegeFlammeVerte(int x, int y);
+    ~PiegeFlammeVerte();
 
-        void loop();
+    void loop();
 
-        void draw(int offsetX, int offsetY);
+    void draw(int offsetX, int offsetY);
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-    private :
-        void moveY(int dy);
+private:
+    void moveY(int dy);
 
-        Direction direction;
+    Direction direction;
 
-        int anim;
-        int animMax;
-        int vanim;
+    int anim;
+    int animMax;
+    int vanim;
 
-        Chrono chrono;
+    Chrono chrono;
 };
 
-#endif  // PiegeFlammeVerte.h
+#endif // PiegeFlammeVerte.h

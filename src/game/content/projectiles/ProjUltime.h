@@ -15,42 +15,42 @@
 
 #include "../link/Link.h"
 
-class ProjUltime : public Projectile {
-    public :
-        ProjUltime(int x, int y, Link* link, bool locked = false, BoundingBox* safeBox = 0);
-        ~ProjUltime();
+class ProjUltime : public Projectile
+{
+public:
+    ProjUltime(int x, int y, Link *link, bool locked = false, BoundingBox *safeBox = 0);
+    ~ProjUltime();
 
-        void projLoop();
-        void draw(int offsetX, int offsetY);
+    void projLoop();
+    void draw(int offsetX, int offsetY);
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-        int getX();
-        int getY();
-        int getDown();
+    int getX();
+    int getY();
+    int getDown();
 
-        void renvoie(Direction dir);
+    void renvoie(Direction dir);
 
-    private :
+private:
+    void computeDxDy();
+    void computeDir();
 
-        void computeDxDy();
-        void computeDir();
+    int speed;
+    double dx;
+    double dy;
+    int force;
+    int parcouru;
+    double histX[16];
+    double histY[16];
+    double longX;
+    double longY;
+    bool retour;
 
-        int speed;
-        double dx;
-        double dy;
-        int force;
-        int parcouru;
-        double histX[16];
-        double histY[16];
-        double longX;
-        double longY;
-        bool retour;
+    Link *link;
 
-        Link* link;
-
-        bool locked;
-        BoundingBox* safeBox;
+    bool locked;
+    BoundingBox *safeBox;
 };
 
-#endif  // ProjUltime.h
+#endif // ProjUltime.h

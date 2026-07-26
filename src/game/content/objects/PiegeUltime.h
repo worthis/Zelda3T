@@ -15,29 +15,29 @@
 
 #include "../../../engine/util/time/Chrono.h"
 
-class PiegeUltime : public Object {
-    public :
-        PiegeUltime(int x, int y, bool autoFire = true);
-        ~PiegeUltime();
+class PiegeUltime : public Object
+{
+public:
+    PiegeUltime(int x, int y, bool autoFire = true);
+    ~PiegeUltime();
 
-        void loop();
-        void draw(int offsetX, int offsetY);
+    void loop();
+    void draw(int offsetX, int offsetY);
 
-        void snipe();
+    void snipe();
 
-        void disable();
+    void disable();
 
-    private :
+private:
+    Chrono chrono;
 
-        Chrono chrono;
+    int anim;
+    int animMax;
+    int vanim;
 
-        int anim;
-        int animMax;
-        int vanim;
+    bool autoFire;
 
-        bool autoFire;
-
-        bool enable;
+    bool enable;
 };
 
-#endif  // PiegeUltime.h
+#endif // PiegeUltime.h

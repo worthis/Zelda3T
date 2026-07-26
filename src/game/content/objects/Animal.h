@@ -15,32 +15,32 @@
 
 #include "../../../engine/util/time/Chrono.h"
 
-class Animal : public Object {
-    public :
-        Animal(int x, int y, int type);
-        ~Animal();
+class Animal : public Object
+{
+public:
+    Animal(int x, int y, int type);
+    ~Animal();
 
-        void loop();
-        void draw(int offsetX, int offsetY);
+    void loop();
+    void draw(int offsetX, int offsetY);
 
-        bool isCollision(Collision c);
+    bool isCollision(Collision c);
 
-        BoundingBox* getBoundingBox();
+    BoundingBox *getBoundingBox();
 
-    private :
+private:
+    void moveX(int dx);
+    void moveY(int dy);
 
-        void moveX(int dx);
-        void moveY(int dy);
+    int type;
 
-        int type;
+    int anim;
+    int animMax;
+    int vanim;
 
-        int anim;
-        int animMax;
-        int vanim;
+    Direction direction;
 
-        Direction direction;
-
-        Chrono chrono;
+    Chrono chrono;
 };
 
-#endif  // Animal.h
+#endif // Animal.h

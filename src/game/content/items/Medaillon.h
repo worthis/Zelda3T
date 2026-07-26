@@ -13,20 +13,20 @@
 
 #include "../types/Item.h"
 
-class Medaillon : public Item {
-    public :
-        Medaillon(int x, int y, int id);
-        ~Medaillon();
+class Medaillon : public Item
+{
+public:
+    Medaillon(int x, int y, int id);
+    ~Medaillon();
 
-        void draw(int offsetX, int offsetY);
+    void draw(int offsetX, int offsetY);
 
-        void action();
+    void action();
 
-        bool isPickable();
+    bool isPickable();
 
-    private :
-
-        int id;
+private:
+    int id;
 };
 
-#endif  // Medaillon.h
+#endif // Medaillon.h
