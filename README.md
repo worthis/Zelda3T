@@ -49,7 +49,7 @@ make -f Makefile.switch -j$(nproc)
 ## Installation
 
 1. Connect the SD card to your computer
-2. Create the folder `/switch/ZeldaOLB/` on the SD card (if it doesn't exist)
-3. Copy ZeldaOLB_nx.nro into `/switch/ZeldaOLB/`
+2. Create the folder `/switch/Zelda3T/` on the SD card (if it doesn't exist)
+3. Copy Zelda3T_nx.nro into `/switch/Zelda3T/`
 4. Copy the `data/` folder next to the NRO file
 5. Safely eject the SD card and insert it into the console
